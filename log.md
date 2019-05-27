@@ -5,5 +5,6 @@
 - retrain the model
 - analyse reflective data and achieve how can we divide the data
 - read paper about 'time period in tweets' to see how researchers dealing with the topic
+- 
 
 
