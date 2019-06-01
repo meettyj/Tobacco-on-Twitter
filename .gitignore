@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# add by yijun
+alcohol classifiers/
+data/
+__private.py
+Alcohol Classifiers from Jonathan.ipynb
+Alcohol Classifiers from Jonathan.pdf
