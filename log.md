@@ -6,7 +6,7 @@
 
 
 # Done
-- ~~90-10 train-test set division~~
-- ~~Using AUC and F1 metrics to evaluate the pre-trained model's performance~~
-- ~~Find classifer code in Sepetemper_classifer~~
-- ~~Retrain the model~~
+- 90-10 train-test set division
+- Using AUC and F1 metrics to evaluate the pre-trained model's performance
+- Find classifer code in Sepetemper_classifer
+- Retrain the model
