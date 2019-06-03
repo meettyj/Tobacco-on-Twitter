@@ -11,6 +11,7 @@
 - Retrain the initial model (from pickle file) and evaluate performance
 - Reconstruce the LR model structure in alcohol level 
 - Training the LR model and comparing performance with the initial one
+- Grid search on LR model
 
 # Results
 ## LR
