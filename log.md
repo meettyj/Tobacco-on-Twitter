@@ -1,5 +1,5 @@
 # TODO
-- Build SVM and Random Forest model on alcohol dataset
+- Check the influence of changing location to each notebook
 - Evaluate the models (LR, SVM, RF) on first person level
 - Analyse reflective data and achieve how can we divide the data
 - Read paper about 'time period in tweets' to see how researchers dealing with the topic
@@ -13,6 +13,7 @@
 - Training the LR model and comparing performance with the initial one
 - Grid search on LR model
 - Cross validation on LR model
+- Build SVM and Random Forest model on alcohol dataset
 
 # Results
 ## Alcohol Level
