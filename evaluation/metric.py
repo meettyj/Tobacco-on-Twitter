@@ -26,8 +26,12 @@ def computeF1Score(y_gt, y_predict):
 
 
 # Please be careful that the input clf need to be trained(after fit training data)
-def computeAUC(clf, X_test, y_test, plot=False, plotTitle=""):
-    y_score = clf.decision_function(X_test)
+def computeAUC(clf, X_test, y_test, plot=False, plotTitle="", RF=False):
+    if RF == False:
+        y_score = clf.decision_function(X_test)
+    else:
+        # make sure take the prediction probalibity of class 1.
+        y_score = clf.predict_proba(X_test)[:,1]
 #     print('y_score: ',y_score)
     y_test = np.array(y_test)
     fpr, tpr, _ = roc_curve(y_test, y_score)
