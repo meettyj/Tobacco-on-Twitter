@@ -31,7 +31,10 @@ Conclusion: After setting specific parameters of tf-idf. All of these three clas
 - Paper: 0.82 in F1, 0.84 in AUC
 - Reconstructed model in Testing set:  0.87 in F1, 0.86 in AUC
 
+P.S. We can get almost 1 F1 score and AUC score by directly testing performance of initial model (LR) on whole dataset before re-training, which is useless since it was trained on whole dataset. Just for recording.
+
 ## First Person Level
+
 ### LR
 - Paper: 0.76 in F1, 0.70 in AUC
 - Reconstructed model in Testing set:  0.79 in F1, 0.74 in AUC
@@ -45,3 +48,5 @@ Conclusion: After setting specific parameters of tf-idf. All of these three clas
 - Paper: 0.77 in F1, 0.63 in AUC
 - Reconstructed model in Testing set:  0.74 in F1, 0.66 in AUC
 - The performance in training set is really good (almost 1). However, the performance in test set is not so well. Besides, the improvement after parameters updated (from initial model) is small. Maybe grid search and cross validation may help improve the performance
+
+P.S. We can get 0.83 F1 score and 0.84 AUC score by directly testing performance of initial model (SVM) on first Person Level dataset before re-training. Just for recording.
