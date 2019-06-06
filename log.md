@@ -1,6 +1,5 @@
 # TODO
-- Check the influence of changing location to each notebook
-- Evaluate the models (LR, SVM, RF) on first person level
+- Evaluate the models (LR, SVM, RF) on behavior level
 - Analyse reflective data and achieve how can we divide the data
 - Read paper about 'time period in tweets' to see how researchers dealing with the topic
 
@@ -14,6 +13,7 @@
 - Grid search on LR model
 - Cross validation on LR model
 - Build SVM and Random Forest model on alcohol dataset
+- Evaluate the models (LR, SVM, RF) on first person level
 
 # Results
 ## Alcohol Level
@@ -50,3 +50,9 @@ P.S. We can get almost 1 F1 score and AUC score by directly testing performance 
 - The performance in training set is really good (almost 1). However, the performance in test set is not so well. Besides, the improvement after parameters updated (from initial model) is small. Maybe grid search and cross validation may help improve the performance
 
 P.S. We can get 0.83 F1 score and 0.84 AUC score by directly testing performance of initial model (SVM) on first Person Level dataset before re-training. Just for recording.
+
+## Behavior Level (current, looking, reflecting)
+### LR
+- Paper: [0.72, 0.64, 0.53] in F1, [0.81, 0.79, 0.77] in AUC
+- Initial model in Testing set:  [0.69, 0.57, 0.40] in F1, [0.75, 0.79, 0.75] in AUC
+- Reconstructed model in Testing set:  
