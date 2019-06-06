@@ -65,7 +65,7 @@ def computeAUCBehavior(clf, X_test, y_test, plot=False, plotTitle="", RF=False):
         y_score = clf.decision_function(X_test)
     else:
         # make sure take the prediction probalibity of class 1.
-        y_score = clf.predict_proba(X_test)[:,1]
+        y_score = clf.predict_proba(X_test)
 #     print('y_score[1]: ', y_score[1]) # should be 3
 
     y_test = label_binarize(np.array(y_test), [0,1,2])
