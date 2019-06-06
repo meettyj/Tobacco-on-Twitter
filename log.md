@@ -52,7 +52,9 @@ P.S. We can get almost 1 F1 score and AUC score by directly testing performance 
 P.S. We can get 0.83 F1 score and 0.84 AUC score by directly testing performance of initial model (SVM) on first Person Level dataset before re-training. Just for recording.
 
 ## Behavior Level (current, looking, reflecting)
+Conclusion: The performance of initial model is not too well. try grid search.
 ### LR
+
 - Paper: [0.72, 0.64, 0.53] in F1, [0.81, 0.79, 0.77] in AUC
 - Initial model in Testing set:  [0.69, 0.57, 0.40] in F1, [0.75, 0.79, 0.75] in AUC
 - Reconstructed model in Testing set:  
