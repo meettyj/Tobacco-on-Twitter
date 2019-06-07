@@ -15,7 +15,7 @@ Strongly Suggest using [Anaconda](https://docs.anaconda.com/anaconda/install/) t
   $ jupyter --version
   4.2.0
   ```
-For those who are sick of constantly installing specific versions of packages, complete environment information that supports all of the experiments can be found in [environment.yml](). You can simply create the exactly same environment by following the instruction of [Creating an environment from an environment.yml file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+For those who are sick of constantly installing specific versions of packages, complete environment information that supports all of the experiments can be found in [environment.yml](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/environment.yml). You can simply create the exactly same environment by following the instruction of [Creating an environment from an environment.yml file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
 
 ## Test your setup
