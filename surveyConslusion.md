@@ -23,17 +23,21 @@ Page: 53-56. Table A6.3-A6.5
 **Table Name:** [codebook including questions like how many Days in past 30 do you had alcoholic beverage
 ](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
 
-Page: 47.
+Page: 47-48.
 
 **Conclusion:** The codebook seems useless. The result is not specific and hard to use. May only give a view how this survey is look like.
 However, [another website](https://www.cdc.gov/brfss/brfssprevalence/index.html) provide some insight about the prevalence & trend in different location. 
-Maybe we can incorporate the location information to do some work. 
 Class are set to different state under topic of alcohol consumption, binge drinking, chronic drinking and heavy drinking.
+Maybe we can incorporate the location information to do some work. But for the current alcohol data, it didn't include any location information.
 
-# 
-**Table Name:** []()
 
-**Conclusion:** 
+# 2017 Youth Risk Behavior Surveillance (YRBS)
+**Table Name:** [Percentage of high school students who rode with a driver who had been drinking alcohol,* by sex, race/ethnicity, grade, sexual identity, and sex of sexual ](https://www.cdc.gov/healthyyouth/data/yrbs/pdf/2017/ss6708.pdf)
+
+Page: 136-137. Table 9-10
+
+**Conclusion:** The percentage are all almost 15% to 20%. The difference between different grade is small. For the US survey sites (Table 10), it didn't have results for New York state.
+
 
 
 
