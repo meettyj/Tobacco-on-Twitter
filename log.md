@@ -1,6 +1,9 @@
 # TODO
-- Analyse reflective data and achieve how can we divide the data
-- Read paper about 'time period in tweets' to see how researchers dealing with the topic
+
+Maybe we can compare our analysis with the survey report. 
+- Summarize what questions do the current survey have.
+- Ask if we got 80k data in total, so we can determine the frequency of people drink in a month. (e.g. if the result of our survey is high, we can say the social media is a good resource to reveal people living state)
+- Pretrained classifier to classify the time from text and tweet?
 
 
 # Done
@@ -14,6 +17,8 @@
 - Build SVM and Random Forest model on alcohol dataset
 - Evaluate the models (LR, SVM, RF) on first person level
 - Evaluate the models (LR, SVM, RF) on behavior level
+- Analyse reflective data and achieve how can we divide the data
+- Read paper about 'time period in tweets' to see how researchers dealing with the topic
 
 # Results
 ## Alcohol Level
