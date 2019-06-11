@@ -1,12 +1,16 @@
+# Conclusion
+
+Maybe we can consider drinking frequency of past month among students in grades 7, 9 and 11. But in this situation, we need to figure out the high school students from tweet data. Another possibility is we can find the frequency of people (not only students) drinking within the past 30 days. I thought we can compare it with BRFSS data. 
+
+Frequency: Alcohol use, Binge drinking (and heavy drinking. didn't include in CHKS. But we may have exact drinking times in BRFSS data.)
+
+
 # Questions Summary
 1. Alcohol Use in **Lifetime, Past Year, and Past Month** among Persons Aged 12 or Older. (Include frequency. by Age Category. 2015-2016. NSDUH)
 1. Trends in Lifetime Prevalence of Use of Various alcohol in Grades 8, 10, and 12 (1991-2018. Monitor) -> **Year**
 1. **Lifetime, times and frequency within past month** for alcohol use in Grades 7, 9, 11. (2013-15, 2015-17. CHKS)
 1. (todo: see raw data of BRFSS) If we can get Section Number and question number to extract more specific answer of how many days drink per week/month.
-1. 
-
-Maybe we can consider drinking frequency of past month among students in grades 7, 9 and 11.
-Frequency: Alcohol use, Binge drinking (and heavy drinking. didn't include in CHKS)
+1.  Percentage of high school students who rode with a driver who had been drinking alcohol,* by sex, race/ethnicity, grade, sexual identity, and sex of sexual contacts. (2017. YRBS) -> **we do not have riding information**
 
 
 # Survey Summary 
