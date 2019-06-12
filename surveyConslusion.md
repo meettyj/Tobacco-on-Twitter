@@ -1,3 +1,18 @@
+# Interesting topics
+
+1. drive and drinking: [link: page 139](https://www.cdc.gov/healthyyouth/data/yrbs/pdf/2017/ss6708.pdf) (race, grade, sexual identity)
+[link: page 57](https://data.calschls.org/resources/Biennial_State_1517.pdf) (grade)
+1. Cessation Attempts. [link: page 57](https://data.calschls.org/resources/Biennial_State_1517.pdf) (grade)
+1. Alcohol Use by Race/Ethnicity. [link: page 70](https://data.calschls.org/resources/Biennial_State_1517.pdf) (grade, at school and not at school)
+1. Sources for Obtaining Alcohol. [link: page 84](https://data.calschls.org/resources/Biennial_State_1517.pdf) (grade)
+1. Alcohol Use with demographic characteristics. [link: page: 811](https://www.samhsa.gov/data/sites/default/files/NSDUH-DetTabs-2016/NSDUH-DetTabs-2016.pdf)
+1. Alcohol Use with Geographic and Socioeconomic Characteristics. [link: page: 837](https://www.samhsa.gov/data/sites/default/files/NSDUH-DetTabs-2016/NSDUH-DetTabs-2016.pdf)
+
+1. Reduce alcohol use for blood pressure [link: page 79](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
+1. Healthcare providers/routine checkup ask to reduce alcoholf [link: page 104](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
+1. Drunk or “High” on School Property. [link: page 58](https://data.calschls.org/resources/Biennial_State_1517.pdf) (grade)
+
+
 # Conclusion
 
 Maybe we can consider drinking frequency of past month among students in grades 7, 9 and 11. But in this situation, we need to figure out the high school students from tweet data. Another possibility is we can find the frequency of people (not only students) drinking within the past 30 days. I thought we can compare it with BRFSS data. 
@@ -19,7 +34,7 @@ Frequency: Alcohol use, Binge drinking (and heavy drinking. didn't include in CH
 
 Page: 783-784. Table 2.19A & 2.19B
 
-**Conclusion:** Percentage goes down
+**Conclusion:** Percentage goes down. To view the index of whole sections, please go to page 20.
 
 ## Monitoring The Future’s 2018 National Adolescent Drug Trends 
 **Table Name:** [Trends in Lifetime Prevalence of Use of Various Drugs in Grades 8, 10, and 12 (Contains 2 rows for alcohol)](http://monitoringthefuture.org/data/18data/18drtbl1.pdf)
