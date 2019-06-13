@@ -7,10 +7,21 @@
 
 ## Statistics
 - **DRNKANY5:** Adults who reported having had at least one drink of alcohol in the past 30 days. (based on ALCDAY5)
-- **DROCDY3_:** Drink-occasions-per-day. (based on ALCDAY5)
-- **_RFBING5:** Binge drinkers. (based on ALCDAY5 and DRNK3GE5)
-- **_DRNKWEK:** Total number of alcoholic beverages consumed per week. (based on ALCDAY5 and AVEDRNK2)
+- **DROCDY3_:** Drink-occasions-per-day. (based on ALCDAY5, result in percentage)
+- **_RFBING5:** Binge drinkers.  (males having five or more drinks on one occasion, females having four or more drinks on one
+occasion) (based on ALCDAY5 and DRNK3GE5)
+- **_DRNKWEK:** Total number of alcoholic beverages consumed per week. (AVEDRNK2 * DROCDY3_ * 7, result in percentage)
 - **_RFDRHV5:** Heavy drinkers. (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (based on _DRNKWEK and sex)
+
+## Example
+Take id=20001 as an example. 
+
+**Questions:**
+During the past 30 days, he/she drinks twice a week, each time have one drink(e.g. 12-ounce beer). Didn't have 5 or 4 drinks within one occasion. Have 2 drinks at most for one occasion. 
+
+**Statistics:**
+He/She had at least 1 drink during the past 30 days. Got 29% for drink occasions per day. Isn't a binge drinker. Consumed 2 alcoholic beverages in total per week. Isn't a heavy drinker.
+
 
 # Data
 
@@ -19,8 +30,8 @@
 It contains 450,016 rows of data in total.
 
 
-
-
+# Appendix
+Specific calculation formula of statistic features can be found in: [BRFSS Calculated Variables](https://www.cdc.gov/brfss/annual_data/2015/pdf/2015_calculated_variables_version4.pdf)
 
 
 
