@@ -8,8 +8,8 @@
 1. Alcohol Use with demographic characteristics. [link: page: 811](https://www.samhsa.gov/data/sites/default/files/NSDUH-DetTabs-2016/NSDUH-DetTabs-2016.pdf)
 1. Alcohol Use with Geographic and Socioeconomic Characteristics. [link: page: 837](https://www.samhsa.gov/data/sites/default/files/NSDUH-DetTabs-2016/NSDUH-DetTabs-2016.pdf)
 
-1. Reduce alcohol use for blood pressure [link: page 79](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
-1. Healthcare providers/routine checkup ask to reduce alcoholf [link: page 104](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
+1. Reduce alcohol use for blood pressure. [link: page 79](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
+1. Healthcare providers/routine checkup ask to reduce alcohol. [link: page 104](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf)
 1. Drunk or “High” on School Property. [link: page 58](https://data.calschls.org/resources/Biennial_State_1517.pdf) (grade)
 
 
