@@ -56,6 +56,8 @@ Page: 53-56. Table A6.3-A6.5
 
 Page: 47-48.
 
+Page: 172-174.
+
 **Conclusion:** The codebook seems useless. The result is not specific and hard to use. May only give a view how this survey is look like.
 However, [another website](https://www.cdc.gov/brfss/brfssprevalence/index.html) provide some insight about the prevalence & trend in different location. 
 Class are set to different state under topic of alcohol consumption, binge drinking, chronic drinking and heavy drinking.
