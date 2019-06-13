@@ -31,8 +31,12 @@ It contains 450,016 rows of data in total.
 
 
 # Appendix
-Specific calculation formula of statistic features can be found in: [BRFSS Calculated Variables](https://www.cdc.gov/brfss/annual_data/2015/pdf/2015_calculated_variables_version4.pdf)
+1. Specific calculation formula of statistic features can be found in: [BRFSS Calculated Variables](https://www.cdc.gov/brfss/annual_data/2015/pdf/2015_calculated_variables_version4.pdf).
 
+1. Specific description of cell numbers can be found in: [BRFSS Codebook](https://www.cdc.gov/brfss/annual_data/2017/pdf/codebook17_llcp-v2-508.pdf).
+Page: 47-48. 172-174.
+
+1. For more suvery information, please check [Survey Conslusion](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/Analysis/surveyConslusion.md).
 
 
 
