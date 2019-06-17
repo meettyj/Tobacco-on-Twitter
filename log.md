@@ -1,7 +1,6 @@
 # TODO
 
 Maybe we can compare our analysis with the survey report. 
-- Summarize what questions do the current survey have.
 - Ask if we got 80k data in total, so we can determine the frequency of people drink in a month. (e.g. if the result of our survey is high, we can say the social media is a good resource to reveal people living state)
 - Pretrained classifier to classify the time from text and tweet?
 
@@ -19,6 +18,7 @@ Maybe we can compare our analysis with the survey report.
 - Evaluate the models (LR, SVM, RF) on behavior level
 - Analyse reflective data and achieve how can we divide the data
 - Read paper about 'time period in tweets' to see how researchers dealing with the topic
+- Summarize what questions do the current survey have.
 
 # Results
 ## Alcohol Level
