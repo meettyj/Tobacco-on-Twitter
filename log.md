@@ -1,8 +1,10 @@
 # TODO
+- Using Twitter API to find corresponding user ID of tweets ID.
+- Reading paper about "Causal Discovery". Trying to match experiments and define our problem.
 
-Maybe we can compare our analysis with the survey report. 
-- Ask if we got 80k data in total, so we can determine the frequency of people drink in a month. (e.g. if the result of our survey is high, we can say the social media is a good resource to reveal people living state)
-- Pretrained classifier to classify the time from text and tweet?
+
+
+
 
 
 # Done
@@ -71,3 +73,9 @@ P.S. We can get 0.83 F1 score and 0.84 AUC score by directly testing performance
 ### RF
 - Paper: [0.70, 0.53, 0.21] in F1, [0.72, 0.73, 0.55] in AUC
 - Reconstructed model in Testing set: [0.72, 0.53, 0.34] in F1, [0.73, 0.76, 0.71] in AUC
+
+## Other thoughts
+
+Maybe we can compare our analysis with the survey report. 
+- For the entire 80k tweets data, which is collected in June 2015, maybe we can check the frequency of people drink in a month. (e.g. if the result of our survey is high, we can say the social media is a good resource to reveal people living state)
+
