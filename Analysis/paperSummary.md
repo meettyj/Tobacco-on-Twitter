@@ -31,6 +31,8 @@ Identify pairs of units where one has received a treatment and the other has not
   - Disease
   - Male and Female
   - Body Weight
+  - Does drinking alcohol cause people to post more tweets?
+  - Does drinking alcohol cause people to be more offensive? (e.g. more dirty word)
   - Attitude towards life by annalyzing attitude towards alcohol?
   - the different possible dissease that may happened in male and female. (e.g. breast cancer & fetal alcohol spectrum disorder (FASD) in female) 
 
