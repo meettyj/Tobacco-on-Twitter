@@ -31,16 +31,17 @@ Identify pairs of units where one has received a treatment and the other has not
   - Disease
   - Male and Female
   - Body Weight
+  - break up
   - Does drinking alcohol cause people to post more tweets?
   - Does drinking alcohol cause people to be more offensive? (e.g. more dirty word)
   - Attitude towards life by annalyzing attitude towards alcohol?
   - the different possible dissease that may happened in male and female. (e.g. breast cancer & fetal alcohol spectrum disorder (FASD) in female) 
 
 ## The Natural Experiment Design
-Based on the change of social media itself.
+Based on the change of social media itself. I guess we need to check the updating history of Twitter.
 
 ## The Interrupted Time-Series Design
-Based on time to evaluate the casual relationship.
+Some interruption occurs, based on time to evaluate the casual relationship.
 
 
 
