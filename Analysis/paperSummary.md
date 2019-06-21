@@ -68,14 +68,22 @@ Based on the change of social media itself. I guess we need to check the updatin
 
 - [Introducing Twitter Lite (April 2017)](https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html)
 - [Twitter Lite available in 24 more countries (November 2017)](https://blog.twitter.com/en_us/topics/product/2017/twitter-lite-in-the-google-play-store-in-24-more-countries.html) 
+- [140 character -> 280 character (September 2017)](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html)
 
+  [Survey about this change (November 2017)](https://blog.twitter.com/en_us/topics/product/2017/tweetingmadeeasier.html)
 
+- [Remove trolls to improve healthy conversation environment (May 2018)](https://blog.twitter.com/en_us/topics/product/2018/Serving_Healthy_Conversation.html)
+
+- Several safety actions (e.g. remove abuse):
+  [(July 2017)](https://blog.twitter.com/en_us/topics/product/2017/Our-Safety-Work-Results-Update.html)
+  [(March 2017)](https://blog.twitter.com/en_us/topics/product/2017/our-latest-update-on-safety.html)
+  [(February 2017)](https://blog.twitter.com/en_us/topics/product/2017/an-update-on-safety.html)
 
 ## The Interrupted Time-Series Design
 Some interruption occurs, based on time to evaluate the casual relationship.
 
 
-
+## Law
 
 
 
