@@ -38,7 +38,7 @@ Identify pairs of units where one has received a treatment and the other has not
   - the different possible dissease that may happened in male and female. (e.g. breast cancer & fetal alcohol spectrum disorder (FASD) in female) 
 
 ## The Natural Experiment Design
-Based on the change of social media itself. I guess we need to check the updating history of Twitter.
+Based on the change of social media itself. I guess we need to check the updating history of Twitter. Here is the general updating history of Twitter: https://blog.twitter.com/en_us/topics/product.html
 
 - [More clarity on reported Tweets and enforcement (October 2018)](https://blog.twitter.com/en_us/topics/product/2018/more-clarity-on-reported-tweets-and-enforcement.html)
     
@@ -61,8 +61,14 @@ Based on the change of social media itself. I guess we need to check the updatin
   If ![](http://latex.codecogs.com/gif.latex?diff<0), indicates people tend to retweet when they know their tweets violate the rule. 
   If ![](http://latex.codecogs.com/gif.latex?diff>0), indicates people tend to leave their tweets when they know their tweets violate the rule. 
   If ![](http://latex.codecogs.com/gif.latex?diff\\to0), indicates the policy has no influence. 
-  
- 
+
+  We also need to make sure, if we use frequency in a period of time to evaluate the difference, no other influential policy updating within that time.
+
+
+
+- [Introducing Twitter Lite (April 2017)](https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html)
+- [Twitter Lite available in 24 more countries (November 2017)](https://blog.twitter.com/en_us/topics/product/2017/twitter-lite-in-the-google-play-store-in-24-more-countries.html) 
+
 
 
 ## The Interrupted Time-Series Design
