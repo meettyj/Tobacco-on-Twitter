@@ -32,6 +32,9 @@ Identify pairs of units where one has received a treatment and the other has not
   - Male and Female
   - Body Weight
   - break up
+  - **Does drinking alcohol cause people to smoking or taking (more) drug?**
+  
+    This is interesting, but how can we use what we have now (the data) to answer this question?
   - Does drinking alcohol cause people to post more tweets?
   - Does drinking alcohol cause people to be more offensive? (e.g. more dirty word)
   - Attitude towards life by annalyzing attitude towards alcohol?
@@ -78,6 +81,13 @@ Based on the change of social media itself. I guess we need to check the updatin
   [(July 2017)](https://blog.twitter.com/en_us/topics/product/2017/Our-Safety-Work-Results-Update.html)
   [(March 2017)](https://blog.twitter.com/en_us/topics/product/2017/our-latest-update-on-safety.html)
   [(February 2017)](https://blog.twitter.com/en_us/topics/product/2017/an-update-on-safety.html)
+
+- [Twitter rules](https://help.twitter.com/en/rules-and-policies/twitter-rules): 
+
+  I was trying to find some history rules that Twitter declared, trying to find where the change is, and how they may influence people habits. However, it seems hard to find those past rule. All I find is a [general description of the change happened before 2016](https://www.vice.com/en_us/article/z43xw3/the-history-of-twitters-rules). Since the data we collected now are based on 2017 and the time after, even if we cannot get the specific changed sentence, we can get some view about how it changed [here on November 2017](https://blog.twitter.com/en_us/topics/company/2017/Clarifying_The_Twitter_Rules.html) and [here on December 2017](https://blog.twitter.com/en_us/topics/company/2017/safetypoliciesdec2017.html). I thought if we want to do some research based on the changing of twitter rule, we can trying to match it current rules, but currently I have no idea how to use it.
+
+
+
 
 ## The Interrupted Time-Series Design
 Some interruption occurs, based on time to evaluate the casual relationship.
