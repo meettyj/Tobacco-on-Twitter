@@ -40,6 +40,19 @@ Identify pairs of units where one has received a treatment and the other has not
 ## The Natural Experiment Design
 Based on the change of social media itself. I guess we need to check the updating history of Twitter.
 
+- [More clarity on reported Tweets and enforcement (October 2018)](https://blog.twitter.com/en_us/topics/product/2018/more-clarity-on-reported-tweets-and-enforcement.html)
+    
+  Question: When people know their tweet violates the rule, are they tends to retweet it or leave it?
+  
+  Treatment: They know (T = 1). They don't know (T = 0).
+  
+  Outcome: The frequency of posting within N days. 
+
+  ![](http://latex.codecogs.com/gif.latex?freq\=\\frac{\\sum_{i\=0}^{N}num_i(posting)}{N},N\\in\\{1,3,5,10,15,20,25,30\\})
+
+
+  Does this policy encourage people to post more or post less?
+
 ## The Interrupted Time-Series Design
 Some interruption occurs, based on time to evaluate the casual relationship.
 
