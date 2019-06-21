@@ -44,14 +44,26 @@ Based on the change of social media itself. I guess we need to check the updatin
     
   Question: When people know their tweet violates the rule, are they tends to retweet it or leave it?
   
-  Treatment: They know (T = 1). They don't know (T = 0).
+  Treatment: They don't know (Treat = 0). They know (Treat = 1). 
   
-  Outcome: The frequency of posting within N days. 
+  Outcome: The frequency of tweets posting within N days. 
 
-  ![](http://latex.codecogs.com/gif.latex?freq\=\\frac{\\sum_{i\=0}^{N}num_i(posting)}{N},N\\in\\{1,3,5,10,15,20,25,30\\})
+  ![](http://latex.codecogs.com/gif.latex?T<t,Treat\=0;T\\geq{t},Treat\=1)
 
+  Here T indicates Time. Given ![](http://latex.codecogs.com/gif.latex?N\\in\\{1,3,5,10,15,20,25,30\\}), we have
+    
+  ![](http://latex.codecogs.com/gif.latex?freq_{before}\=\\frac{\\sum_{i\=t-N}^{t}num_i(posting)}{N}),  ![](http://latex.codecogs.com/gif.latex?freq_{after}\=\\frac{\\sum_{i\=t}^{t+N}num_i(posting)}{N})
+  
 
-  Does this policy encourage people to post more or post less?
+  ![](http://latex.codecogs.com/gif.latex?diff\=freq_{before}-freq_{after})
+
+  Here ![](http://latex.codecogs.com/gif.latex?freq_{before}) indicates frequency before Time t. ![](http://latex.codecogs.com/gif.latex?freq_{after}) indicates frequency after Time t. 
+  If ![](http://latex.codecogs.com/gif.latex?diff<0), indicates people tend to retweet when they know their tweets violate the rule. 
+  If ![](http://latex.codecogs.com/gif.latex?diff>0), indicates people tend to leave their tweets when they know their tweets violate the rule. 
+  If ![](http://latex.codecogs.com/gif.latex?diff\\to0), indicates the policy has no influence. 
+  
+ 
+
 
 ## The Interrupted Time-Series Design
 Some interruption occurs, based on time to evaluate the casual relationship.
