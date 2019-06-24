@@ -45,7 +45,7 @@ Based on the change of social media itself. I guess we need to check the updatin
 
 - [More clarity on reported Tweets and enforcement (October 2018)](https://blog.twitter.com/en_us/topics/product/2018/more-clarity-on-reported-tweets-and-enforcement.html)
     
-  Question: When people know their tweet violates the rule, are they tends to retweet it or leave it?
+  **Question: When people know their tweet violates the rule, are they tends to retweet it or leave it?**
   
   Treatment: They don't know (Treat = 0). They know (Treat = 1). 
   
@@ -72,7 +72,7 @@ Based on the change of social media itself. I guess we need to check the updatin
 - [Introducing Twitter Lite (April 2017)](https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html)
 - [Twitter Lite available in 24 more countries (November 2017)](https://blog.twitter.com/en_us/topics/product/2017/twitter-lite-in-the-google-play-store-in-24-more-countries.html) 
   
-  The geographic information within the tweets we collect is only in US?
+  Worldwide alcohol/tobacco use?
 
 - [140 character -> 280 character (September 2017)](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html)
 
@@ -97,6 +97,62 @@ Some interruption occurs, based on time to evaluate the casual relationship.
 
 
 ## Law
+
+### San Francisco banned flavored tobacco sales
+[Initial proposal (June 20, 2017)](https://www.cnn.com/2017/06/22/health/san-francisco-vaping-menthols-ban-bn/index.html)
+
+[Ban approved (June 5, 2018)](https://www.cnbc.com/2018/06/06/san-francisco-approves-ban-on-menthol-cigarettes-and-flavored-e-cigarette-liquids.html)
+
+[Full enforcement of that law began (Jan 1, 2019)](https://www.kalw.org/post/san-francisco-banned-flavored-tobacco-sales-now-what#stream/0)
+
+I thought maybe we can use Interrupted Time-Series experiment to evaluate the influence of this law brings to people's life. 
+
+**Question1: Does this law decrease the use of tobacco in San Francisco? What are the people's attitudes towards tobacco at different stages of the law?**
+
+Treatment: The time seperated by three time points (proposal, approval, enforcement). 
+
+Outcome: The frequency of tweets posting related to tobacco within N days. 
+
+
+Here we set the time of proposal as *t1*, the time of approval as *t2* and the time of enforcement as *t3*. In this case, we have
+
+![](http://latex.codecogs.com/gif.latex?T<t1,Treat\=0;t1\\leq{T}<t2,Treat\=1;)
+![](http://latex.codecogs.com/gif.latex?t2\\leq{T}<t3,Treat\=2;T\\geq{t3},Treat\=3)
+
+Here T indicates Time. Given ![](http://latex.codecogs.com/gif.latex?N\\in\\{1,3,5,10,15,20,25,30\\}) and a specific time point ![](http://latex.codecogs.com/gif.latex?t\\in\\{t1,t2,t3\\}), we have
+
+![](http://latex.codecogs.com/gif.latex?freq_{before_t}\=\\frac{\\sum_{i\=t-N}^{t}num_i(posting)}{N}),  ![](http://latex.codecogs.com/gif.latex?freq_{after_t}\=\\frac{\\sum_{i\=t}^{t+N}num_i(posting)}{N})
+
+![](http://latex.codecogs.com/gif.latex?diff_t\=freq_{before_t}-freq_{after_t})
+
+Here ![](http://latex.codecogs.com/gif.latex?freq_{before_t}) indicates frequency before Time t. ![](http://latex.codecogs.com/gif.latex?freq_{after_t}) indicates frequency after Time t. 
+If ![](http://latex.codecogs.com/gif.latex?diff_t<0), indicates the use of tobacco has decreased. 
+If ![](http://latex.codecogs.com/gif.latex?diff_t>0), indicates the use of tobacco has increased. 
+If ![](http://latex.codecogs.com/gif.latex?diff_t\\to0), indicates the law at time point *t* has no influence. 
+
+
+
+**Question2: Does this law increase the use of alcohol in San Francisco?**
+
+Treatment: Three time points (proposal, approval, enforcement). 
+
+Outcome: The frequency of tweets posting related to alchol within N days. 
+
+**Question3: Does this law increase the use of tobacco in nearby city?**
+
+Treatment: Three time points (proposal, approval, enforcement). 
+
+Outcome: The frequency of tweets posting related to tobacco within N days. 
+
+
+
+
+
+
+
+
+
+
 
 
 
