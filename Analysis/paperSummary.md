@@ -91,12 +91,13 @@ Based on the change of social media itself. I guess we need to check the updatin
 
 
 
+## Law (The Interrupted Time-Series Design)
 
-## The Interrupted Time-Series Design
-Some interruption occurs, based on time to evaluate the casual relationship.
+Meaning of The Interrupted Time-Series Design: Some interruption occurs, based on time to evaluate the casual relationship.
 
+Basically, if we want to find out how these kind of laws influence our daily use of tobacco, we need to build the relationship between 'the frequency we tweet tobacco' and 'how often we use tobacco in our daily life'. We cannot simply assume the more we tweet, the more we use. Can we?
 
-## Law
+Or if we want to find how people think of tobacco after some specific law, we gonna take a NLP analysis of the tweet content. 
 
 ### San Francisco banned flavored tobacco sales
 [Initial proposal (June 20, 2017)](https://www.cnn.com/2017/06/22/health/san-francisco-vaping-menthols-ban-bn/index.html)
