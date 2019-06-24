@@ -145,6 +145,21 @@ Treatment: Three time points (proposal, approval, enforcement).
 Outcome: The frequency of tweets posting related to tobacco within N days. 
 
 
+### Laws regarding indoor e-cigarette use and smoking in restaurants, bars, and worksites
+
+[State Laws Regarding Indoor Public Use, Retail Sales, and Prices of Electronic Cigarettes](https://www.cdc.gov/mmwr/volumes/66/wr/mm6649a1.htm)
+
+[List of vaping bans in the United States](https://en.wikipedia.org/wiki/List_of_vaping_bans_in_the_United_States)
+
+Not too many state proposed the law in 2017, 2018 and 2019. Most state band vaping before 2017.
+
+**New York (November 22, 2017)**: Statewide vaping ban. A law went into effect prohibiting vaping everywhere that smoking is banned, including all enclosed workplaces, bars and restaurants.
+
+**Rhode Island (2018)**: Statewide vaping ban.
+
+### [Does taxing on e-cigarette prevent people to use them?](https://publichealthlawcenter.org/sites/default/files/States-with-Laws-Taxing-ECigarettes-March2019.pdf)
+
+The evaluation method is same as before. Use frequency to determine the influence. Can incorporate geographic information. States that has related laws are California, Delaware, Kansas, New Jersey. The law in these four states are effective since 2017.
 
 
 
