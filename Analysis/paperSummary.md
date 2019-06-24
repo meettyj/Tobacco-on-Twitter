@@ -71,6 +71,9 @@ Based on the change of social media itself. I guess we need to check the updatin
 
 - [Introducing Twitter Lite (April 2017)](https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html)
 - [Twitter Lite available in 24 more countries (November 2017)](https://blog.twitter.com/en_us/topics/product/2017/twitter-lite-in-the-google-play-store-in-24-more-countries.html) 
+  
+  The geographic information within the tweets we collect is only in US?
+
 - [140 character -> 280 character (September 2017)](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html)
 
   [Survey about this change (November 2017)](https://blog.twitter.com/en_us/topics/product/2017/tweetingmadeeasier.html)
