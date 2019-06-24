@@ -157,7 +157,9 @@ Not too many state proposed the law in 2017, 2018 and 2019. Most state band vapi
 
 **Rhode Island (2018)**: Statewide vaping ban.
 
-### [Does taxing on e-cigarette prevent people to use them?](https://publichealthlawcenter.org/sites/default/files/States-with-Laws-Taxing-ECigarettes-March2019.pdf)
+### Does taxing on e-cigarette prevent people to use them?
+
+[related law effective time](https://publichealthlawcenter.org/sites/default/files/States-with-Laws-Taxing-ECigarettes-March2019.pdf)
 
 The evaluation method is same as before. Use frequency to determine the influence. Can incorporate geographic information. States that has related laws are California, Delaware, Kansas, New Jersey. The law in these four states are effective since 2017.
 
