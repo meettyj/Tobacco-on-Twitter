@@ -1,8 +1,5 @@
 # TODO
 - Using Twitter API to find corresponding user ID of tweets ID.
-- Reading paper about "Causal Discovery". Trying to match experiments and define our problem.
-
-
 
 
 
@@ -21,6 +18,7 @@
 - Analyse reflective data and achieve how can we divide the data
 - Read paper about 'time period in tweets' to see how researchers dealing with the topic
 - Summarize what questions do the current survey have.
+- Reading paper about "Causal Discovery". Trying to match experiments and define our problem.
 
 # Results
 ## Alcohol Level
