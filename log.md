@@ -1,7 +1,5 @@
 # TODO
-- Using Twitter API to find corresponding user ID of tweets ID.
-
-
+- Please see Overleaf for more detail.
 
 
 # Done
@@ -19,6 +17,7 @@
 - Read paper about 'time period in tweets' to see how researchers dealing with the topic
 - Summarize what questions do the current survey have.
 - Reading paper about "Causal Discovery". Trying to match experiments and define our problem.
+- Check Twitter API
 
 # Results
 ## Alcohol Level
