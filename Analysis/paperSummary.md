@@ -101,13 +101,17 @@ Or if we want to find how people think of tobacco after some specific law, we go
 
 ### San Francisco banned flavored tobacco sales
 [Initial proposal (June 20, 2017)](https://www.cnn.com/2017/06/22/health/san-francisco-vaping-menthols-ban-bn/index.html). 
-[Proposal File](http://sfelections.sfgov.org/sites/default/files/Documents/candidates/Legal_Text_Repeal_of_Flavored_Tobacco_Products_Ban.pdf)
+[Proposal File (SFHC 19Q)](http://sfelections.sfgov.org/sites/default/files/Documents/candidates/Legal_Text_Repeal_of_Flavored_Tobacco_Products_Ban.pdf)
 
 [Ban approved (June 5, 2018)](https://www.cnbc.com/2018/06/06/san-francisco-approves-ban-on-menthol-cigarettes-and-flavored-e-cigarette-liquids.html)
 
 [Full enforcement of that law began (Jan 1, 2019)](https://www.kalw.org/post/san-francisco-banned-flavored-tobacco-sales-now-what#stream/0)
 
 I thought maybe we can use Interrupted Time-Series experiment to evaluate the influence of this law brings to people's life. 
+
+**Before ban**: Most flavors are banned from cigarettes under federal law, but menthol and other tobacco products are exempt.
+
+**After ban**: Tobacco retailers are banned from selling flavored tobacco products including menthol cigarettes, flavored tobacco blunt wraps, hookah, and flavored electronic cigarette liquid
 
 **Question1: Does this law decrease the use of tobacco in San Francisco? What are the people's attitudes towards tobacco at different stages of the law?**
 
