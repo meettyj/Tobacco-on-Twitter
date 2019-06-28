@@ -100,7 +100,8 @@ Basically, if we want to find out how these kind of laws influence our daily use
 Or if we want to find how people think of tobacco after some specific law, we gonna take a NLP analysis of the tweet content. 
 
 ### San Francisco banned flavored tobacco sales
-[Initial proposal (June 20, 2017)](https://www.cnn.com/2017/06/22/health/san-francisco-vaping-menthols-ban-bn/index.html)
+[Initial proposal (June 20, 2017)](https://www.cnn.com/2017/06/22/health/san-francisco-vaping-menthols-ban-bn/index.html). 
+[Proposal File](http://sfelections.sfgov.org/sites/default/files/Documents/candidates/Legal_Text_Repeal_of_Flavored_Tobacco_Products_Ban.pdf)
 
 [Ban approved (June 5, 2018)](https://www.cnbc.com/2018/06/06/san-francisco-approves-ban-on-menthol-cigarettes-and-flavored-e-cigarette-liquids.html)
 
