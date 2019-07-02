@@ -1,5 +1,5 @@
 # For crawling data from Server (Twitter Pull Data):
-Please following the step below:
+Please follow the step below:
 
 Download Twitter Pull Data from server: **downloadTwitterPullData.ipynb**
 
