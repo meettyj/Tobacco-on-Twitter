@@ -13,3 +13,7 @@ There are 87764 tweets posted in San Francisco in January 2017.
 
 # For crawling data from Twitter API:
 Please see **getUserInfo.py** and **getUserTweets.py**
+
+# TODO
+1. Get percentage information.
+2. Get nearby city information.
