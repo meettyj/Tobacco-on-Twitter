@@ -1,0 +1,115 @@
+{
+    "filter_level": "low",
+    "retweeted": false,
+    "in_reply_to_screen_name": null,
+    "truncated": false,
+    "lang": "en",
+    "in_reply_to_status_id_str": null,
+    "id": 733145155268550660,
+    "in_reply_to_user_id_str": null,
+    "timestamp_ms": "1463630400851",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu May 19 04:00:00 +0000 2016",
+    "favorite_count": 0,
+    "place": {
+        "id": "e8ad2641c1cb666c",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -94.61771,
+                        33.004106
+                    ],
+                    [
+                        -94.61771,
+                        36.499767
+                    ],
+                    [
+                        -89.644838,
+                        36.499767
+                    ],
+                    [
+                        -89.644838,
+                        33.004106
+                    ]
+                ]
+            ]
+        },
+        "place_type": "admin",
+        "name": "Arkansas",
+        "attributes": {},
+        "country_code": "US",
+        "url": "https://api.twitter.com/1.1/geo/id/e8ad2641c1cb666c.json",
+        "country": "United States",
+        "full_name": "Arkansas, USA"
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -94.61083333,
+            36.48111111
+        ]
+    },
+    "text": "Wind 0.0 mph ---. Barometer 1024.72 mb, Rising. Temperature 50.8 °F. Rain today 0.00 in. Humidity 93%",
+    "contributors": null,
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            36.48111111,
+            -94.61083333
+        ]
+    },
+    "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+    },
+    "is_quote_status": false,
+    "source": "<a href=\"http://sandaysoft.com/\" rel=\"nofollow\">Sandaysoft Cumulus</a>",
+    "favorited": false,
+    "in_reply_to_user_id": null,
+    "retweet_count": 0,
+    "id_str": "733145155268550660",
+    "user": {
+        "location": "NW Arkansas",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 14488,
+        "lang": "en",
+        "profile_link_color": "FF0000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28781048/1353927702",
+        "id": 28781048,
+        "following": null,
+        "protected": false,
+        "favourites_count": 2,
+        "profile_text_color": "0C3E53",
+        "verified": false,
+        "description": "http://youngliving.org/ejfrye45",
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "EBE173",
+        "name": "Erin Frye",
+        "profile_background_color": "B2D076",
+        "created_at": "Sat Apr 04 12:02:30 +0000 2009",
+        "default_profile_image": false,
+        "followers_count": 30,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000227554415/e01fa6b03cb1ae74d1b9125e23ced9f0_normal.jpeg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "follow_request_sent": null,
+        "url": "http://fryecomp.com",
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "notifications": null,
+        "profile_use_background_image": true,
+        "friends_count": 128,
+        "profile_sidebar_fill_color": "FFF7CC",
+        "screen_name": "EJFrye",
+        "id_str": "28781048",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000227554415/e01fa6b03cb1ae74d1b9125e23ced9f0_normal.jpeg",
+        "listed_count": 3,
+        "is_translator": false
+    }
+}
