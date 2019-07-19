@@ -38,6 +38,11 @@ On prince server:
   ```
 
 ## Jupyter Notebook
+Running the following script in **/scratch/yt1506/** directory:
+```
+jupyter notebook --no-browser
+```
+
 Sometimes the tunnel didn't work, please check the port number and process with keyword 'jupyter'. Most time is because there are someone else are running notebook and make your port number lag. Setting tunnel in Xshell is always great. If this situation happens a lot, suggest setting specific port number in jupyter notebook.
 
 ```
