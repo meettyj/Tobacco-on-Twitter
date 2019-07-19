@@ -36,7 +36,15 @@ On prince server:
   ssh gw.hpc.nyu.edu
   ssh prince.hpc.nyu.edu
   ```
-  
+
+## Jupyter Notebook
+Sometimes the tunnel didn't work, please check the port number and process with keyword 'jupyter'. Most time is because there are someone else are running notebook and make your port number lag. Setting tunnel in Xshell is always great. If this situation happens a lot, suggest setting specific port number in jupyter notebook.
+
+```
+ps -ef | grep jupyter
+```
+
+
 ## TODO
 Filter out those e-cigarette related tweets in prince server.
   
