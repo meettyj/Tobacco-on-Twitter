@@ -25,6 +25,12 @@ On prince server:
   ```
   ssh vidaserver1.poly.edu
   ```
+  The data is available at the vidaserver1 machine:
+  
+  - /san_data/tuananh/tweets/geo/data (Jan-Sept 2016)
+  
+  - /san_scratch/tuananh/tweets/geo/data (Oct 2016 to May 2019)
+
 - prince: 
   ```
   ssh gw.hpc.nyu.edu
