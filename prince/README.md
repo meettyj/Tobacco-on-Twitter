@@ -31,5 +31,8 @@ On prince server:
   ssh prince.hpc.nyu.edu
   ```
   
+## TODO
+Filter out those e-cigarette related tweets in prince server.
+  
   
   
