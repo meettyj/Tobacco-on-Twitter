@@ -4,7 +4,7 @@ prince is the name of server we run experiment, which is also the HPC server pro
 
 ## To copy data from vidaserver to prince
 
-Run on prince (juliana directory): 
+Run on prince (**juliana directory**): 
 
 ```
 screen
