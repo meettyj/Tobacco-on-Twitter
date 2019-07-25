@@ -7,4 +7,4 @@
 #SBATCH --mail-user=eddie.tian@nyu.edu
 
 
-python filterECigar_SF_month.py
+python filterECigar_SF_month_categoryKeyWord.py
