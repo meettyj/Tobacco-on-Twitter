@@ -23,7 +23,7 @@ All e-cigarette in Twitter in different month:
 - 09: 25094
 
 ## juliana_allSF_2018_XX.json:
-All SF tweets in different month: 
+All tweets in SF in different month: 
 - 01: 278884
 - 02: 259869
 - 03: 304292
