@@ -1,26 +1,24 @@
 ## juliana_SF_allECigarette_2018_XX.json:
 All e-cigarette in SF in different month: 
-- 01: 126
-- 02: 125
-- 03: 137
-- 04: 133
-- 05: 88
-- 06: 112
-- 07: 156
-- 08: 124
-- 09: 105
+- 01: 111
+- 02: 103
+- 03: 102
+- 04: 99
+
+## juliana_not_SF_allECigarette_2018_XX.json:
+- 01: 16357
+- 02: 14535
+- 03: 16351
+- 04: 15982
+
 
 ## juliana_allECigarette_2018_XX.json:
 All e-cigarette in Twitter in different month: 
-- 01: 22887
-- 02: 20893
-- 03: 23226
-- 04: 22957
-- 05: 20916
-- 06: 22136
-- 07: 24653
-- 08: 22779
-- 09: 25094
+- 01: 16468
+- 02: 14638
+- 03: 16249
+- 04: 15883
+
 
 ## juliana_allSF_2018_XX.json:
 All tweets in SF in different month: 
