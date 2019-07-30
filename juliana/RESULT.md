@@ -24,8 +24,8 @@ All e-cigarette in Twitter in different month:
 All flavored e-cigarette in Twitter in different month: 
 - 01: 451
 - 02: 395
-- 03: 
-- 04: 
+- 03: 543
+- 04: 538
 
 
 ## juliana_allSF_2018_XX.json:
