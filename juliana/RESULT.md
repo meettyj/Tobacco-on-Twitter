@@ -1,3 +1,4 @@
+# E Cigarette
 ## juliana_SF_allECigarette_2018_XX.json:
 All e-cigarette in SF in different month: 
 - 01: 111
@@ -20,6 +21,15 @@ All e-cigarette in Twitter in different month:
 - 04: 15883
 
 
+
+# Flavor
+## juliana_all_Flavor_ECigarette_second_version_2018_XX.json:
+All flavored e-cigarette in Twitter after keyword updated in different month: 
+- 01: 307
+- 02: 293
+- 03: 404
+- 04: 389
+
 ## juliana_all_Flavor_ECigarette_2018_XX.json:
 All flavored e-cigarette in Twitter in different month: 
 - 01: 451
@@ -28,6 +38,7 @@ All flavored e-cigarette in Twitter in different month:
 - 04: 538
 
 
+# San Francisco
 ## juliana_allSF_2018_XX.json:
 All tweets in SF in different month: 
 - 01: 278884
