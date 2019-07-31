@@ -5,6 +5,10 @@
 - FLAVOR: 81
 - NOT-FLAVOR: 465
 
+Among those not-ecig (actually is 431 rows when I import it by python), there are 155 tweets are from flavor keywords and 276 are from e-cig keywords. Among those 276, the problem are listed below:
+
+
+
 
 ## Note
 
