@@ -1,3 +1,11 @@
+## First 1000 labeling result
+- Total: 961
+- ECIG: 546
+- NOT-ECIG: 413
+- FLAVOR: 81
+- NOT-FLAVOR: 465
+
+
 ## Note
 
 - Overview:
