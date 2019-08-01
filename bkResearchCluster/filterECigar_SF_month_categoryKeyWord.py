@@ -137,10 +137,10 @@ def checkECigaretteOfEachLineInFile(fileName):
 
 
 # Iterate the files in the directory you stored the data.
-jsonFileDirectoryPath = "/mnt/volume/juliana/data"
+jsonFileDirectoryPath = "/scratch/yt1506/juliana/data"
 dirNames = os.listdir(jsonFileDirectoryPath)
 
-os.chdir('/mnt/volume/juliana/data')
+os.chdir('/scratch/yt1506/juliana/data')
 
 for dirName in dirNames:
     #     print(dirName)
@@ -152,7 +152,7 @@ for dirName in dirNames:
 
             checkECigaretteOfEachLineInFile(file)
             print('finish file: ', file)
-    os.chdir('/mnt/volume/juliana/data')
+    os.chdir('/scratch/yt1506/juliana/data')
 
 print('Finished all the files.')
 
