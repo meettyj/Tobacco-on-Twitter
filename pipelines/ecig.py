@@ -29,8 +29,8 @@ class ECigPipeline:
         :return: Pipeline(ItemGetter -> TfidfVectorizer)
         """
         textpipe = [
-            ("getter", ItemGetter(
-                "realdonaldtrump_foxandfriends_smoke_blowing_up_your_orange_ass")),
+            # ("getter", ItemGetter(
+            #     "realdonaldtrump_foxandfriends_smoke_blowing_up_your_orange_ass")),
             ("tfidf", TfidfVectorizer(analyzer="char")),
         ]
         if self.lsi:
@@ -61,8 +61,9 @@ class ECigPipeline:
         ])
         """
         pipeline = [
-            ("features", self.features()),
-            ("scaler", Normalizer()),
+            # ("features", self.features()),
+            # ("scaler", Normalizer()),
+            ("tfidf", TfidfVectorizer(analyzer="word", ngram_range=(1, 3))),
             ("clf", clf)
         ]
         return Pipeline(pipeline)
