@@ -1,4 +1,4 @@
-# 017
+# 2017
 ## E Cigarette
 ### juliana_SF_allECigarette:
 All e-cigarette in SF in different month: 
@@ -183,6 +183,47 @@ All flavored e-cigarette in Twitter in different month:
 
 
 # 2019
+
+## E Cigarette
+### juliana_SF_allECigarette:
+All e-cigarette in SF in different month: 
+- 01: 130
+- 02: 105
+- 03: 74
+- 04: 92
+
+
+### juliana_not_SF_allECigarette:
+- 01: 18566
+- 02: 16190
+- 03: 13614
+- 04: 13234
+
+### juliana_allECigarette:
+All e-cigarette in Twitter in different month: 
+- 01: 18696
+- 02: 16295
+- 03: 13688
+- 04: 13326
+
+### juliana_not_ECigarette_SF:
+- 01: 274722
+- 02: 253246
+- 03: 225475
+- 04: 252588
+
+
+## San Francisco
+### juliana_allSF:
+All tweets in SF in different month: 
+- 01: 274852
+- 02: 253351
+- 03: 225549
+- 04: 252680
+
+
+
+# Note
 - 01: 
 - 02: 
 - 03: 
@@ -195,7 +236,4 @@ All flavored e-cigarette in Twitter in different month:
 - 10: 
 - 11: 
 - 12: 
-
-
-
 
