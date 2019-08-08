@@ -11,7 +11,7 @@ All e-cigarette in SF in different month:
 - 07: 74
 - 08: 89
 - 09: 47
-- 10: 
+- 10: 50
 - 11: 76
 - 12: 122
 
@@ -26,7 +26,7 @@ All e-cigarette in SF in different month:
 - 07: 13493
 - 08: 14000
 - 09: 6886
-- 10: 
+- 10: 9296
 - 11: 15564
 - 12: 15559
 
@@ -41,7 +41,7 @@ All e-cigarette in Twitter in different month:
 - 07: 13567
 - 08: 14089
 - 09: 6933
-- 10: 
+- 10: 9346
 - 11: 15640
 - 12: 15681
 
@@ -55,7 +55,7 @@ All e-cigarette in Twitter in different month:
 - 07: 312808
 - 08: 323226
 - 09: 148140
-- 10: 
+- 10: 205875
 - 11: 296664
 - 12: 257523
 
@@ -72,7 +72,7 @@ All tweets in SF in different month:
 - 07: 312882
 - 08: 323315
 - 09: 148187
-- 10: 
+- 10: 205925
 - 11: 296740
 - 12: 257645
 
