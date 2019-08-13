@@ -29,8 +29,8 @@ For states that has tax since 2016, for example, West Virginia (7/1/2016) and Pe
 - Maryland
 
 # Experiments
-
-get the state name: running on test file which contains 160,577 tweets. we can successfully recognize 156,375 tweets that posted in specific state. Exception are:
+## For getting states name
+Running on test file which contains 160,577 tweets. we can successfully recognize 156,375 tweets that posted in specific state. Exception are:
 - Those only with coordinates but no place name: 17
 - Those with irregular place name (e.g. HEAVEN/Williamsburg, Brooklyn): 653
 - Those not in United States: 3532
