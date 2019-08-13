@@ -35,5 +35,9 @@ get the state name: running on test file which contains 160,577 tweets. we can s
 - Those with irregular place name (e.g. HEAVEN/Williamsburg, Brooklyn): 653
 - Those not in United States: 3532
 
+# Note
+Population Estimation of U.S. states:
+- Wikipedia (July, 2019. Couldn't find reference): https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population#cite_note-2
+- United States Census Bureau (July, 2018): https://www.census.gov/newsroom/press-kits/2018/pop-estimates-national-state.html
 
 
