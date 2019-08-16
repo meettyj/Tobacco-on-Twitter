@@ -1,4 +1,7 @@
 # Delaware Level (1/1/2018)
+The data are range from month 07-12 in 2017, and month 01-06 in 2018.
+
+
 ## Delaware
 
 ### juliana_Delaware_allECigarette
