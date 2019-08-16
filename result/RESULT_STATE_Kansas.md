@@ -1,4 +1,7 @@
 # Kansas Level (7/1/2017)
+The data are range from month 01-12 in 2017.
+
+
 ## Kansas
 
 ### juliana_Kansas_allECigarette
