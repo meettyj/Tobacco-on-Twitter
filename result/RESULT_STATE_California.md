@@ -1,4 +1,6 @@
 # California Level (4/1/2017)
+The data are range from month 01-12 in 2017.
+
 ## California
 
 ### juliana_California_allECigarette
