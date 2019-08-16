@@ -23,8 +23,8 @@ For states that has tax since 2016, for example, West Virginia (7/1/2016) and Pe
 
 # New Jersey (9/29/2018)
 - New York
-- pennsylvania
-- connecticut
+- Pennsylvania
+- Connecticut
 - Delaware
 - Maryland
 
