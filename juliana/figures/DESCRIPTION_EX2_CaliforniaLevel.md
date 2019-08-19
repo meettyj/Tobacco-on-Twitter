@@ -1,51 +1,69 @@
-# San Francisco e-cigarette tweets
+# States e-cigarette tweets
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/number_SF_ecig_tweets_and_users.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_ecig_tweets.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/number_SF_ecig_per_user.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_ecig_users.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/propotion_SF_ecig_tweets_in_all_ecig_tweets.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_ecig_per_user.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/propotion_SF_ecig_tweets_in_all_SF_tweets.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/proportion_states_ecig_tweets_in_all_ecig_tweets.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/proportion_states_ecig_tweets_in_all_tweets_of_same_state.png" />
 </p>
 
 
 
-# San Francisco tweets
+# States tweets
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/number_SF_tweets.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_states_tweets.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/number_all_tweets.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_all_tweets.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/propotion_SF_tweets_in_all_tweets.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/proportion_states_tweets_in_all_tweets.png" />
 </p>
 
 
 # Sentiment Analysis
 
-## Vader
+## Number
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/sentiment_number_ecig_vader.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/sentiment_number_positive_ecig.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression/sentiment_propotion_ecig_vader.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/sentiment_number_neutral_ecig.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/sentiment_number_negative_ecig.png" />
+</p>
 
+## Proportion
 
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/sentiment_proportion_positive_ecig.png" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/sentiment_proportion_neutral_ecig.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/sentiment_proportion_negative_ecig.png" />
+</p>
 
