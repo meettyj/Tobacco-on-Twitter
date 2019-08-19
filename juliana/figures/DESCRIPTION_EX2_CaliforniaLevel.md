@@ -1,3 +1,5 @@
+The policy is happened in California in 4/1/2017, so the regression line before dotted line is based on first three months (January, February, March) in 2017, while the regression line after dotted line is based on the remaining months in 2017. 
+
 # States e-cigarette tweets
 
 <p align="center">
