@@ -1,4 +1,4 @@
-The policy is happened in California in 4/1/2017, so the regression line before dotted line is based on first six months (January - June) in 2017, while the regression line after dotted line is based on the remaining months in 2017. 
+The policy is happened in Kansas in 7/1/2017, so the regression line before dotted line is based on first six months (January - June) in 2017, while the regression line after dotted line is based on the remaining months in 2017. 
 
 # States e-cigarette tweets
 
