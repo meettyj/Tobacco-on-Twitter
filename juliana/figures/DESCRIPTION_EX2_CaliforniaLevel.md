@@ -31,6 +31,14 @@ The policy is happened in California in 4/1/2017, so the regression line before 
 </p>
 
 <p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_users.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_tweets_per_user.png" />
+</p>
+
+<p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_CaliforniaLevel/number_all_tweets.png" />
 </p>
 

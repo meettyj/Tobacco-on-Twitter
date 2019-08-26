@@ -31,6 +31,14 @@ The policy is happened in New Jersey in 9/29/2018, so the regression line before
 </p>
 
 <p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_NewJerseyLevel/number_users.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_NewJerseyLevel/number_tweets_per_user.png" />
+</p>
+
+<p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_NewJerseyLevel/number_all_tweets.png" />
 </p>
 

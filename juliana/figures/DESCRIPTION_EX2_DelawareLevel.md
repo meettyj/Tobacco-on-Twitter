@@ -31,6 +31,14 @@ The policy is happened in Delaware in 1/1/2018, so the regression line before do
 </p>
 
 <p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_DelawareLevel/number_users.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_DelawareLevel/number_tweets_per_user.png" />
+</p>
+
+<p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_DelawareLevel/number_all_tweets.png" />
 </p>
 
