@@ -40,6 +40,12 @@ print('length of average_num_per_person_tweets_California_ecig: ', len(average_n
 users_California_2017 = [333885, 307678, 325899, 312275, 309270, 323365, 336303, 330514, 231445, 271542, 316768, 300338]
 print('length of users_California_2017: ', len(users_California_2017))
 
+# average number of per person tweets in California.
+average_num_per_person_tweets_California = []
+for i in range(12):
+    average_num_per_person_tweets_California.append(allCalifornia_2017[i]/users_California_2017[i])
+print('length of average_num_per_person_tweets_California: ', len(average_num_per_person_tweets_California))
+
 # allTweets
 allTweets_2017 = [64761879, 49292002, 51379810, 46841051, 45592367, 46897952, 50163222, 51079160, 22112648, 31365136, 46232294, 43487766]
 print('length of allTweets_2017: ', len(allTweets_2017))
@@ -84,6 +90,12 @@ print('length of average_num_per_person_tweets_Oregon_ecig: ', len(average_num_p
 users_Oregon_2017 = [28914, 26389, 27777, 26903, 26769, 28342, 29185, 31473, 20171, 23160, 27581, 25123]
 print('length of users_Oregon_2017: ', len(users_Oregon_2017))
 
+# average number of per person tweets in Oregon.
+average_num_per_person_tweets_Oregon = []
+for i in range(12):
+    average_num_per_person_tweets_Oregon.append(allOregon_2017[i]/users_Oregon_2017[i])
+print('length of average_num_per_person_tweets_Oregon: ', len(average_num_per_person_tweets_Oregon))
+
 # Sentiment analysis
 vader_positive_Oregon_2017 = [107, 82, 100, 87, 94, 105, 103, 72, 39, 43, 78, 84]
 vader_neutral_Oregon_2017 = [108, 85, 97, 106, 139, 127, 137, 148, 60, 84, 108, 139]
@@ -124,6 +136,13 @@ print('length of average_num_per_person_tweets_Nevada_ecig: ', len(average_num_p
 # Number of users that tweets in Nevada
 users_Nevada_2017 = [43055, 35526, 42399, 39318, 38744, 43377, 46753, 44795, 25326, 31593, 38779, 37093]
 print('length of users_Nevada_2017: ', len(users_Nevada_2017))
+
+# average number of per person tweets in Nevada.
+average_num_per_person_tweets_Nevada = []
+for i in range(12):
+    average_num_per_person_tweets_Nevada.append(allNevada_2017[i]/users_Nevada_2017[i])
+print('length of average_num_per_person_tweets_Nevada: ', len(average_num_per_person_tweets_Nevada))
+
 
 # Sentiment analysis
 vader_positive_Nevada_2017 = [154, 322, 328, 350, 305, 291, 253, 194, 33, 52, 81, 83]
@@ -166,6 +185,12 @@ print('length of average_num_per_person_tweets_Arizona_ecig: ', len(average_num_
 users_Arizona_2017 = [50460, 46956, 53007, 47507, 44051, 43259, 45744, 47430, 33200, 39831, 48491, 46966]
 print('length of users_Arizona_2017: ', len(users_Arizona_2017))
 
+# average number of per person tweets in Arizona.
+average_num_per_person_tweets_Arizona = []
+for i in range(12):
+    average_num_per_person_tweets_Arizona.append(allArizona_2017[i]/users_Arizona_2017[i])
+print('length of average_num_per_person_tweets_Arizona: ', len(average_num_per_person_tweets_Arizona))
+
 # Sentiment analysis
 vader_positive_Arizona_2017 = [121, 89, 113, 156, 100, 74, 81, 102, 59, 74, 137, 104]
 vader_neutral_Arizona_2017 = [224, 137, 155, 185, 135, 95, 149, 148, 73, 124, 154, 172]
@@ -173,6 +198,7 @@ vader_negative_Arizona_2017 = [77, 67, 68, 70, 67, 61, 62, 75, 30, 55, 118, 106]
 print('length of vader_positive_Arizona_2017: ', len(vader_positive_Arizona_2017))
 print('length of vader_neutral_Arizona_2017: ', len(vader_neutral_Arizona_2017))
 print('length of vader_negative_Arizona_2017: ', len(vader_negative_Arizona_2017))
+
 
 
 ```
