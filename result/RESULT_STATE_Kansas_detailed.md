@@ -40,6 +40,12 @@ print('length of average_num_per_person_tweets_Kansas_ecig: ', len(average_num_p
 users_Kansas_2017 = [19051, 17639, 18512, 17676, 17917, 17325, 18080, 18897, 13543, 15774, 18978, 17866]
 print('length of users_Kansas_2017: ', len(users_Kansas_2017))
 
+# average number of per person tweets in Kansas.
+average_num_per_person_tweets_Kansas = []
+for i in range(12):
+    average_num_per_person_tweets_Kansas.append(allKansas_2017[i]/users_Kansas_2017[i])
+print('length of average_num_per_person_tweets_Kansas: ', len(average_num_per_person_tweets_Kansas))
+
 # allTweets
 allTweets_2017 = [64761879, 49292002, 51379810, 46841051, 45592367, 46897952, 50163222, 51079160, 22112648, 31365136, 46232294, 43487766]
 print('length of allTweets_2017: ', len(allTweets_2017))
@@ -84,6 +90,12 @@ print('length of average_num_per_person_tweets_Nebraska_ecig: ', len(average_num
 users_Nebraska_2017 = [14180, 13338, 13522, 13196, 13214, 14152, 13427, 14914, 10603, 11919, 14224, 13251]
 print('length of users_Nebraska_2017: ', len(users_Nebraska_2017))
 
+# average number of per person tweets in Nebraska.
+average_num_per_person_tweets_Nebraska = []
+for i in range(12):
+    average_num_per_person_tweets_Nebraska.append(allNebraska_2017[i]/users_Nebraska_2017[i])
+print('length of average_num_per_person_tweets_Nebraska: ', len(average_num_per_person_tweets_Nebraska))
+
 # Sentiment analysis
 vader_positive_Nebraska_2017 = [25, 20, 13, 9, 24, 18, 18, 27, 9, 21, 38, 22]
 vader_neutral_Nebraska_2017 = [34, 21, 26, 18, 17, 16, 13, 35, 17, 13, 29, 35]
@@ -126,6 +138,12 @@ print('length of average_num_per_person_tweets_Missouri_ecig: ', len(average_num
 users_Missouri_2017 = [35469, 32138, 36115, 36105, 35273, 34994, 37272, 37535, 23867, 28494, 35090, 33914]
 print('length of users_Missouri_2017: ', len(users_Missouri_2017))
 
+# average number of per person tweets in Missouri.
+average_num_per_person_tweets_Missouri = []
+for i in range(12):
+    average_num_per_person_tweets_Missouri.append(allMissouri_2017[i]/users_Missouri_2017[i])
+print('length of average_num_per_person_tweets_Missouri: ', len(average_num_per_person_tweets_Missouri))
+
 # Sentiment analysis
 vader_positive_Missouri_2017 = [81, 55, 55, 52, 46, 56, 40, 52, 36, 40, 58, 61]
 vader_neutral_Missouri_2017 = [120, 98, 112, 119, 103, 92, 84, 131, 47, 80, 117, 109]
@@ -166,6 +184,12 @@ print('length of average_num_per_person_tweets_Oklahoma_ecig: ', len(average_num
 # Number of users that tweets in Oklahoma
 users_Oklahoma_2017 = [25186, 23553, 24834, 23512, 23667, 23160, 23958, 25278, 18446, 22040, 26429, 23882]
 print('length of users_Oklahoma_2017: ', len(users_Oklahoma_2017))
+
+# average number of per person tweets in Oklahoma.
+average_num_per_person_tweets_Oklahoma = []
+for i in range(12):
+    average_num_per_person_tweets_Oklahoma.append(allOklahoma_2017[i]/users_Oklahoma_2017[i])
+print('length of average_num_per_person_tweets_Oklahoma: ', len(average_num_per_person_tweets_Oklahoma))
 
 # Sentiment analysis
 vader_positive_Oklahoma_2017 = [55, 33, 59, 39, 36, 30, 31, 36, 9, 23, 54, 45]
@@ -208,6 +232,13 @@ print('length of average_num_per_person_tweets_Colorado_ecig: ', len(average_num
 users_Colorado_2017 = [36737, 31899, 36284, 32098, 32904, 35167, 38950, 37087, 23859, 28341, 33114, 32429]
 print('length of users_Colorado_2017: ', len(users_Colorado_2017))
 
+
+# average number of per person tweets in Colorado.
+average_num_per_person_tweets_Colorado = []
+for i in range(12):
+    average_num_per_person_tweets_Colorado.append(allColorado_2017[i]/users_Colorado_2017[i])
+print('length of average_num_per_person_tweets_Colorado: ', len(average_num_per_person_tweets_Colorado))
+
 # Sentiment analysis
 vader_positive_Colorado_2017 = [96, 53, 64, 69, 53, 61, 58, 75, 25, 42, 82, 64]
 vader_neutral_Colorado_2017 = [76, 94, 94, 86, 66, 71, 101, 77, 33, 86, 96, 100]
@@ -215,6 +246,7 @@ vader_negative_Colorado_2017 = [22, 28, 43, 30, 22, 26, 34, 38, 17, 22, 43, 42]
 print('length of vader_positive_Colorado_2017: ', len(vader_positive_Colorado_2017))
 print('length of vader_neutral_Colorado_2017: ', len(vader_neutral_Colorado_2017))
 print('length of vader_negative_Colorado_2017: ', len(vader_negative_Colorado_2017))
+
 
 
 ```
