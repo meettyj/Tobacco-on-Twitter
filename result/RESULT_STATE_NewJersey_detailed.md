@@ -40,6 +40,12 @@ print('length of average_num_per_person_tweets_NewJersey_ecig: ', len(average_nu
 users_NewJersey = [61237, 59945, 66088, 70886, 63909, 61401, 53816, 58553, 58506, 52533, 48259, 47165]
 print('length of users_NewJersey: ', len(users_NewJersey))
 
+# average number of per person tweets in NewJersey.
+average_num_per_person_tweets_NewJersey = []
+for i in range(12):
+    average_num_per_person_tweets_NewJersey.append(allNewJersey[i]/users_NewJersey[i])
+print('length of average_num_per_person_tweets_NewJersey: ', len(average_num_per_person_tweets_NewJersey))
+
 # allTweets
 allTweets = [45660765, 44166238, 44212483, 45858463, 39900707, 45395994, 37985764, 42937313, 41362576, 44209494, 38750216, 32702554]
 print('length of allTweets: ', len(allTweets))
@@ -84,6 +90,12 @@ print('length of average_num_per_person_tweets_NewYork_ecig: ', len(average_num_
 users_NewYork = [162489, 151919, 162487, 165668, 155984, 165051, 150540, 155580, 155211, 144775, 134813, 134313]
 print('length of users_NewYork: ', len(users_NewYork))
 
+# average number of per person tweets in NewYork.
+average_num_per_person_tweets_NewYork = []
+for i in range(12):
+    average_num_per_person_tweets_NewYork.append(allNewYork[i]/users_NewYork[i])
+print('length of average_num_per_person_tweets_NewYork: ', len(average_num_per_person_tweets_NewYork))
+
 # Sentiment analysis
 vader_positive_NewYork = [343, 305, 302, 365, 345, 369, 323, 315, 315, 321, 275, 265]
 vader_neutral_NewYork = [570, 465, 512, 509, 464, 485, 404, 473, 469, 504, 447, 419]
@@ -126,6 +138,12 @@ print('length of average_num_per_person_tweets_Pennsylvania_ecig: ', len(average
 users_Pennsylvania = [70020, 64301, 65451, 67932, 64035, 68726, 62597, 65962, 64809, 58783, 56594, 54897]
 print('length of users_Pennsylvania: ', len(users_Pennsylvania))
 
+# average number of per person tweets in Pennsylvania.
+average_num_per_person_tweets_Pennsylvania = []
+for i in range(12):
+    average_num_per_person_tweets_Pennsylvania.append(allPennsylvania[i]/users_Pennsylvania[i])
+print('length of average_num_per_person_tweets_Pennsylvania: ', len(average_num_per_person_tweets_Pennsylvania))
+
 # Sentiment analysis
 vader_positive_Pennsylvania = [122, 98, 96, 123, 119, 139, 146, 141, 132, 158, 121, 85]
 vader_neutral_Pennsylvania = [247, 163, 176, 172, 155, 451, 200, 307, 195, 245, 290, 277]
@@ -166,6 +184,12 @@ print('length of average_num_per_person_tweets_Connecticut_ecig: ', len(average_
 # Number of users that tweets in Connecticut
 users_Connecticut = [20893, 19874, 20574, 21762, 19990, 20300, 18618, 20145, 19466, 17873, 16795, 16483]
 print('length of users_Connecticut: ', len(users_Connecticut))
+
+# average number of per person tweets in Connecticut.
+average_num_per_person_tweets_Connecticut = []
+for i in range(12):
+    average_num_per_person_tweets_Connecticut.append(allConnecticut[i]/users_Connecticut[i])
+print('length of average_num_per_person_tweets_Connecticut: ', len(average_num_per_person_tweets_Connecticut))
 
 # Sentiment analysis
 vader_positive_Connecticut = [37, 44, 30, 32, 23, 41, 33, 50, 33, 39, 64, 25]
@@ -208,6 +232,12 @@ print('length of average_num_per_person_tweets_Delaware_ecig: ', len(average_num
 users_Delaware = [4162, 4430, 4755, 5226, 4789, 4304, 3907, 3890, 3770, 3269, 3231, 3164]
 print('length of users_Delaware: ', len(users_Delaware))
 
+# average number of per person tweets in Delaware.
+average_num_per_person_tweets_Delaware = []
+for i in range(12):
+    average_num_per_person_tweets_Delaware.append(allDelaware[i]/users_Delaware[i])
+print('length of average_num_per_person_tweets_Delaware: ', len(average_num_per_person_tweets_Delaware))
+
 # Sentiment analysis
 vader_positive_Delaware = [5, 9, 8, 6, 13, 2, 6, 5, 4, 5, 4, 6]
 vader_neutral_Delaware = [12, 3, 20, 15, 12, 6, 8, 4, 8, 5, 7, 8]
@@ -248,6 +278,12 @@ print('length of average_num_per_person_tweets_Maryland_ecig: ', len(average_num
 # Number of users that tweets in Maryland
 users_Maryland = [45044, 44801, 48064, 49120, 44624, 44605, 40522, 44459, 43044, 39977, 37018, 36482]
 print('length of users_Maryland: ', len(users_Maryland))
+
+# average number of per person tweets in Maryland.
+average_num_per_person_tweets_Maryland = []
+for i in range(12):
+    average_num_per_person_tweets_Maryland.append(allMaryland[i]/users_Maryland[i])
+print('length of average_num_per_person_tweets_Maryland: ', len(average_num_per_person_tweets_Maryland))
 
 # Sentiment analysis
 vader_positive_Maryland = [87, 77, 61, 81, 69, 66, 55, 77, 74, 87, 101, 51]
