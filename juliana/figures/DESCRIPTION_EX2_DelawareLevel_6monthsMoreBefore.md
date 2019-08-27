@@ -1,4 +1,4 @@
-The policy is happened in Delaware in 1/1/2018, so the regression line before dotted line is based on last six months (July - December) in 2017, while the regression line after dotted line is based on the first six months (January - June) in 2018.
+The policy is happened in Delaware in 1/1/2018, so the regression line before dotted line is based on last 12 months (January - December) in 2017, while the regression line after dotted line is based on the first six months (January - June) in 2018.
 
 # States e-cigarette tweets
 
