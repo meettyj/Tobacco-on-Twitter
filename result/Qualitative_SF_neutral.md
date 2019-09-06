@@ -166,4 +166,194 @@ Back on that Vape Life. Hopped on a rose gold pen for work.
 #vape #vapetricks #cloudlyfe 
 
 
+## 2018.05
+@thejohndinh @GucciGerm 
+
+i keep hitting this pen like a vape, like heebs you’re not gunna get any higher, stop wasting oil
+
+ now live streaming vapor lounge 3.0! arboreal &amp; wool performing..
+
+What part of VAPE NAYSH do you not understand ?! 
+
+When the juul crackles a bit as you inhale
+
+I thought Crystal handed me a juul but it was a fucking wax pen....
+
+At @jonlovett’s request on the pod - here’s a visual reference of what a Smokey eye would look like @crookedmedia 😬 
+
+@JulianDeloso 2 many hot girls for juuls
+
+vaping is the new lifting.
+
+Going to start vaping
+
+Instantly thought this was a Jordan 11 w/ VaporMax Sole! 
+
+@whiterabbit_420 Check out the CBD vapes, patches/topicals, drops and more on Eaze! Below is a link to $20 off your… 
+
+Vicks vaporub is the #1 cure for every sickness according to Asian moms.
+
+who wants to be a billionaire? new app idea: find my juul
+
+#AUA18 #BPV: Barefoot Prostatic Vaporization 
+
+Traded my extra pair of UNC OW 1 for Og off white vapormax
+
+@MrMetKevC Vapormax are rising in price, the og pairs all going up
+
+Post-$220M deal, @HersheyCompany has plans to uproot Sonoma-based @KraveJerky with impending #HQ move to Austin (af… 
+
+@evelynndeleon @soy_502 @Ivan_Velasquez_ @CICIGgt @matiasponce Empezamos mal.  Se ve que se favorecerá a los corruptos. Espero equivocarme.
+
+@zezrie 😀😀😂😂😂😂 
+
+Finally! A vape machine for a real drug 
+
+“Yo is it chill if I vape in here?”
+
+Vape Cupcake Pinterest
+
+@cloudchaser0 Probably more germs on a phone
+
+We have a #pterodactyl in the #laundromat @ The TL Cafe and Laundromat 
+
+🎩xxxxx🌹🍵
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave… 
+
+@SciGroupie @russellpup_jack @BlueWaveGeezer @gator971 @colemarie @TraciDegerman @tedlieu @TheJusticeDept @EPA 
+
+Make Athena quit the Juul 2k18
+
+@SimpleDimple_ @Ezy_Livin @tamakloeee @shanabeee_ @LoveStephGee @FilthyGomez Vapor max flex mami
+
+@juuliamsc QUE isso é um absurdo!!!!! Quando qur eu caguei na sua cabeça???????
+
+@itmeillusive Vapes on a Plane.
+
+@c_davies Hey dawg (exhales a giant vape cloud) ☁️
+
+jose just called vaporwave "post-modern weebs"
+
+@swiftumz VaporMax?
+
+Sour bite with camel cigarette aftertaste - Drinking a Book of Pog by @laughingmonksf at @laughingmonksf  —  #photo
+
+
+
+
+## 2018.06 (Approval)
+
+Blueberries + Cigarettes + Iced Coffee 
+
+We get it, you vape 
+
+letterbliss this is the word of the day,… 
+
+@zck can corroborate re high school. Propylene/polyethelene glycol is GRAS for food but 🤷‍♂️ at vaporization temperature/when inhaled 😬😬😬
+
+On the Centennial Trail here in South City. The man about a quarter mile past me is vaping up a storm. I’m talking,… 
+
+@kravekilo this what y'all be talking about?
+
+Is it dank/chill that I vape in here?
+
+**#newalbumsoon #byesmokes @ Cogar Inc**
+
+@TheMalia @SandboxVR @louieswisher Up soon
+
+dr: “u should really be eating more fruits &amp; veggies”
+
+*plugs in mango juul pod*
+*takes hit*
+*exhales slowly*
+
+me: “...and u were saying?”
+
+Drinking game : take a shot every time marco asks for my juul
+
+im finna go buy me some vapormax today 😂😂😂
+
+Gary Gomez- “Get some Juul pods for real I’m fiending”   
+My brother ladies and gentlemen
+
+**Today is the day to vote #NoPropE. Keep vape flavors flowing. #SanFrancisco #PropE #vapingsaveslives**
+
+@muskingo @CaseyNewton @louieswisher @dani_riggs @ashleymayer @gaberivera Me
+
+**MOMS: Has your Middle School Boy been vaping? 👀** 
+
+Lastly, vote. Btw, that kid on the right in the 1st photo named @louieswisher votes in the 2020 presidential electi… 
+
+@JENergizerr @JUULvapor @JENergizerr 
+
+Chillin #sanfrancisco #vaperx #ogkush @… 
+
+@indie_rose @louieswisher Not yet
+
+i have 3 vape batteries that won’t charge. #imsosober #queserasera
+
+Juul* 
+
+It's a @MartyGrimes kind of day #ThroughTheSmoke
+
+"Run the Juuls"
+
+‘I have the sickest skins in fortnight and smoke a juul, if I went back to high school I would be the coolest’
+
+-Stephen, age 23, 2018
+
+@TheAnarCHris I’m surprised I didn’t come across a vape rig made out of an Axe body spray can.
+
+**$15B pre-evaluation (WHO!?) for an vaping startup says a lot about  what investors think will have a large market s…** 
+
+@send__city @Codd_Dubz toot it n juul it
+
+#UADA #badreligion #soreption #weekend  #weekendjams #music #fin #summer #newshit #2018 #a #b #c #r #w @ San Franci… 
+
+なんでもある。バラ売り葉、樹脂、タバコ状に最初から紙にまいてあるもの、vape用の液体、チョコレート、クッキー、その他用具あれこれ
+
+例えるならお茶専門店に茶葉バラ売り、ティーパック、粉末茶葉、紅茶クッキー、急須をはじめとする茶器… 
+
+The Silicon Valley Spliff: Juul and Pax at the same time
+
+@feldman Only if it’s for vaporware testing! 😉
+
+**@clusterfest what's the policy on vape pens?**
+
+@Greg_Papaa What a game! Don't even know where to begin....JR, Trystan, Klay's knee, Block/Charge! I'll see you on… 
+
+**Literally having Juul withdraws**
+
+@iamsaracheyanne Bring me my Juul if u luhhh meeeee ♥️
+
+🐺le_chat_gris💀🌤
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl… 
+
+Epic chillout session @SPARCcannabis #cannabis #marijuana #volcano #weed #cbd #thc #vape 
+
+Safari is where it’s at 😂😂 
+
+**i cant believe lorde wrote “green light” abt charging ur juul**
+
+. @Superplex pointing out the drastic change of business from material goods to virtual goods i.e. vaporized; at day 2 keynote of #dockercon
+
+. @Superplex pointing out the drastic change of business from material goods to virtual goods i.e. vaporized; at da… 
+
+Juuls are for little kids
+
+
+
+
+
+
+
+
+
+
 
