@@ -64,7 +64,7 @@ Lol I don't mind if you shine, @dereck72vapes
 @dereck72vapes lol you already bought it
 
 
-## 2016.06
+## 2016.06 (Proposal)
 
 Do I really want a Swarovski crystallized vape pen? Yes...yes I do.
 
@@ -135,6 +135,148 @@ It's hard to quit vaping when all your friends vape...😩
 Celebrate Independence Day all weekend in The Lounge where you have the freedom to vape, smoke, and consume cannabis however you like
 
 Do you guys like my new vape 
+
+## 2018.05
+@GrantedImmunity Lol no vape pen?
+
+Very interesting insights on behavior modification here...
+
+A Pragmatic Trial of E-Cigarettes, Incentives, and Drug… 
+
+**Yo San Francisco I hope that Prop E thing goes through that way I can buy every menthol cigarette/vape in the Bay A…** 
+
+live, laugh, vape
+
+Great @bostonsci @bsc_urology advanced #Greenlight anatomic vaporization technique -beyond #pvp with Dr Ed Karpman.… 
+
+@CinemaBlend I was hoping they would’ve chosen him to be Kraven 
+
+@neuralgraffiti If you really want to feel it I suggest listening to yesterday’s “Today Explained” podcast on “Juul”
+
+@marijuanadotorg @SFMTA @peterhartlaub I'd be interested to see your sources on ridership numbering 5he last three… 
+
+Two of my favorite @kurebotanicals_ vape… 
+
+@lexacamm @DrFresch Lol ya on Saturday except it was her vape
+
+Lmao the vape 
+
+@tabsatpetcopark Can’t smoke juul legally but I’d still hit
+
+@tabsatpetcopark Can’t smoke juul legally but I’d still let them hit it ;)
+
+@ch1ngis_khan I’d recommend a vape like the PAX Era. It leaves behind no scent, and hits really smooth (no coughing… 
+
+To the vaping guy on a scooter playing his radio loud in San Francisco tonight, I salute you
+
+Someone bring me a Juul charger I’m at Blondies send help SO
+
+Opened Homeless Concerns request via iphone at 2921 16TH ST . Please house human and vaporize the tent.
+
+lol I miss this lifestyle
+
+I might have to go to EDC
+
+Thank you @tconsuming1 
+
+Also there’s rumors of #KRAVEDAY 
+
+I… 
+
+@taylormade_hdz o wow this is why we are team juul. you’d have to be a fuul to use a vape pen these days. 
+
+how girls look like when they ask to hit a guys juul 
+
+@AndriiKravets @RealStartupBook It’s a bit iffy at this point. Might have to publish it on Amazon or something.
+
+The musician analogy is bunk.
+
+A musician playing a gig would be like a writer reading an excerpt. 
+
+Hey @robdelaney how many of your kids play professional baseball, Ron?!! Just a Christian dad who vapes and breeds… 
+
+Also surprised about #FIN being so low, as well as #GBR. And I thought #DEN would do better with the juries.… 
+
+@rishmishra Like angel funding for vaporware...
+
+I only love my juul and my heen I’m sorry
+
+
+
+
+
+## 2018.06 (Approval)
+
+Please come if you can! We had an amazing packed event at Berkeley Arts &amp; Letters yesterday w/ @achylandia &amp; so loo… 
+
+Yeah I was a VR pirate today, with a digital peg leg @SandboxVR. Listen to what @louieswisher and I thought about i… 
+
+I want to roll around in this Vicks vapor rub.
+
+Standing in a bar with a gin &amp; tonic, vape in my pocket, watching warriors game with my coworkers &amp; friends from Se… 
+
+Cuz I’d like to thank @JetBlue for my #Mosaic status!! There’s definitely no better #American airline! #Mint is rea… 
+
+@adambain If you’re stretching to include corporate incubation, Juul might be one of the most successful corporate… 
+
+@Chvntel Lmao 😂😂 I’m serious tho lol between cigs and blunts gotta keep the inhaler handy lmao
+
+Holy smokes, 48 athletes signed up for freshman football. Good luck boys! #smhsmustangs #marinfootball #cifncs… 
+
+don’t trust vape shops when you’re drunk
+
+**@sfgov @sfchronicle you people are such lying hypocrites! Ban vape juice but allow kids to buy weed. Genius. Free h…** 
+
+@Mikeweather21 That’s what them juuls or whatever be looking like
+
+@HouseOfAmparo Email my roomate: Tryston Williams - tryston.cwilliams@gmail.com / he is a beast &amp; an amazing person… 
+
+😎 #views #kingshxt #pvo #vapegang @ San… 
+
+Honestly, my vape pen is probably my most favorite thing. Especially when it’s charged #Smoking #CannabisCommunity #Weed #Marijuana
+
+Bout to put my whole life on hold so I can work as a legal assistant at juul 
+
+in a coffee shop in sf and they’re playing vapors by @JheneAiko 😩😍😍
+
+#SparkSF had an awesome demo today! I love the #vapexhale machine. 
+It"s dependable and you can use all kinds of cool attachments!
+
+there’s nothing more dangerous than a heaux with a freshly charged juul &amp; airpods
+
+#fin #notlike it ever got off the ground ;) 
+
+**I feel like all these anti-vaping ads are having an opposite effect on teens: “wait, there is a bubble gum flavor vape?!”**
+
+@DKLDarkRaven I like your article I don't feed on blood personally but it is good that you are providing informatio… 
+
+I *love* this texture @Kravet ! 😍 
+
+Guess who’s back. Back again. And cooking me dinner like the gents I taught these Swisher boys to be. 
+
+@crownjuul The first sounds like an excerpt from Sean Penn’s book
+
+@crownjuul Wow you have some garbage replies in here instead of the “that’s funny me too, and I’m a women’s studies… 
+
+emily just told me she’d stop being my friend if i get a juul ://
+
+that sounds like a nice fried chicken recipehttps://www.tastingtable.com/cook/recipes/pickle-juice-brine-fried-chic… 
+
+@samcorb Would watch this buddy comedy of vape empire heiresses
+
+**Almost as satisfying as the click moment @orenfalkowitz Juul Labs Is Raising $1.2 Billion - Bloomberg**
+
+What is the best flavor juul pod to purchase 
+
+On the radio: Chiddy Bang
+In my hand: Juul
+On my mind: Her
+
+
+
+
+
+
 
 
 
