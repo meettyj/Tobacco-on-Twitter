@@ -55,6 +55,59 @@ We're #hiring! Click to apply: Risk Analyst Operations - BART Accessable -  #Fin
 There is no healthcare bill is there? It’s just vapor and BS?
 
 
+## 2018.05
+**Xue-Ru Wu explains the dangers of vaping in relation to dna damage in the bladder and lungs. Different from tobacco…**
+
+i fuckin hate me &amp; @saraamckenna_ lol all we been doin is sendin ugly ass pics of us hittin our shiiit ass juuls #someonearrestus
+
+Opened Abandoned Vehicles request via iphone at 130 RETIRO WAY . Parked since sunday 5/20. 
+
+**@siiiilversurfer Imma start gut punching these juul cunts if I lose my menthol cigs!**
+
+**I am going to start making my own vape juice and the first flavor will be "Young Thug's Earring Backs"**
+
+Shoot! I 'smoked' 1.2 cigarettes today by breathing urban air (SF FiDi). And you? Find out here: 
+
+idk but i hate when people hold they blunts like a cig 😭
+
+@jerrrs sorry fam, @SuorinVape products only
+
+Thought about getting a juul just for when I don't want to go outside to smoke
+
+juul* fire 
+
+@cebsilver @Kevin_Raposo Reads: beating his vape
+
+I think I am getting sick. Oh well,at least I love the smell of Vapor Rub😄 
+
+**Are you registered to vote? Help us defeat #PropE and vote #NoPropE on Tuesday, June 5! 🗳️#VapingSavesLives…** 
+
+**Are you registered to vote? Help us defeat #PropE and vote #NoPropE on Tuesday, June 5! 🗳️  #VapingSavesLives**
+
+office workers be doing vape tricks at 8:40 am in front of their offices wtf
+
+I want a juul but that sadly also correlated with wanting a nicotine addiction so I’m trying to not lol
+
+I don’t think that I’m meant to have a juul , just lost that shit again.....FUUUUUUCK.
+
+Hey asshole saying that “I’m hot but my @JUULvapor smoking is a dealbreaker” - FUCK YOU. Who gave you the right to… 
+
+This security guard just threatened to take my vape from me BITCH TRYYY🤣🤣
+
+Marcus asked out Lyft driver if he can vape in the car. I’m breaking that shit once we get home 😡
+
+
+
+## 2018.06 (Approval)
+
+
+
+
+
+
+
+
+
 
 
 
