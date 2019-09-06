@@ -42,7 +42,6 @@ Tonight: Vaporwave Lounge 1.0 #sf #electronicmusic
 { #custom #graffiti #sf #nyc #magic #art #vaporwave #aesthetic #sadboys… 
 
 Backstage vaping on Moonflower with DJ Saint Clair @saintclairmusic 💨
--
 #moleculemade… 
 
 Single coil "King of Flavor Hop n vape beast. @ Sunset District, San Francisco 
@@ -108,7 +107,7 @@ Black &amp; white #vapormax #art #asianguy 😝😝 @ Clarion Alley
 
 Check out our roundup of recent news stories covering e-cig and vape battery explosions: 
 
-__**@mindthet end the #VapeTax**__
+**@mindthet end the #VapeTax**
 
 Camelbak™ but it's a vape
 
