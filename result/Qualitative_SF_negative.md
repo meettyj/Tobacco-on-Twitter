@@ -100,6 +100,41 @@ Marcus asked out Lyft driver if he can vape in the car. I’m breaking that shit
 
 ## 2018.06 (Approval)
 
+@zck on my birthright trip, the Juul addiction was ridiculous. They’ve taken over average-quality US colleges
+
+**@radiogeyser I have so much to say about shit like that. America is conservative when it comes to cigarettes, so le…** 
+
+**No more #vape liquids or menthols in San Francisco. Voters passed a ban on all flavored #tobacco products by nearly 70.**
+
+**When was the first time you thought you lost your juul**
+
+@kravekilo this wild 😭
+
+**Vaping &amp; hookah banned in SF. I guess people in SF people don't really grow up as we can't be trusted as adults. Fo…** 
+
+@OregonJOBS2 Just makes #MAGA sense, along with using lead in shotgun shells now, only to kill the Eagle we saved,… 
+
+**I want to implore everyone to light your pipes and vape your brains out tomorrow in protest of @sfgov #disgusting a…** 
+
+**@GRIMECRAFT that meant cigarettes too?!? for some reason i thought it just meant vape shit**
+
+**@shmokinbigdoink SO I CANT VAPE EXCUSE ME YA HOME HERE TRYNA QUIT THE WAKEY TABACEY**
+
+**Who got a juul for the low ‼️**
+
+@ambigbruno @dianamamiii bro its a dangerous game... thats why i hd to get vape, cos i just be amoking it cos i jus… 
+
+Bang Bang #ThroughTheSmoke 🔥
+
+My flight got delayed 4 hours and my juul is in la imma die here
+
+@pdxposhy I had a nagging cough and eventually pneumonia when I was a person with a vape pen. perhaps unrelated, bu… 
+
+Ultima down! Oh no it’s got a case of the vapors! 
+
+Opened Street or Sidewalk Cleaning request via iphone at 649 LAGUNA ST . Trash blocking side… 
+
+**The FDA is trying to kill vaping because it’s going to do a better job reducing lung cancer than they ever have, an…** 
 
 
 
