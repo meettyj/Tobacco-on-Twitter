@@ -347,6 +347,149 @@ Safari is where it’s at 😂😂
 
 Juuls are for little kids
 
+## 2018.12
+**Tell me someone caught that kid hitting the juul @barstoolsports**
+
+How the Grinch stole vaporwave
+
+Vapers gonna vape
+
+@Darealmikelewis @7figureSmokey I heard he punched a pregnant woman
+
+@Darealmikelewis @7figureSmokey It was the same thing, I don’t know if there was a longer version
+
+Fold the #vaporwave and make a #quantum leap to a #newreality // #SciFi #Aesthetic #BladeRunner2049
+#Found 
+
+Saturday with #royalvibesent! sounds by @djwestkraven and @nastea_nate • guestlist at 
+
+For… 
+
+@AvidanRoss @kane @braveben @chrissymeyer His Juul v. snake oil comeuppance is next.
+
+two kinds of vapers
+
+Bruh I don’t even hit the juul in bed. I just grasp it tightly so I have sum to hold onto at night
+
+I’ve dropped my vape pen at least four times since I got home and my mom keeps bringing it to me because she “doesn… 
+
+**3 kids on bicycles just gave me $5 to buy them a Juul and cucumber flavored pods. MAGA.**
+
+This guy juuled during my presentation...
+
+@iriszhuwu Someone left their juul at my apartment a few months ago and I deadass thought it was a flash drive unti… 
+
+Tfw the whole squad vaping
+
+@RepSwalwell Lindsey has got the vapors again.
+
+Most used phrase of 2018 “where’s my juul?”
+
+**Still can’t believe how high these numbers are... 21% of 12th graders report vaping nicotine in the past month. Man…** 
+
+does ANYONE have a juul?
+
+juuling in costco moodboard 
+
+@themightyadad @SebHillaire Adding vaping to the game on Monday.
+
+@JamaicaVaper @JodieEmery @macleans @MarcScottEmery @stphnmaher That is what I’m seeing in California. Militant, No… 
+
+@TheXOPodcast @StevESPNKim @AllSmokeBoxing * it’s
+
+@TheXOPodcast @StevESPNKim @AllSmokeBoxing 😂😂😂
+
+@D_Cisse02 DS OG off white vapormax size 9.5
+
+It’s vapor rub all over my body season
+
+FS: DS OG off white vapormax SIZE 9.5. $1100 OBO 
+
+@QuanFlix_ @HR8886 @KicksAddiction @Bpfillherup @WestCoastSoles… 
+
+🤑🤑🤑
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl #seapunk #fiji… 
+
+Where’s the Juul party tonight? Holy crap.
+
+i pulled two juuls out of jonathan’s pocket and asked why and he just said “dual juulin” and hit them both
+
+And to think, I used to date someone who worked at Juul Labs. 
+
+@WSJ “It can therefore be concluded for non-smokers that chronically repeated exposure to benzene from e-cigarettes… 
+
+wake up ✅
+DMT ✅
+tweet “life is a movie”✅
+mango juul pods ❌
+back to sleep ✅
+
+manically ssarched my room for my juul pods only to find them in a kiehl’s bag 🤕
+
+@Darealmikelewis @7figureSmokey Nevermind I found it
+
+**Cue the “vaping is historic” coalition**
+
+**Day 3 without vaping and I’m starting to levitate 🌏**
+
+#FuelCell cars run on #hydrogen &amp; only emit water vapor 💨 With ranges similar to gas vehicles &amp; a quick refuel time… 
+
+#smileymaiiinusa2018 #smileymaiijourney @ Japanese Tea Garden 
+
+🚷NOENTRY💎☁️
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl… 
+
+I kinda want to give up coffee and Juuling for 2019 but then how am I supposed to poop?
+
+🍭3069_EAST💎☁️
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl… 
+
+@ElizabetKaren60 We may get rid of Devin Nunes, one way or another, and also the Vape King, Duncan Hunter. 
+
+Ontem pela primeira vez presenciei um homem agredido uma mulher pessimamente e ces não tem noção do quão horrível é… 
+
+Still have the vapormax
+
+FUCJ I FORGOT MY JUUL I AM JUMPING KNTO TRAFFIC
+
+I cleaned my room so I could find my vape pen ... And  I found it 🤗🥳😂
+
+I live in the bathroom now. I’m swaddled in Turkish towels and slathered with Vick’s vapor rub.
+
+@sonyaellenmann Juul
+
+@ChloeCondon when it comes to vaporwave there are way too many choices
+
+**Don't vape kidz #TheGameAwards2018**
+
+**Don't vape kidz.
+#TheGameAwards**
+
+**Don't vape kidz. 
+#GameAwards**
+
+@zakmal @louieswisher I know. It was because I combined it with performative hellscape which is mine. But museum is all him.
+
+A hypo in my final exam today talked about juuls except they were called “luuls”
+
+**I’m no fan of JUUL because they turned me down for a job and I wanted their fucking money, but these anti-vaping ad…** 
+
+**Juul trying to get their customers to speak up on its behalf.** 
+
+deadass anyone have a juul I can use rn
+
+After 3: Gators 51 | Coyotes 48
+
+SF State outscores CSUSB 24-15 in the third quarter to take a three-point lead.… 
 
 
 
