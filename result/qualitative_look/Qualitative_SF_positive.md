@@ -273,6 +273,61 @@ In my hand: Juul
 On my mind: Her
 
 
+## 2018.12
+One of my favorite op-eds to come out of the @SFFoghorn. Writer Nathaniel Yu does a great job comparing @JUULvapor’… 
+
+Mika Brzezinski kicks off the amazing Know Your Value Conference in San Francisco with dynamic, motivating and empo… 
+
+Juul Accepts Altria Investment and Embraces Big Tobacco  #tech #business
+
+omfg i have never been so happy to find my vape is this what they call reefer madness
+
+watching the truth ads telling me 1 juul pod is 20 cigarettes of nicotine 
+
+@BcdaGR81 @WestCoastSoles @QuanFlix_ @ATrainKickz @infra90 @roscal_nyc @kickzjilla @KicksAddiction TTS like all vapormax
+
+@M1CHAELW0NG I’m ok with boba but not vaping....
+
+You know that guy that vapes in the office; sorry I mean that guy vaping inside of your office...
+He is v. cool and… 
+
+If juul was really that innovative of a product it would come standard with a Bluetooth beacon built in.
+
+My brother fell asleep with his Juul in his hand
+
+Deal with big tobacco makes Juul cofounders billionaires
+
+“Each founder has sold more than $500 million in shares t… 
+
+@MeredthSalenger Cute pic! Hope the family's better soon! @EricaRMaier &amp; I suggest Vicks VapoRub™️ - it cures all! 🤧 
+
+@demeatloaf I’d hope they’re expected to do demographic research before such ads.  I was surprised to hear a vape a… 
+
+I was on a late night walk with my buddy and we saw the cops vaping 🤣 #onlyinsf
+
+Okay y’all are too much with this Juul. #juulery 
+
+People with juuls be like
+
+Adventuring in the city #bart #redboxbowl #breadbowl #smellslikesmokedbowls @ PIER 39 
+
+Someone please write a Medium post titled “The Rise of JUUL” so we can all understand how a startup e-cigarette com… 
+
+i love you @JUULvapor
+
+@RollingLoud @Xxtrxpslowxx Juuls and sourin’s ok?
+
+Nothing worse than when you try to ghost the juul and someone makes you laugh
+
+Wanna give some holiday cheer!!?? Try our Fli High Holiday Box 📦 2 vape carts, a pre roll, a bottle of thc mints an… 
+
+Important context here from @Kchaykowski: Juul’s cofounders have taken money from big tobacco before, so don’t be s… 
+
+Don't Be Shocked If Big Tobacco Invests In Juul -- Its Founders Have Allowed It Before 
+
+I put in 6 months of flirting and dating to get invited to the Juul Christmas party. 3 weeks ago he finally asked m… 
+
+At least vape smells better than pee.
 
 
 
