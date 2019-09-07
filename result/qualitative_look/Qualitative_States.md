@@ -218,14 +218,46 @@ It’s 2019 bitch, we submit Tax Returns tax returns early and so we hit the JUU
 
 
 ## pennsylvania
+#### Before (So weird, Delaware already have tax now.)
+The thing I miss most about DE is their low gas prices and $15 tax free juul pods ☹️
+#### After
+None
+
 
 ## Connecticut
+#### Before 
+None
+#### After
+CT wants to impose a 75% e-liquid tax! What a nice way to get everyone back on big tobacco's customer list! What a…
+
+The state would also tax e-cig nicotine liquids at 75 percent of the wholesale price to bring tax parity with cigar…
+
+This includes a proposal to put a 10 cent tax on plastic bags, 75 percent vaping tax, and 25 cent tax on liquor and…
+
+SB00535 [NEW] An Act Increasing The Sales And Use Taxes On Vaping Products And Establishing A Fund For Addiction Tr…
+
+HB05807 [NEW] An Act Imposing A Tax On Liquid Vaping Products.
+
+HB06464 [NEW] An Act Imposing A Tax On Liquid Vaping Products.
+
+HB05800 [NEW] An Act Imposing A Tax On Vapor Products.
+
+
+
 
 ## Delaware
+None
+
 
 ## Maryland
+#### Before 
+None
+#### After
+Time to expand tax and regulatory measures applied with much success to cigarettes to deter the use of e-cigarettes…
 
+“Tobacco use is soaring among U.S. kids, driven by e-cigarette”.  Time to adopt  strong regulation and taxation to…
 
+Pitched battle over Montana ballot measure to keep Medicaid  expansion funded with a tax on e-cigs and tobacco. "We…
 
 
 
