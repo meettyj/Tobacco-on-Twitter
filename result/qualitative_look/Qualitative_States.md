@@ -1,5 +1,8 @@
-# California Level
-The policy is happened in California in 4/1/2017. Below is some sample taken from Month 03, 04, 05, 06 in 2017.
+Below is some sample taken from 3 months before the date and 6 months after the date.
+
+
+# --------------- California Level ---------------
+The policy is happened in California in 4/1/2017. 
 
 ## California
 ### Before
@@ -34,15 +37,60 @@ None
 
 ## Nevada
 ### Before
-None
+AB269 [NEW] Provides for the regulation and taxation of vapor products. (BDR 32-873) 
 ### After
 "We the taxpayers footed the bill for this costly &amp; lengthy litigation." @SEIU1107's Mancini sez SB 241 ultimately cost taxpayers. #NVLeg
 
 ## Arizona
+### Before
+SB1517 [NEW] Vapor products; tax 
+### After
 None
 
 
 
 
+# --------------- Kansas Level ---------------
+The policy is happened in Kansas in 7/1/2017.
+
+## Kansas
+None
+
+## Nebraska
+None
+
+## Missouri
+None
+
+
+## Oklahoma
+### Before
+Ready to fix the #OKBudget? here are some ideas:
+* Tax on cigarettes
+* Tax on anything related to vaping
+* Tax on Crocs
+* Tax on trucknuts
+
+We're not in this mess because the price of cigs are too low. Meanwhile, restoring the gross production tax on oil… 
+### After
+The fact that this culture war publicity stunt cost tax payers so much is particularly revolting. 
+
+
+## Colorado
+### Before
+Tuesday Daily Deal 
+10% off 750ml Vape Cartridges-made from our flower
+1 OZ Bulk Wax $375 +tax
+5/17-5/23  Buy 3 1g Syringes get 1 for Free
+### after
+7.10.2017 @Weedmaps MEDICAL #OILday deals: BOGO on all vape cartridges &amp; refills! 2 grams of #DANK wax for $30+tax! #KeepingKind #terpy #MMJ
+
+
+
+
+# --------------- Delaware Level ---------------
+The policy is happened in Delaware in 1/1/2018.
+
+## Delaware
 
 
