@@ -493,8 +493,454 @@ SF State outscores CSUSB 24-15 in the third quarter to take a three-point lead.�
 
 
 
+## 2019.01 (Enforcement)
+
+@thephotoist @ReneeLibby2 He's a walking vapors cloud. 
+
+**the fact that i cannot vape on this packed bus is homophobic and anti-latinx, and san francisco needs to address this**
+
+binge watching this kdrama in the dark wit my juul and nick is passed out next to me this is living
+
+Be-juuled
+
+mom just showed me her gwyneth sponsored vape and it won’t lie.... it’s h*t
+
+me last night at 2am when i couldn’t find my juul:
+
+Swap out that juul with a blunt
+
+I’m buying a pax era vape pen.
+
+I tried on the VaporFlys today....
+
+I am a juul
+
+What's crazier: the juul leash or the jeans?
+
+Tech deck but it's a juul with wheels
+
+21. E abençoado seja o vapor da secadora. Se vc tira quentinho da dryer e já dobrar, a roupa fica lisinha, não prec… 
+
+🍇🍒🍉🍏🍇🍒🍉🍏🍇🍒🍉🍏🍇🍒🍉🍏
+.
+#gelato vape carts by #dabjuice 
+.
+🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧🍧
+.
+.
+😋🏆🎖
+#ccell #shatter #terpenes #DabJuice… 
+
+@b0nt0ki @spaceghostjuul @vivsthecat Uhm
+
+**Still looking for a job but, hey
+I am one month juul-free!**
+
+I cant find a black &amp; pink nike jacket to go with these vapormax i bought 🙄
+
+Where’s the hole for my vape
+
+Homeless disini sepatunya vapormax lace less, yagitu.
+
+vaping with a burnt coil would be the name of my EP if i was musically inclined in any sense at all
+
+can we...call this for what it is? cultural appropriation?? because my fellow POC did not get vaporub rubbed on the… 
+
+I'm at 801 Montgomery Street in CA 
+
+[22/1 17:14] Amorzinho❤: Doidinha
+[22/1 17:15] Juulia💃: Kkkkkkk mt
+[22/1 17:17] Amorzinho❤: Gostosa tb
+[22/1 17:17]… 
+
+IN FRAME: Tylen Weaver 
+LOCATION: San Francisco, CA
+🌁
+ON FEET: Air Vapormax Dark Team Red 👟 @ San Francisco, Califo… 
+
+The depths of the urbanscape is a wonder of its own • Pc: trystane @ San Francisco, California 
+
+@EddyElfenbein My sister went from 1 pack of cigarettes per day in December to NONE this month because of Juul. Ass… 
+
+Tuesday 7:55am, January 2019, San Francisco, CA
+.
+What that click do? #swenyandocongraffiti 
+. @ Life Begins with M… 
+
+Nike can keep the #VaporMax2019!! Why change the entire concept @Nike
+
+9 am ballet I’m juuling behind the piano
+
+@MicDaMicrophone @PIPeJTV An FBI badge... 
+
+... with a vape inside
+
+bruh we get it you vape 
+
+Saw an anti-smoking ad on a taxi that mentioned Juul specifically
+
+@sonyaellenmann @totoTavrinky @hikikomorphism polyjuul
+
+I let my uncle smoke my vape pen and he decides to drink half of my water 🙄
+
+@bjorkestra Ghosts juulin
+
+@jordancooper CRO of Juul?
+
+@justinpervorse Wake ‘n’ vape
+
+@perirhinal @lamgary @samuelmaskell @augiesmokemeat 😋😋😋
+
+@djpardis @lamgary @augiesmokemeat 😍😋
+
+Screen time, maybe. But vaping? I am still concerned.
+
+B*nji in You vaping in 90% of his scenes was VERY triggering
+
+B*nji on You vaping in 90% of his scenes was VERY triggering
+
+NPC’s vape in Hitman 2
+
+@fonnesbeck @lamgary @samuelmaskell @augiesmokemeat On my 2019 roadmap 🙌
+
+@mims Why vaping today?
+
+can i be a juul pod sommelier ?? is that a job yet ?
+
+@dennisherrera @JUULvapor Here, you can read how @SFACC purposefully did not tell me that @HelpSaveCharlie was acti… 
+
+I just wrote a review on The Custard Shoppe Butterscotch eJuice  via @yotpo
+
+@BongManhero with a vape!  T-shirt available at  #superhighsuperhero #420life #roachboy 
+
+Anyone else find this ending? 
+
+#Bandersnatch @blackmirror @netflix @JUULvapor #juul #VapeFam #vape 
+
+**WAIT! You're supposed to smoke juul pods? And I've been sucking the nectar this whole time??**
+
+San Francisco ::  Analysis: Juul’s convenient smoke screen - SF Gate  💭🔁♥️ @HainesForSF
+
+@ace_phd i literally couldn’t find my mobile configured vape so i ordered another one and someone came to my house… 
+
+**San Francisco ::  Port officials considering way to boot Juul from city property - San Francisco Chronicle…** 
+
+Juuling at vanessa.rodriguez@juul.com 
+
+💎fix_not_found💀🍄
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl… 
+
+@caitlinburns_ @tumblr Don’t tell me alt-right took over vaporwave.
+
+**The next question that needs answering - how harmful is smoking e cigarettes vs. not smoking at all?     #juul**
+
+“Run the Juuls”
+
+**I wonder if a consumer company that sold to Facebook in this era would be viewed the same way as juul selling out t…** 
+
+if you can’t handle me at my AirPods, you don’t deserve me at my Juul Pod
+
+The amount of vape clouds on campus increases exponentially each semester😗💨
+
+@essenviews Aw. Boy’s got the vapors again.
+
+can i uber eats a juul
+
+#lofi hip-hop is #vaporwave.
+
+@djpardis @lamgary @samuelmaskell @augiesmokemeat For a moment I thought you were in Quebec!
+
+@juulietav2 Justifique su respuesta jajajaja
+
+Bouta do a juul pod Mukbang stay tuned
+
+## 2019.02
+
+SF’s Biggest Pot Lounge Opens for Smoking, Vaping, and Edible Snacking  via @EaterSF
+
+SF’s Biggest Pot Lounge Opens for Smoking, Vaping, and Edible Snacking  via @EaterSF
+
+@jnadeau *Oh my stars you’re not landed gentry I believe I have the vapors*
+
+@SpaceEnby At least we give our baby all the vaporware lighting a cat could ask for.
+
+bromeo let me hit your juuliette
+
+@hasanminhaj did you actually rip that @JUULvapor ? Or was that just phenomenal editing #studentloans #patriotact
+
+Juuls are called goobers now
+
+**Ive gone 5 days without a Juul rip. Just Reup’d**
+
+@phirephoenix @griph Cbd vape is immediately and longitudinally grand*
+
+***placebo or not, been working both ways for me**
+
+@benedictevans thoughts on Juul? $0 to $Billion in 3.5 years!?
+
+Where’s my juul type beat
+
+i just looked for my juul while putting another pod in it
+
+@smokeseller Tocan en breve en Oracle Arena. Te podés sacar la foto con Steph Curry y de paso ves a Weezer (?). Atendeme el combo.
+
+**More #ecig trial results being presented at @srnt2019 from @VCU TCORS research**
+
+If you told me three days ago, that Friday at noon I’d be smoking a cannabis vaporizer by myself at Dolores Park, I… 
+
+Juulius Caesar
+
+@2ahtnamas2 E cig 👀
+
+Shoutout to the guy with the neckbeard puffing a juul handsfree while riding a scoot for being the MOST sf thing I’ll see all day.
+
+@JUULvapor is hiring a CRM System Analyst in San Francisco, CA
+
+Apply Here: 
+
+#CRMJobs… 
+
+ADVKEN Owl Tank available👍
+#advken #vapelife #advken #owltank #vapeatomizer #advkenowl #hotselling #stopsmoking… 
+
+@MEENAVOGUEE juul pods
+
+lady at coffee shop: "what is with all this chainsaw noise? there aren't even trees around here"
+me: "it's a concre… 
+
+@GovMikeHuckabee @sawman1959 #Vaping
+
+seeing my non gmo paleo vape daddy soon ugh I’m so excited 
+
+juuling on the midnight bus moodboard 
+
+**i don’t juul anymore**
+
+ADVKEN Manta Tank available
+#vapefam #coolvape #advken #mantatank #stopsmoking #vapelife #hotselling #vapeon💨… 
+
+will juul be my valentine ? 🥰🙈💞🥴
+
+I'm at @Exploratorium in San Francisco, CA 
+
+Morning debate... Should I put my extra @BrentPella sticker on my juul? Really think it could accent the mango pod… 
+
+I wrote about the rebirth of Pax which spun out of Juul in 2017.
+
+In a tale of two San Francisco companies that spl… 
+
+Quiet moment smoke break for this Pipe Smoker with his face lit up from the flame. #Pipe #PipeSmoker #Tobacco #Hat… 
+
+@slayyyter i know im just going to be funding vodka crans and juul pods
+
+the juul hits differently before 10 am
+
+my juul was my valentine
+
+@Lexa_Merica @chapman_aly @FontanezIsrael @oftrashpatriot @ConnTaurinus @cigar68 @donaldslaw11 @nickliberty35… 
+
+Vaporesso Zero Pod&amp;Kit available🍴🍴🍴
+#vaporesso #zero  #zeropod #hotselling #vapelife #friendvape #stopsmoking… 
+
+Come see #blondetoledo #tonight at #armandos in #Martinez for #music #dancing #drinking #fin #cumbia #klezmer #rock… 
+
+@Privatesuitemag #Vaporwave2
+
+Everyone went into the bathroom to vape or hit their wax pens after the exam 😂😂
+
+All Kinds of Drip Tips/Mouthpieces
+Resin Bulb Glass for atomizers🙏
+#vapeon💨 #driptip #mouthpiece #vapeatomizer… 
+
+SMOK SLM Kit😎😎😎
+#smok #slmkit #vapefam #newestrelease #vapelife #stopsmoking #smokslm #vapeon💨 #coolvape #easyvape… 
+
+first vaporwave track kind of 
+
+@JamesKnight777 Investigate what is in your e-cig cartridge.  Decide if you want it.
+
+**But the nicotine will still b…** 
+
+the bart train operator just said over the speaker “you can’t vape on my train bro!” 🤣😤
+
+@saunology @saunologia In the 5th century BC, when Herodotus described the vapor-drug bath of the Scythians, a noma… 
+
+Y’all I caught a Vaporeon in the wild at #SFSU oh my goooood 
+
+**A reflection watching the Juul symposium this morning at #SRNT2018. There aren’t any new products that have been in…** 
+
+Officially making a $1,000 a picture on Instagram. #Influencermarketing #Fuckyea #whowantthesmoke
+
+**Vaping around children to normalize it for the younger generation &gt;&gt;**
+
+**@useeJeNnn @fubunker @talismaneye Menthol vape juice is a very lucrative product on the black market in San Francis…** 
+
+**Association of e-cig use with cigarette smoking in MTF cross-sectional youth data using propensity score adjustment…** 
 
 
+## 2019.03
+@sokareemie I use it to charge my weed vaporizer so I'm here for it
+
+@BassatYa @CleanUpWestSoma @TotesMcGotes @MattHaneySF @SFPDSouthern @FedUpSF @hknightsf @dansimoncnn… 
+
+@_jena4n @Hippie_of_Love @AllVape3 @grower618 @TheLoudBank @NeilSamra1 @EmeraldZoo @boobsNweed @cannaworldsite… 
+
+**All these youngins at the club hitting the juul**
+
+@samcorb Showing vape?
+
+GLACEON, we already have Vaporeon just stick the Vaporeon in an ice machine
+
+Just another eldritch god hanging out by the neighborhood vape shoppe @ Lower Nob Hill, San Francisco 
+
+And if you send anyhow, a Predator drone vaporizes you because you're a sociopath. 
+
+Voila, the world is fixed.
+
+U know u in the bay when your driver offers you the vape instead of bottled water. They earn them 5 stars different here.
+
+@tommycollison Drug-resistant bacteria. Vaping.
+
+@realDonaldTrump @TomJenkinsHG vaporizing
+ELECTROMAGNETIC
+terrain
+ORBITS 
+again ? too many parked autos 
+too many t… 
+
+I just updated my tours on my TrystNA profile! Catch me in San Francisco, San Diego, and Phoenix soon. To pre-book,… 
+
+I just updated my tours on my TrystNA profile! Catch me in San Francisco, San Diego, and Phoenix soon. To pre-book,… 
+
+I just updated my tours on my TrystNA profile! Catch me in San Francisco, San Diego, and Phoenix soon. To pre-book,… 
+
+yerba mate and juul rips are the new coffee and cigarettes
+
+Augvape VX200 Box Mod in stock
+#augvape #vx200boxmod #vapefam #newitems #vapelife #augvapevx200 #friendvape… 
+
+@ClarkDennisM Pos vaporware.
+
+🎨confettiblood💉🌧
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl… 
+
+The 2 vaporwave shows I’ve been to were fr filled with all white people
+
+Vaping Is Big Tobacco’s Bait and Switch 
+
+@godsmokescigs Is ur stool blue green?
+
+With two distinct, subtle flavor profiles, each available as both #vape and #preroll, #Leune is the most delightful… 
+
+@TheBestNuala which vape?
+
+PodBay Power bank charger available🐷
+#podbay #vapeaccessories #diyvape #friendvape #powerbank #hotselling… 
+
+.@HWusers’ Knapp built this e-cigarette charger in his hotel room at #RSAC2019. Including shipment it took him less… 
+
+@CalpainEqD Cloudchaser
+
+@CalpainEqD I usually go for Cloudchaser more.
+
+DJs need a separate tour manager for their Juuls
+
+@LaPincheAlex Vaporu
+
+♾sum=0☘️🏳️
+•
+•
+•
+{ #graffiti #feelsonwheels #sf #oakland #nyc #art #vaporwave #aesthetic #sadboys #sadgirl #seapunk… 
+
+I'm at City Smoke &amp; Vape Shop - @citysmoke_sf in San Francisco, CA 
+
+I just updated my tours on my TrystNA profile! Catch me in San Francisco, San Diego, and Phoenix soon. To pre-book,… 
+
+@Atomicfact That’s smoke Gandalf level vaping. 
+
+MYLE Kit&amp;Pod available
+#myle #vapelife #mylepod #vapefam #stopsmoking #podstarterkit #vapedaily #hotselling… 
+
+come with extra juul pods or don’t come at all
+
+
+
+## 2019.04
+**At San Francisco City Hall to propose the banning of e-cigerattes &amp; @JUULvapor from the city. Turn on your local sf…** 
+
+**At San Francisco City Hall to propose the banning of e-cigerattes &amp; @JUULvapor from the city. Turn on your loca gov…** 
+
+@Jake_Borsting @sfgov @JUULvapor @kron4news @JUULvapor @CNN @NBCNews @SFGate @ABC @joerogan @h3h3productions
+
+“can i see your juul? i wanna go smoke in the bathroom.”
+
+🌸 @ Japanese Tea Garden 
+
+.@Apple, why doesn’t my Face ID work when I’m rippin my Juul?? Considering the @Google Pixel now 🤔 smdh
+
+Ugh 3 different people blew vape smoke into my face. Those artificial flavors can’t possibly be good for you.
+
+david bowie vape tribute (bass boosted)
+
+**Re about time .do it .now.FDA is investigating nearly three dozen reports of seizures after vaping.** 
+
+@zaricharlie LET FLASH VAPE ON THE WAVERIDER YOU COWARDS
+
+we get it, Tony, you vape
+
+Unpopular Opinion: los Juuls son una adiccion asquerosa y no esta cool ser adicto a la nicotina
+
+Does Uber give these drivers CBD vape pens when they sign up
+
+ICYMI - Our very own Dr. @DanielleRamo was featured on @KQED speaking about #teens and #vaping. To watch the full i… 
+
+Just got an unsolicited call from someone claiming to be from @JUULvapor about some proposition in CA to regulate/r… 
+
+VCs loudly renouncing Co-Star but staying silent on JUUL says a lot.
+
+every time i try to charge my juul 
+
+@anshelsag @louieswisher @UWBadgers Oh that’s cold
+
+I really fucking forgot tes slapped me for asking if anyone had a juul yesterday
+
+@DanMasonVapor @DMTFL_ Vaporwave 3
+
+@lanavalrey Juul but you will probably lose it lol
+
+DECORATION OF E-LIQUID BOXES | Rsf Packaging
+🙂🙂🙂👉👉👉 👈👈👈🙂🙂🙂
+#customLiquidBoxes #LiquidBoxes… 
+
+🕶☀️Siesta, anyone? Bueller? Bueller??
+_____________________________
+#LEUNE #DesertGold #Vaporizer
+#Cannabis #Weed… 
+
+@VapinGamers That's US trends for you? what's your loc?
+
+@rocketrepreneur @amirblachman @SciGuySpace @Axiom_Space SpaceX and Blue Origin first stages of heavy-lift would ha… 
+
+Second study
+
+#vapor #caustics #octanerender @ San Francisco, California 
+
+I'm vaping in the stairwell
+
+Where are my Vaporwave Twitch streamers?
+
+Where the heck is my juul
+
+**San Francisco has turned into one big cloud of Juul smoke.**
+
+a temporary tryst
 
 
 
