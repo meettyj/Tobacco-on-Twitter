@@ -185,9 +185,45 @@ This "new sin to tax" chart on e-cig taxation in @TaxProToday's list of "worst p
 # --------------- New Jersey Level ---------------
 The policy is happened in New Jersey in 9/29/2018.
 
+## New Jersey
+#### Before
+governor murphy put a tax on juul pods...it’s like he wants to be the enemy of NJ smh
+#### After
+None
+
+## New York
+#### Before
+@_TheSmokeBreak_ Ya, use a straw, go to jail - but needles for heroin &amp; meth injections are (free) taxpayer funded;…
+
+Every time there’s smoke in the music industry i wish Tax was home to have these people on his podcast conducting t… 
+#### After
+@Newsday But Legalized Marijuana is totally fine!?!? Guess the Vape shops don’t pay enough tax or contribute enough to the Campaign.
+
+Lemme get this straight: smoking cigarettes &amp; e-cigarettes are a no-no but smoking pot is ok &amp; a reefer tax should…
+
+Is it really good health policy to tax vapor products and not tax NRT when vapor products are much more effective i… 
+
+@CBSNews Taxation without representation!! Try banning all tobacco and vaping products. Enough with taxes.
+
+S00876 [NEW] Provides for the taxation of electronic cigarette cartridges as tobacco products. 
+
+A03503 [NEW] Provides for the taxation of electronic cigarette cartridges as tobacco products.
+
+So if taxing vapes is to discourage people from using them, what is income tax?
+
+S00137 [NEW] Imposes a tax on vapor products at a rate of twenty-five cents per fluid milliliter, or a part thereof…
+
+It’s 2019 bitch, we submit Tax Returns tax returns early and so we hit the JUUL all night
 
 
 
+## pennsylvania
+
+## Connecticut
+
+## Delaware
+
+## Maryland
 
 
 
