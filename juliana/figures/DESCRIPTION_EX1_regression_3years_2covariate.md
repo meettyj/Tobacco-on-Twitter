@@ -20,7 +20,7 @@ The policy can be divided into three time points: **Proposal** (June 20, 2017), 
 
 
 
-# San Francisco tobacco tweets
+## tobacco
 
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/sentiment_propotion_tobacco_vader_description.png" />
