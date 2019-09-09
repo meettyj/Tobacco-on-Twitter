@@ -7,9 +7,8 @@ where x1 is [0,1,2,...,36] for 37 months,
 x2 is [0,2,4,...,72] for positive (x1 times 2), [0,3,6,...,108] for neutral (x1 times 3) and [0,1,2,...,36] for negative (x1 times 1).
 
 In the figure below:
-  the coeffcients screenshots are ranked in [line 1, line 2, line 3, line 4]
+  the coeffcients screenshots are ranked in [line 1, line 2, line 3]
 ```
-
 
 
 # Sentiment Analysis
@@ -17,100 +16,31 @@ In the figure below:
 ## ecig
 
 
-### positive
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_positive_sec1.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_posAndNeg_sec1.png" />
 </p>
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_positive_sec2.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_posAndNeg_sec2.png" />
 </p>
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_positive_sec3.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_positive_sec4.png" />
-</p>
-
-### neutral
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_neutral_sec1.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_neutral_sec2.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_neutral_sec3.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_neutral_sec4.png" />
-</p>
-
-### negative
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_negative_sec1.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_negative_sec2.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_negative_sec3.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_negative_sec4.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/ecig_posAndNeg_sec3.png" />
 </p>
 
 ### figure
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/sentiment_propotion_ecig_vader.png" />
-</p>
+
 
 
 
 ## tobacco
-### positive
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_positive_sec1.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_posAndNeg_sec1.png" />
 </p>
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_positive_sec2.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_posAndNeg_sec2.png" />
 </p>
 <p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_positive_sec3.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_positive_sec4.png" />
-</p>
-
-### neutral
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_neutral_sec1.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_neutral_sec2.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_neutral_sec3.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_neutral_sec4.png" />
-</p>
-
-### negative
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_negative_sec1.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_negative_sec2.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_negative_sec3.png" />
-</p>
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_negative_sec4.png" />
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/tobacco_posAndNeg_sec3.png" />
 </p>
 
 ### figure
 
-<p align="center">
-  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years_2covariate/sentiment_propotion_tobacco_vader.png" />
-</p>
