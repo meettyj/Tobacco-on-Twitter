@@ -2,10 +2,11 @@ The policy can be divided into three time points: **Proposal** (June 20, 2017), 
 
 ```
 y = A*x1 + B*x2 + C
+
 In the figure below:
-slope: A
-sentiment: B
-constant: C
+  slope: A
+  sentiment: B
+  constant: C
 ```
 
 
