@@ -7,9 +7,7 @@ where x1 is [0,1,2,...,36] for 37 months,
 x2 is [0,2,4,...,72] for positive (x1 times 2), [0,3,6,...,108] for neutral (x1 times 3) and [0,1,2,...,36] for negative (x1 times 1).
 
 In the figure below:
-  month: A
-  month*sentiment: B
-  constant: C
+  the coeffcients screenshots are ranked in [line 1, line 2, line 3, line 4]
 ```
 
 
