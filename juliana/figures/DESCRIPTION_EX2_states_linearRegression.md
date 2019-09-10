@@ -27,7 +27,7 @@ Linear regression for the before/after relationships in experiment 2 for all sta
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_total_P_neutral.png" />
 </p>
 
-## P_positive
+## P_negative
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_total_P_negative.png" />
 </p>
@@ -61,7 +61,7 @@ Here we remove all states in Delaware level (5 states) and Delaware in New Jerse
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_part_P_neutral.png" />
 </p>
 
-## P_positive
+## P_negative
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_part_P_negative.png" />
 </p>
