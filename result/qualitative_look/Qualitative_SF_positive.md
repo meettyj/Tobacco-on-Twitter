@@ -1,6 +1,6 @@
 # Qualitative Look (San Francisco, Positive)
 
-## 2016.05
+## 2017.05
 It was. I know David &amp; Scotty r happy I'm doing some marketing for 680 in SF. Hope ur well. M sure you're njoying t… 
 
 Want to work at Kelly Services? We're #hiring in #SouthSanFrancisco, CA! Click for details:  #KellyJobs #Job #Jobs
@@ -64,7 +64,7 @@ Lol I don't mind if you shine, @dereck72vapes
 @dereck72vapes lol you already bought it
 
 
-## 2016.06 (Proposal)
+## 2017.06 (Proposal)
 
 Do I really want a Swarovski crystallized vape pen? Yes...yes I do.
 
@@ -117,7 +117,7 @@ Want to work in #SouthSanFrancisco, CA? View our latest opening:  #KellyJobs #Ke
 
 someone just vaped right in my face i love san francisco
 
-A win for #vapers today. #vape #ecig 
+**A win for #vapers today. #vape #ecig**
 
 "I will be a hummingbird. 
 I will do the best I can."
@@ -128,13 +128,13 @@ Can you recommend anyone for this #job? Risk Analyst Operations - BART Accessabl
 
 The sound of someone vaping makes me want to vape more😩😵
 
-It's hard to quit vaping when all your friends vape...😩
+**It's hard to quit vaping when all your friends vape...😩**
 
 @VincentMRubino @louieswisher We did. His other mom is great too
 
 Celebrate Independence Day all weekend in The Lounge where you have the freedom to vape, smoke, and consume cannabis however you like
 
-Do you guys like my new vape 
+**Do you guys like my new vape** 
 
 ## 2018.05
 @GrantedImmunity Lol no vape pen?
