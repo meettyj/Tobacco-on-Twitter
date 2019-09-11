@@ -32,6 +32,11 @@ Linear regression for the before/after relationships in experiment 2 for all sta
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_total_P_negative.png" />
 </p>
 
+## P_ecigState2
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_total_P_ecigState2.png" />
+</p>
+
 
 # Without Delaware level (14 points)
 Here we remove all states in Delaware level (5 states) and Delaware in New Jersey level (1 state).
@@ -65,3 +70,9 @@ Here we remove all states in Delaware level (5 states) and Delaware in New Jerse
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_part_P_negative.png" />
 </p>
+
+## P_ecigState2
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX2_states_linearRegression/LR_part_P_ecigState2.png" />
+</p>
+
