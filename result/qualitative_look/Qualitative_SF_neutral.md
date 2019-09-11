@@ -1,6 +1,6 @@
 # Qualitative Look (San Francisco, Neutral)
 
-## 2016.05
+## 2017.05
 spent my entire day in bed eating delivery food, hitting my vape, and making a playlist of songs that remind me of the moon
 
 There is a company that makes a pot oil vaporizer and they call it Muad-Dib
@@ -71,13 +71,13 @@ Taste and feel the difference with @selectstrains Vape Cartridges. Come by SFFOG
 Nothing less street than a grown man in a prius listening to heavy metal &amp; vaping
 
 
-## 2016.06
+## 2017.06 (Proposal)
 
 #starboardwindsurfing #starboardfoils #livingthetikkilife #gasails #vapor #bayclassic #photo… 
 
 #starboardfoils #livingthetikkilife #starboardwindsurfing #gasails #vapor #photo #lcolvin @ St.… 
 
-The first picture of the new official podcast for @IrrationalPod the R.A.D. cast. Episode 1: Does it vape ? 
+**The first picture of the new official podcast for @IrrationalPod the R.A.D. cast. Episode 1: Does it vape ?** 
 
 Need them vapormax asap 
 
@@ -85,7 +85,7 @@ Need them vapormax asap
 
 @wheretobuyvapes @AmantRyan THAT=FIRE!!!!
 
-@jessefelder Can we update this with a vape index?
+**@jessefelder Can we update this with a vape index?**
 
 🌸✨
 •
@@ -93,7 +93,7 @@ Need them vapormax asap
 •
 { #custom #graffiti #vansofsf #vansofnyc #feelsonwheels #sf #nyc #magic #art #vaporwave… 
 
-Overflow crowd! UCSF Stan Glantz says kids who vape 4x more likely to smoke year later. #NoMoreFlavoredTobacco 
+**Overflow crowd! UCSF Stan Glantz says kids who vape 4x more likely to smoke year later. #NoMoreFlavoredTobacco** 
 
 See our latest #SouthSanFrancisco, CA #job and click to apply: Director of Drug Development -  #KellyJobs #Hiring
 
@@ -111,7 +111,7 @@ Check out our roundup of recent news stories covering e-cig and vape battery exp
 
 Camelbak™ but it's a vape
 
-DID YOU KNOW?: the "e" in "email" stands for "electronic cigarette"
+**DID YOU KNOW?: the "e" in "email" stands for "electronic cigarette"**
 
 The colour of @TamaraLohan &amp; I after @soulcycle. Look out for two hot female founders @TessaLFCook @janetcoyle2… 
 
@@ -155,7 +155,7 @@ I knew I shoulda brought my vape
 
 
 
-Still waiting for the right moment to vape on tv...… 
+**Still waiting for the right moment to vape on tv...… **
 
 In which I grill my progeny @louieswisher 
 
