@@ -1,6 +1,6 @@
 # Qualitative Look (San Francisco, Negative)
 
-## 2016.05
+## 2017.05
 @lawlerb @weruvapets Oh no. I'm inclined to believe it could be any of their foods, regardless of what market. I plan to call them.
 
 @TheGreyKing @onebrightlight @larochewastaken I have no context for this but I'm still getting the vapors rn
@@ -25,7 +25,7 @@ Vaping is addicting. I need to stop rn😩
 rebelssf are 9-0 for the season! We'll miss you @Lord_Vick! #SFGSL sfgaysoftball @ Moscone Field 
 
 
-## 2016.06
+## 2017.06 (Proposal)
 Remember when you said vapormaxes were hurt 🤔🤔 #vapormaxboyzordie 
 
 There is a guy in the bathroom stall next to me vaping...I bet he thinks no one can see the cloud or smell the cotton candy 🤔
