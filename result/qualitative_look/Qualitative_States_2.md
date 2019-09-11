@@ -86,16 +86,31 @@ Donating blood to buy juul pods
 ## pennsylvania
 
 #### Before
-
+None
 
 #### After
 
+Do I really wanna waste $40 on a juul?
 
+@VapeJuc No one cares!  They hate smokers because smokers are often poor and poor people need to die. Cognitive dis…
 
+@TobaccoFreeKids Mike Myers I met you last Friday and the one thing I didnt get to say.  Taxing poor, uneducated, m…
 
+@VapingmominRI @JohnsHopkinsSPH @EllenJMacKenzie They wont care!  Poor people are the only people smoking and we al…
 
+@RepBloom @RepGrove Except for life saving #vape products.  We must not stand against those taxes. Those only affec…
 
+@lipiroy @ASAMorg @NYCTreatTobacco @TobaccoFreeKids @ucanquit2 Tobacco tax money is even more addictive...
 
+I'm raising money for Help kali buy a juul. Click to Donate:   via @gofundme
+
+Yeo who’s selling juuls for the lowski I lost mine lastnight and I’m not paying 60 bucks for another one
+
+can someone venmo me 50 dollars i wanna buy a juul
+
+They dont want to "over tax" it at one time as that would be cruel.  A buck a pack is Just a dollar a day, that doesn't  hurt much. They all say i will quit or cut back but that just doesn't seem to happen. Funny most of the Americans at conference just got a tax cut!
+
+@PeterJGWard @SenBlumenthal You dont understand. Cigarettes are a 54 billion dollar tax scam on poor people.. e cigs are the enemy.
 
 
 
@@ -104,7 +119,47 @@ Donating blood to buy juul pods
 ## pennsylvania
 
 #### Before
+Yeah right FDA y’all are never gonna stop me from being a vape god
 
 
 #### After
+
+Snag one while you can and before these tariffs start jacking prices up. 
+@LostVape
+ Orion and Triade #gyvo #getyourvapeon #vaporizer #vaporshop #notblowingsmoke #vapepics #vapeporn #vaping… 
+ 
+Jeez the FDA is treating flavored juul pods like they are using it to make crystal meth
+
+i’ve convinced myself that the only reason the FDA wants to ban things like juul pods and other vape stuff is because the government rakes in billions in cigarette taxes every year lmao
+
+The FDA plans new restrictions on flavored, pod-style e-cigarettes to curtail their rising use among youth, accordi…
+
+@US_FDA has plans to ban flavored e-cigarette pods as early as next week. This move will only make it more difficul…
+
+The FDA wants to ban Juul... how about they completely ban cigarette smoking as well. It’s the leading cause of pre…
+
+For you idiots retweeting this, Juuls being banned has to do with FDA regulations... banning guns takes away a CONS…
+
+the fda is trying to ban Juuls and other vapes to “stop kids from smoking”... on a completely unrelated note, the t…
+
+#BREAKING #news @FDA proposes restrictions on flavored #e-cigarettes, ban on menthol #cigarettes and flavored cigar…
+ 
+why are the juul starter packs so expensive? for $70 i’ll just go buy an actual vape lmao
+
+Juuls are about to be cancelled bc big tobacco is raising the prices so marbolo lights I will be back for you soon
+
+I'm raising money for Taylor’s Juul. Click to Donate:   via @gofundme
+
+
+
+
+
+
+
+
+
+
+
+
+
 
