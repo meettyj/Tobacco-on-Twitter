@@ -38,14 +38,17 @@ I wanna go back to California, Nevada smells like vape and cigarettes
 ## Missouri
 
 #### Before
-
+None
 
 #### After
 
+@VapeWild @jmodzboxbuilds I just took a stab in the dark. When I bought my first Kangertech NEBOX it was $150 so I just went off that.
 
+@VapeWild @jmodzboxbuilds Hmm...$110?
 
+@JakeDeann @VapeWild @jmodzboxbuilds I bought my first one the day they officially came out so they were more expensive. I also got the 2nd one from eBay so it was much cheaper.
 
-
+Hannah just requested a venmo from me for $2.00 w the caption "pls I'm out of vape juice."
 
 
 
@@ -56,10 +59,28 @@ I wanna go back to California, Nevada smells like vape and cigarettes
 ## New Jersey
 
 #### Before
+Huge #eliquid Sale this Saturday at #p0tcom 
+#p0tcom #eliquid #vape #ejuice @  
+
+Having a juul is cool or whateva until you find yourself buying a $20 pack of pods every 3 days 😂
+
+@csilva0718 Juul pack is $21 and is 4 pack soooooooooo
 
 
 #### After
+if anyone wants to give me $50 to buy a new juul id really appreciate it thnx
 
+Y’all think you chillin with Juuls till your balance half the price of pods and you gotta get a pack &amp; now you trapped
+
+I just spent $$$ for a freaking vape i could have just bought a shoes
+
+A3181 [NEW] Prohibits use of coupons, price rebates, and price reduction promotions in sales of tobacco and vapor...
+
+@JUULvapor Little marketing 101 for you, put the price on your pods like @DrinkAriZona they are gonna be around for…
+
+Easily spent 1,000 $ on Juul pods
+
+Donating blood to buy juul pods
 
 
 ## pennsylvania
