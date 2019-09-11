@@ -1,4 +1,4 @@
-# Qualitative Look (San Francisco)
+# Qualitative Look (San Francisco, tobacco)
 
 ## 2017.05
 If vape E juice are banned/regulated cause they "appeal to kids". Why not the same to Mr.Sketch markers? Might be a gateway to sharpies! 😂
