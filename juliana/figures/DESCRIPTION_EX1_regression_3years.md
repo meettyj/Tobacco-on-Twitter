@@ -73,3 +73,12 @@ The policy can be divided into three time points: **Proposal** (June 20, 2017), 
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years/sentiment_propotion_tobacco_vader.png" />
 </p>
+
+# San Francisco flavored tobacco tweets
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years/number_SF_flavored_tobacco.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/juliana/figures/screenshots/EX1_regression_3years/proportion_SF_flavored_tobacco_in_SF_tobacco_tweets.png" />
+</p>
