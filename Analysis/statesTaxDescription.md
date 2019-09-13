@@ -1,4 +1,4 @@
-# California
+# California (2017.4.1)
 ## Conclusion
 E-cigarette share the same tax as tobacco products since April 1, 2017. Tobacoo products rate changed from time to time.
 - **April 1,2017: 27.30% of wholesale cost**
@@ -28,7 +28,7 @@ The following products are not subject to the tobacco products tax; however, the
 For more information, check detailed description in [https://www.cdtfa.ca.gov/taxes-and-fees/cig-n-tob-prod-tax-faq.htm](https://www.cdtfa.ca.gov/taxes-and-fees/cig-n-tob-prod-tax-faq.htm).
 
 
-# Kansas
+# Kansas (2017.7.1)
 
 ## Conclusion
 The 2015 Legislature passed some bill to impose a tax on electronic cigarettes, at the rate of $.20 per milliliter of consumable material for electronic cigarettes and a proportionate tax at the like rate on all fractional parts thereof.” The effective date of this
@@ -49,9 +49,27 @@ For bill in 2016: [https://www.ksrevenue.org/taxnotices/notice16-06.pdf](https:/
 
 For bill in 2017: [https://www.ksrevenue.org/taxnotices/notice17-12.pdf](https://www.ksrevenue.org/taxnotices/notice17-12.pdf)
 
-# Delaware
+# Delaware (2018.1.1)
 
 ## Conclusion
+Effective 01/01/2018, the excise tax is imposed on the sale or use of vapor products within the State of Delaware at the rate of five cents ($0.05) per fluid milliliter. Couldn't find any special taxation on electronic smoking devices.
+
+
+## Details
+
+Vapor product: any nicotine liquid solution or other material containing nicotine that is intended to be used with or in an electronic smoking device. 
+
+- [https://revenue.delaware.gov/frequently-asked-questions/vapor-products-faqs/](https://revenue.delaware.gov/frequently-asked-questions/vapor-products-faqs/)
+
+- [https://www.avalara.com/taxrates/en/blog/2017/07/delaware-tax-vaping-products.html](https://www.avalara.com/taxrates/en/blog/2017/07/delaware-tax-vaping-products.html)
+
+# New Jersey (2018.1.1)
+
+## Conclusion
+
+
+## Details
+
 
 
 
