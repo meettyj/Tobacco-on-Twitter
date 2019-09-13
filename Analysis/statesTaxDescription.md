@@ -17,7 +17,7 @@ In November 2016, California voters approved Proposition 56, which amended the d
 - Any product containing, made of, or derived from tobacco that is intended for human consumption (previously products, other than cigars, smoking or chewing tobacco, or snuff, had to contain at least 50 percent tobacco to be subject to the tobacco products tax).
 - Any product containing, made of, or derived from nicotine that is intended for human consumption and sold with or without a nicotine delivery device.
 - **Electronic cigarettes or any device or delivery system sold in combination with nicotine (examples of a device or delivery system include, but are not limited to, eCigars, ePipes, vape pens, and eHookahs).**
-- Any component, part, or accessory of an electronic cigarette that is used during the operation of the device when sold in combination with nicotine (for example, a battery used in the operation of the device sold in combination with nicotine).
+- **Any component, part, or accessory of an electronic cigarette that is used during the operation of the device when sold in combination with nicotine (for example, a battery used in the operation of the device sold in combination with nicotine).**
 
 The following products are not subject to the tobacco products tax; however, they are still subject to cigarette and tobacco products retail licensing:
 
@@ -63,16 +63,22 @@ Vapor product: any nicotine liquid solution or other material containing nicotin
 
 - [https://www.avalara.com/taxrates/en/blog/2017/07/delaware-tax-vaping-products.html](https://www.avalara.com/taxrates/en/blog/2017/07/delaware-tax-vaping-products.html)
 
-# New Jersey (2018.1.1)
+# New Jersey (2018.9.29)
 
 ## Conclusion
+Liquid nicotine taxed at rate of $0.10 per fluid milliliter by volume, and a proportionate rate on all fractional parts of fluid milliliter. The Tobacco and Nicotine Products Wholesale Sales and Use Tax is imposed at the rate of 30% on the wholesale price the distributor pays to buy the products from the manufacturer.
 
 
 ## Details
+P.L. 2018, c. 50, signed into law on July 1, 2018, amended the Tobacco and Nicotine Products Wholesale Sales and Use Tax Act (N.J.S.A. 54:40B-1 et seq.). The amendments impose a $0.10 per fluid milliliter tax on sales of liquid nicotine.
 
+- [https://www.state.nj.us/treasury/taxation/tobacco_over.shtml](https://www.state.nj.us/treasury/taxation/tobacco_over.shtml)
 
+-[https://www.state.nj.us/treasury/taxation/excisetaxrate.shtml](https://www.state.nj.us/treasury/taxation/excisetaxrate.shtml)
 
+- [https://www.publichealthlawcenter.org/resources/us-e-cigarette-regulations-50-state-review/nj](https://www.publichealthlawcenter.org/resources/us-e-cigarette-regulations-50-state-review/nj)
 
+- [https://legiscan.com/NJ/text/A4132/id/1813786](https://legiscan.com/NJ/text/A4132/id/1813786)
 
 
 
