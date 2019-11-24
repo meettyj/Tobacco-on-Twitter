@@ -37,3 +37,32 @@
 	'whitelist_status': 'promo_adult'
 }
 ```
+
+
+## Comment example (https://api.pushshift.io/reddit/comment/search?ids=ds0npl7)
+```
+{
+    'approved_at_utc': None,
+    'author': 'kwajr',
+    'author_flair_css_class': 'current',
+    'author_flair_text': 'TherionDNA75cbfw/deadrabbit',
+    'banned_at_utc': None,
+    'body': 'Perhapstheydidmessupthenic.',
+    'can_mod_post': False,
+    'collapsed': False,
+    'collapsed_reason': None,
+    'created_utc': 1514765577,
+    'distinguished': None,
+    'edited': False,
+    'id': 'ds0npl7',
+    'is_submitter': False,
+    'link_id': 't3_7nbz39',
+    'parent_id': 't3_7nbz39',
+    'permalink': '/r/electronic_cigarette/comments/7nbz39/brand_new_coil_brand_new_juice_way_too_harsh_and/ds0npl7/',
+    'retrieved_on': 1514765579,
+    'score': 1,
+    'stickied': False,
+    'subreddit': 'electronic_cigarette',
+    'subreddit_id': 't5_2qmlu'
+}
+```
