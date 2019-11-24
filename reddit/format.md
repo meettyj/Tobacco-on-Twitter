@@ -1,4 +1,4 @@
-## Submission example (https://api.pushshift.io/reddit/search/submission/)
+## Submission format (https://api.pushshift.io/reddit/search/submission/)
 ```
 {
 	'author': 'jayden8250',
@@ -39,7 +39,7 @@
 ```
 
 
-## Comment example (https://api.pushshift.io/reddit/comment/search?ids=ds0npl7)
+## Comment format (https://api.pushshift.io/reddit/comment/search?ids=ds0npl7)
 ```
 {
     'approved_at_utc': None,
