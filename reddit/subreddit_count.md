@@ -1,4 +1,11 @@
+## Conclusion
 
+- We can search keywords without specifying subreddit
+- Words in the search query will not appear linked in the results
+  - Search '**electronic cigarettes**': results contain 'I smoke regular **cigarettes** and **electronic** ones'
+- The hyphen(-) is not working in keywords. API will replace them by space automatically.
+- Each word in the search query should appear individually without being part of other words.
+  - Search '**e juice**': results will contain 'we love **e juice**', but **will not** contain 'we lov**e juice**'
 
 ## Keywords
 ```
@@ -38,7 +45,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | ehookah | 0 | None |
 
 ## Problems
-- **Too many requests limitation** (Response 429). It seems we cannot send too many request in a short time, but we can solve this by separate the requests in different time period.
+- **Too many requests limitation (Response 429)**. It seems we cannot send too many request in a short time, but we can solve this by separate the requests in different time period.
 
 
 
