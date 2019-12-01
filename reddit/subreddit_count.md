@@ -1,11 +1,12 @@
 ## Conclusion
 
-- We can search keywords without specifying subreddit
-- Words in the search query will not appear linked in the results
-  - Search '**electronic cigarettes**': results contain 'I smoke regular **cigarettes** and **electronic** ones'
-- The hyphen(-) is not working in keywords. API will replace them by space automatically.
+- We can search keywords without specifying subreddit.
+- Words in the search query will not appear concatenated in the results.
+  - Search '**electronic cigarettes**': results contain 'I smoke regular **cigarettes** and **electronic** ones'. However, most results contains 'electronic cigarettes' instead of each word separately. This depends on query.
+  - This feature can be applied to search flavored ecig keywords (e.g. smoke + blueberry). 
+- The hyphen(-) is not working in keywords. API will treat them as space and search each word individually.
 - Each word in the search query should appear individually without being part of other words.
-  - Search '**e juice**': results will contain 'we love **e juice**', but **will not** contain 'we lov**e juice**'
+  - Search '**e juice**': results will contain 'we love **e juice**', but **will not** contain 'we lov**e juice**'.
 
 ## Keywords
 ```
