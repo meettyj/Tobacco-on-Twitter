@@ -1,17 +1,9 @@
-## Conclusion
+I randomly choose two month (January 2018, and June 2018) to analyze the distribution of ecig keywords results in different subreddits.
 
+## Conclusion
 - The reddits collection can be devided into 2 parts:
   - search the same keywords without specifying subreddit.
   - crawl all submissions under specific subreddit.
-
-
-## API Explanation
-- Words in the search query will not appear concatenated in the results.
-  - Search '**electronic cigarettes**': results contain 'I smoke regular **cigarettes** and **electronic** ones'. However, most results contains 'electronic cigarettes' instead of each word separately. This depends on query.
-  - This feature can be applied to search flavored ecig keywords (e.g. smoke + blueberry). 
-- The hyphen(-) is not working in keywords. API will treat them as space and search each word individually.
-- Each word in the search query should appear individually without being part of other words.
-  - Search '**e juice**': results will contain 'we love **e juice**', but **will not** contain 'we lov**e juice**'.
 
 ## Keywords
 ```
@@ -34,6 +26,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | electronic cig | 0 | None |
 | ehookah | 0 | None |
 
+
 ## 2018.6.1 - 2018.6.30
 
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit  |
@@ -49,6 +42,15 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | e hookah | 3 | ('electronic_cigarette', 2), ('sanfrancisco', 1) |
 | electronic cig | 1 | ('vaporents', 1)] |
 | ehookah | 0 | None |
+
+
+## API Explanation
+- Words in the search query will not appear concatenated in the results.
+  - Search '**electronic cigarettes**': results contain 'I smoke regular **cigarettes** and **electronic** ones'. However, most results contains 'electronic cigarettes' instead of each word separately. This depends on query.
+  - This feature can be applied to search flavored ecig keywords (e.g. smoke + blueberry). 
+- The hyphen(-) is not working in keywords. API will treat them as space and search each word individually.
+- Each word in the search query should appear individually without being part of other words.
+  - Search '**e juice**': results will contain 'we love **e juice**', but **will not** contain 'we lov**e juice**'.
 
 ## Problems
 - **Too many requests limitation (Response 429)**. It seems we cannot send too many request in a short time, but we can solve this by separate the requests in different time period.
