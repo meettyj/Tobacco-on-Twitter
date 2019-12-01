@@ -37,8 +37,8 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | electronic cig | 1 | ('vaporents', 1)] |
 | ehookah | 0 | None |
 
-## Some problems
-Too many requests limitation. <Response [429]>
+## Problems
+- **Too many requests limitation** (Response 429). It seems we cannot send too many request in a short time, but we can solve this by separate the requests in different time period.
 
 
 
