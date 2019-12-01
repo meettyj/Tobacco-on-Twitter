@@ -18,9 +18,27 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | e cig | 71 | ('electronic_cigarette', 15), ('VapeBargainsUK', 4), ('trees', 2), ('vaporents', 2), ('stopsmoking', 2) |
 | ecig | 36 | ('electronic_cigarette', 10), ('VapeBargainsUK', 5), ('Vaping', 3), ('DMT', 3), ('CouponProCanada', 2) |
 | e hookah | 2 | ('hookah', 2) |
-| electronic cig | 0 | ('electronic_cigarette', 15), ('VapeBargainsUK', 4), ('trees', 2), ('vaporents', 2), ('stopsmoking', 2) |
+| electronic cig | 0 | None |
 | ehookah | 0 | None |
 
+## 2018.6.1 - 2018.6.30
+
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit  |
+| ------------- | ----------------------- | ----------------------- |
+| vape | 2837 | ('Vaping', 418), ('vaporents', 245), ('electronic_cigarette', 181), ('trees', 134), ('CBD', 85), ('ecig_vendors', 83), ('VapePorn', 76), ('ecigclassifieds', 64), ('Vaping101', 57), ('Ice_Poseidon', 52), ('h3h3productions', 38), ('oilpen', 34), ('weed', 29), ('EntExchange', 26), ('DMT', 26), ('teenagersnew', 25), ('Canadian_ecigarette', 22), ('Waxpen', 21), ('juul', 19), ('AskReddit', 19), ('333', 17), ('Drugs', 15) |
+| e liquid | 257 | ('ecig_vendors', 53), ('VapeBargainsUK', 31), ('electronic_cigarette', 16), ('Vaping', 15), ('CBD', 9) |
+| e juice | 216 | ('electronic_cigarette', 34), ('Vaping', 24), ('ecig_vendors', 19), ('ejuice', 13), ('CBD', 8) |
+| ejuice | 140 | ('electronic_cigarette', 20), ('Vaping', 14), ('ecig_vendors', 14), ('BestOfVapeDeals', 13), ('vape_deals', 12) |
+| electronic cigarette | 24 | ('Health', 6), ('electronic_cigarette', 4), ('eCigarette', 2), ('VAP', 2), ('u_soulblu1', 1)|
+| eliquid | 60 | ('ejuice_reviews', 12), ('Vaping', 9), ('electronic_cigarette', 7), ('VapeBargainsUK', 5), ('ecig_vendors', 3) |
+| e cig | 110 | ('electronic_cigarette', 25), ('VapeBargainsUK', 7), ('NBCauto', 7), ('AutoNewspaper', 7), ('ecigclassifieds', 5) |
+| ecig | 27 | ('electronic_cigarette', 11), ('bonnaroo', 2), ('Vaping', 2), ('Stims', 1), ('VapeBargainsUK', 1) |
+| e hookah | 3 | ('electronic_cigarette', 2), ('sanfrancisco', 1) |
+| electronic cig | 1 | ('vaporents', 1)] |
+| ehookah | 0 | None |
+
+## Some problems
+Too many requests limitation. <Response [429]>
 
 
 
