@@ -1,6 +1,11 @@
 ## Conclusion
 
-- We can search keywords without specifying subreddit.
+- The reddits collection can be devided into 2 parts:
+  - search the same keywords without specifying subreddit.
+  - crawl all submissions under specific subreddit.
+
+
+## API Explanation
 - Words in the search query will not appear concatenated in the results.
   - Search '**electronic cigarettes**': results contain 'I smoke regular **cigarettes** and **electronic** ones'. However, most results contains 'electronic cigarettes' instead of each word separately. This depends on query.
   - This feature can be applied to search flavored ecig keywords (e.g. smoke + blueberry). 
@@ -48,11 +53,4 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 ## Problems
 - **Too many requests limitation (Response 429)**. It seems we cannot send too many request in a short time, but we can solve this by separate the requests in different time period.
 
-
-
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
