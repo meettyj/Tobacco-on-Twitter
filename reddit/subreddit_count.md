@@ -34,6 +34,12 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | San Francisco Ban | 26 | ('sanfrancisco', 2), ('unremovable', 2), ('The_Verge_Tech_RSS', 1), ('badgovnofreedom', 1) | **hackernews**: San Francisco proposal would ban government facial recognition use in the city| **None** related to ecig bans|
 
 
+## Two month before Enactment (2018.11 and 2018.12)
+
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| San Francisco Ban | 16 | ('The_Donald', 3), ('politics', 2), ('newsbotbot', 2) | **DiversityNews**: San Francisco Judge Blocks Asylum Ban For Aliens Who Cross Border Illegally…| **None** related to ecig bans|
+
 
 ## Random Month (2018.01)
 
