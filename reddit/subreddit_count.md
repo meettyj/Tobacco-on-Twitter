@@ -1,4 +1,4 @@
-Here are some collection results using **[Ban-related keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#1-ban-related-keywords-flavor)**, **[Tax-related keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#2-tan-related-keywords)**, and **[Ecig keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#3-ecig-keywords)** in Reddit.
+Here are some collection results using **[Ban-related keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#1-ban-related-keywords-flavor)**, **[Tax-related keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#2-tax-related-keywords)**, and **[Ecig keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#3-ecig-keywords)** in Reddit.
 
 ## Conclusion
 - The reddits collection can be devided into 2 parts:
