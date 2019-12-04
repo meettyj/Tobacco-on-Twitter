@@ -8,7 +8,7 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 
 
 
-# 1. Ban-related keywords
+# 1. Ban-related keywords (Flavor)
 ## Proposal (2017.06)
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
@@ -43,6 +43,24 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | San Francisco Ban | 16 | ('The_Donald', 3), ('politics', 2), ('newsbotbot', 2) | **DiversityNews**: San Francisco Judge Blocks Asylum Ban For Aliens Who Cross Border Illegally…| **None** related to ecig bans|
+
+# 1. Tax-related keywords
+## California (2017.04)
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| California ecig tax | None | N/A | N/A | N/A |
+| California vape | None | N/A | N/A | N/A |
+| California tax | 203 | ('AutoNewspaper', 32), ('California', 22), ('The_Donald', 16) | **news**: California side deals for Gas Tax. **news**: California looks to ban tobacco product discounts after state's recent $2-a-pack tax hike | **Few** of them related to ecig tax. Most of them about gas tax. |
+| California | 12928 | N/A | N/A | N/A |
+
+## Kansas (2017.07)
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| Kansas ecig tax | None | N/A | N/A | N/A |
+| Kansas tax | 19 | ('AutoNewspaper', 5), ('TWTauto', 3), ('MIAMIHERALDauto', 2) | **TWTauto**: Business - Kansas' tax cut failure an economic warning to Republican| **None** related to ecig bans|
+| Kansas vape | None | N/A | N/A | N/A |
+| Kansas | 2235 | ('ImagesOfKansas', 196), ('AutoNewspaper', 194), ('MIAMIHERALDauto', 74) | N/A | N/A |
+
 
 # 2. Ecig keywords
 ```
