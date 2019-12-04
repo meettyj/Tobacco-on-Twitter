@@ -44,7 +44,11 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | San Francisco Ban | 16 | ('The_Donald', 3), ('politics', 2), ('newsbotbot', 2) | **DiversityNews**: San Francisco Judge Blocks Asylum Ban For Aliens Who Cross Border Illegally…| **None** related to ecig bans|
 
-# 1. Tax-related keywords
+
+# 2. Tax-related keywords
+
+I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the combination of place + tax is not that positive.
+
 ## California (2017.04)
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
@@ -61,8 +65,24 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 | Kansas vape | None | N/A | N/A | N/A |
 | Kansas | 2235 | ('ImagesOfKansas', 196), ('AutoNewspaper', 194), ('MIAMIHERALDauto', 74) | N/A | N/A |
 
+## Delaware (2018.01)
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| Delaware ecig tax | None | N/A | N/A | N/A |
+| Delaware tax | 7 | 'Delaware', 4), ('electronic_cigarette', 1) | **electronic_cigarette**: Delaware: E-Liquid tax ($0.05/ml) Goes Into Effect (at least you're not Pennsylvania)| 3 out of 7 are related to ecig bans|
+| Delaware vape | 1 | ('Breazy', 1) | **Breazy**: Delaware Vape Tax Takes Effect | N/A |
+| Delaware | 669 | ('AutoNewspaper', 75), ('Delaware', 54), ('MIAMIHERALDauto', 41) | N/A | N/A |
 
-# 2. Ecig keywords
+## New Jersey (2018.09 and 2018.10)
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| New Jersey vape | 3 | ('OrganicMarijuana', 1), ('Marijuana', 1), ('electronic_cigarette', 1) | **electronic_cigarette**: New Jersey taxing vape juice...ugh| N/A |
+| New Jersey tax | 7 | 'Delaware', 4), ('electronic_cigarette', 1) | **electronic_cigarette**: Delaware: E-Liquid tax ($0.05/ml) Goes Into Effect (at least you're not Pennsylvania)| 3 out of 7 are related to ecig bans|
+| Delaware vape | 1 | ('Breazy', 1) | **Breazy**: Delaware Vape Tax Takes Effect | N/A |
+| Delaware | 669 | ('AutoNewspaper', 75), ('Delaware', 54), ('MIAMIHERALDauto', 41) | N/A | N/A |
+
+
+# 3. Ecig keywords
 ```
 keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'eliquid', 'e cig', 'ecig', 'e hookah', 'electronic cig', 'ehookah']
 ```
