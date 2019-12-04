@@ -45,7 +45,7 @@ Here are some collection results using **[Ban-related keywords](https://github.c
 
 
 
-# <span id="Tax-related-keywords">2. Tax-related keywords </span>
+# 2. Tax-related keywords
 
 I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the combination of place + tax is not that positive.
 
@@ -82,7 +82,7 @@ I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the c
 
 
 
-# <span id="Ecig-keywords">3. Ecig keywords</span>
+# 3. Ecig keywords
 I randomly choose two month (January 2018, and June 2018) to analyze the distribution of ecig keywords results in different subreddits.
 
 ```
