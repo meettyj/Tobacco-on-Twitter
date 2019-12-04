@@ -124,7 +124,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | electronic cig | 1 | ('vaporents', 1)] |
 | ehookah | 0 | None |
 
-## 4. Specific subreddits analysis
+# 4. Specific subreddits analysis
 - Should collect (Maybe we can collect those subreddits with "vape/ecig" in the name. need to check the API)
   - electronic_cigarette: 188K members.
   - ecigclassfields:21.2K members.
