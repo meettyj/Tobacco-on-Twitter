@@ -7,10 +7,8 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 
 
 
-## Keywords
-```
-keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'eliquid', 'e cig', 'ecig', 'e hookah', 'electronic cig', 'ehookah']
-```
+
+# Ban-related keywords
 ## Proposal (2017.06)
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
@@ -40,6 +38,10 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | San Francisco Ban | 16 | ('The_Donald', 3), ('politics', 2), ('newsbotbot', 2) | **DiversityNews**: San Francisco Judge Blocks Asylum Ban For Aliens Who Cross Border Illegally…| **None** related to ecig bans|
 
+# Ecig keywords
+```
+keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'eliquid', 'e cig', 'ecig', 'e hookah', 'electronic cig', 'ehookah']
+```
 
 ## Random Month (2018.01)
 
