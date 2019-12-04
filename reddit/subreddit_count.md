@@ -1,12 +1,11 @@
-I randomly choose two month (January 2018, and June 2018) to analyze the distribution of ecig keywords results in different subreddits.
+Here are some collection results using **Ban-related keywords**, **Tax-related keywords**, and**Ecig keywords** in Reddit.
 
 ## Conclusion
 - The reddits collection can be devided into 2 parts:
-  - search the same keywords without specifying subreddit.
+  - search the same keywords (as using in Twitter) without specifying subreddit.
   - crawl all submissions under specific subreddit.
-
-
-
+- Some of the Ban-related keywords is helpful.
+- Tax-related keywords is not that practicable.
 
 # 1. Ban-related keywords (Flavor)
 ## Proposal (2017.06)
@@ -45,6 +44,7 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 | San Francisco Ban | 16 | ('The_Donald', 3), ('politics', 2), ('newsbotbot', 2) | **DiversityNews**: San Francisco Judge Blocks Asylum Ban For Aliens Who Cross Border Illegally…| **None** related to ecig bans|
 
 
+
 # 2. Tax-related keywords
 
 I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the combination of place + tax is not that positive.
@@ -81,7 +81,10 @@ I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the c
 | New Jersey | 5617 | ('AutoNewspaper', 309), ('newjersey', 242), ('newsbotbot', 218) | N/A | N/A |
 
 
+
 # 3. Ecig keywords
+I randomly choose two month (January 2018, and June 2018) to analyze the distribution of ecig keywords results in different subreddits.
+
 ```
 keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'eliquid', 'e cig', 'ecig', 'e hookah', 'electronic cig', 'ehookah']
 ```
