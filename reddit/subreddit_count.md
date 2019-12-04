@@ -1,4 +1,4 @@
-Here are some collection results using **Ban-related keywords**, **Tax-related keywords**, and**Ecig keywords** in Reddit.
+Here are some collection results using **[Ban-related keywords](Ban-related-keywords)**, **[Tax-related keywords](Tax-related-keywords)**, and**[Ecig keywords](Ecig-keywords)** in Reddit.
 
 ## Conclusion
 - The reddits collection can be devided into 2 parts:
@@ -7,7 +7,7 @@ Here are some collection results using **Ban-related keywords**, **Tax-related k
 - Some of the Ban-related keywords is helpful.
 - Tax-related keywords is not that practicable.
 
-# 1. Ban-related keywords (Flavor)
+# <span id="Ban-related-keywords">1. Ban-related keywords (Flavor)</span>
 ## Proposal (2017.06)
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
@@ -45,7 +45,7 @@ Here are some collection results using **Ban-related keywords**, **Tax-related k
 
 
 
-# 2. Tax-related keywords
+# <span id="Tax-related-keywords">2. Tax-related keywords </span>
 
 I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the combination of place + tax is not that positive.
 
@@ -82,7 +82,7 @@ I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the c
 
 
 
-# 3. Ecig keywords
+# <span id="Ecig-keywords">3. Ecig keywords</span>
 I randomly choose two month (January 2018, and June 2018) to analyze the distribution of ecig keywords results in different subreddits.
 
 ```
