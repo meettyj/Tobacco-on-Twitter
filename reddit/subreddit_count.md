@@ -8,7 +8,7 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 
 
 
-# Ban-related keywords
+# 1. Ban-related keywords
 ## Proposal (2017.06)
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
@@ -24,13 +24,19 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | San Francisco Ban | 43 | ('AutoNewspaper', 7), ('electronic_cigarette', 3), ('news', 3), ('Vaping', 3) | **news**:San Francisco to vote on menthol cigarettes and e-cigarette flavors ban| **Almost all of them** are related to ecig bans|
+| vaping ban | 25 | ('vapescom', 3), ('AutoNewspaper', 2), ('CanadaWeedStocks', 2), ('TheBlogFeed', 1) | **newjersey**: Does the smoking ban on NJ boardwalks include Vaping? | All related to ecig bans but maybe not in SF |
+| San Francisco | 4145 | ('sanfrancisco', 186), ('AutoNewspaper', 151), ('newsbotbot', 105) | N/A | N/A |
+| San Francisco vape | 3 | ('juul', 1), ('Vaping', 1), ('ejuice', 1) | **juul**: How is the San Francisco vape flavor ban going to effect JUUL? | related but less number |
+| San Francisco cigarette | 11 | ('news', 3), ('AutoNewspaper', 3), ('NBCauto', 2) | **news**: San Francisco to vote on menthol cigarettes and e-cigarette flavors ban | related but less number |
+
 
 ## Enactment (2019.01)
 
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | San Francisco Ban | 26 | ('sanfrancisco', 2), ('unremovable', 2), ('The_Verge_Tech_RSS', 1), ('badgovnofreedom', 1) | **hackernews**: San Francisco proposal would ban government facial recognition use in the city| **None** related to ecig bans|
-
+| policies (sb140/sb 140) | Few but none related | N/A | N/A | N/A |
+| vaping ban | 9 | ('electronic_cigarette', 3), ('alaska', 1), ('HongKong', 1) | **electronic_cigarette**: FDA threatening to ban vaping altogether | maybe not in SF |
 
 ## Two month before Enactment (2018.11 and 2018.12)
 
@@ -38,7 +44,7 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | San Francisco Ban | 16 | ('The_Donald', 3), ('politics', 2), ('newsbotbot', 2) | **DiversityNews**: San Francisco Judge Blocks Asylum Ban For Aliens Who Cross Border Illegally…| **None** related to ecig bans|
 
-# Ecig keywords
+# 2. Ecig keywords
 ```
 keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'eliquid', 'e cig', 'ecig', 'e hookah', 'electronic cig', 'ehookah']
 ```
