@@ -1,5 +1,5 @@
 Here are some collection results using **[Ban-related keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#1-ban-related-keywords-flavor)**, **[Tax-related keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#2-tax-related-keywords)**, and **[Ecig keywords](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#3-ecig-keywords)** in Reddit,
-and some **[Specific subreddits analysis]()**
+and some **[Specific subreddits analysis](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/subreddit_count.md#4-specific-subreddits-analysis)**
 
 
 ## Conclusion
@@ -124,7 +124,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | electronic cig | 1 | ('vaporents', 1)] |
 | ehookah | 0 | None |
 
-## Specific subreddits analysis
+## 4. Specific subreddits analysis
 - Should collect (Maybe we can collect those subreddits with "vape/ecig" in the name. need to check the API)
   - electronic_cigarette: 188K members.
   - ecigclassfields:21.2K members.
