@@ -14,7 +14,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 ## Proposal (2017.06)
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
-| San Francisco Ban | 41 | ('AutoNewspaper', 5), ('electronic_cigarette', 5), ('autotldr', 2), ('POTUSWatch', 2) | **electronic_cigarette**: San Francisco votes to ban sales of vaping flavored liquid. **autotldr**: San Francisco mulls ban on delivery robots. **ecigadvocacy**: CALL TO ACTION - Send letter to Stop the Flavor Ban in San Francisco!| Around half of results are related to ecig bans|
+| San Francisco Ban | 41 | ('AutoNewspaper', 5), ('electronic_cigarette', 5), ('autotldr', 2), ('POTUSWatch', 2) | **electronic_cigarette**: San Francisco votes to ban sales of vaping flavored liquid. **autotldr**: San Francisco mulls ban on delivery robots. **ecigadvocacy**: CALL TO ACTION - Send letter to Stop the Flavor Ban in San Francisco!| Around **half** of results are related to ecig bans|
 | vaping ban | 19 | ('AutoNewspaper', 5), ('sanfrancisco', 2), ('electronic_cigarette', 2), ('Winnipeg', 1) | **MIAMIHERALDauto**: Politics- San Francisco to ban sales of vaping flavored liquid | All related to ecig bans but less number |
 | policies (sb140/sb 140) | Few but none related | N/A | N/A | Policy name may not suitable in reddit |
 | San Francisco | 3410 | ('ImagesOfCalifornia', 355), ('AutoNewspaper', 176), ('sanfrancisco', 98), ('news', 89) | N/A | Not a lot |
@@ -23,13 +23,19 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 
 
 ## Approval (2018.06)
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| San Francisco Ban | 43 | ('AutoNewspaper', 7), ('electronic_cigarette', 3), ('news', 3), ('Vaping', 3) | **news**:San Francisco to vote on menthol cigarettes and e-cigarette flavors ban| **Almost all of them** are related to ecig bans|
 
 ## Enactment (2019.01)
 
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| San Francisco Ban | 26 | ('sanfrancisco', 2), ('unremovable', 2), ('The_Verge_Tech_RSS', 1), ('badgovnofreedom', 1) | **hackernews**: San Francisco proposal would ban government facial recognition use in the city| **None** related to ecig bans|
 
 
 
-## 2018.1.1 - 2018.1.31
+## Random Month (2018.01)
 
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit  |
 | ------------- | ----------------------- | ----------------------- |
@@ -46,7 +52,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 | ehookah | 0 | None |
 
 
-## 2018.6.1 - 2018.6.30
+##  Random Month (2018.06)
 
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit  |
 | ------------- | ----------------------- | ----------------------- |
