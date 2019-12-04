@@ -61,7 +61,7 @@ I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the c
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | Kansas ecig tax | None | N/A | N/A | N/A |
-| Kansas tax | 19 | ('AutoNewspaper', 5), ('TWTauto', 3), ('MIAMIHERALDauto', 2) | **TWTauto**: Business - Kansas' tax cut failure an economic warning to Republican| **None** related to ecig bans|
+| Kansas tax | 19 | ('AutoNewspaper', 5), ('TWTauto', 3), ('MIAMIHERALDauto', 2) | **TWTauto**: Business - Kansas' tax cut failure an economic warning to Republican| **None** related to ecig tax|
 | Kansas vape | None | N/A | N/A | N/A |
 | Kansas | 2235 | ('ImagesOfKansas', 196), ('AutoNewspaper', 194), ('MIAMIHERALDauto', 74) | N/A | N/A |
 
@@ -69,7 +69,7 @@ I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the c
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | Delaware ecig tax | None | N/A | N/A | N/A |
-| Delaware tax | 7 | 'Delaware', 4), ('electronic_cigarette', 1) | **electronic_cigarette**: Delaware: E-Liquid tax ($0.05/ml) Goes Into Effect (at least you're not Pennsylvania)| 3 out of 7 are related to ecig bans|
+| Delaware tax | 7 | ('Delaware', 4), ('electronic_cigarette', 1) | **electronic_cigarette**: Delaware: E-Liquid tax ($0.05/ml) Goes Into Effect (at least you're not Pennsylvania)| 3 out of 7 are related to ecig tax|
 | Delaware vape | 1 | ('Breazy', 1) | **Breazy**: Delaware Vape Tax Takes Effect | N/A |
 | Delaware | 669 | ('AutoNewspaper', 75), ('Delaware', 54), ('MIAMIHERALDauto', 41) | N/A | N/A |
 
@@ -77,9 +77,8 @@ I also tried abbreviation of states (e.g. NJ for New Jersey), but it seems the c
 | Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
 | ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
 | New Jersey vape | 3 | ('OrganicMarijuana', 1), ('Marijuana', 1), ('electronic_cigarette', 1) | **electronic_cigarette**: New Jersey taxing vape juice...ugh| N/A |
-| New Jersey tax | 7 | 'Delaware', 4), ('electronic_cigarette', 1) | **electronic_cigarette**: Delaware: E-Liquid tax ($0.05/ml) Goes Into Effect (at least you're not Pennsylvania)| 3 out of 7 are related to ecig bans|
-| Delaware vape | 1 | ('Breazy', 1) | **Breazy**: Delaware Vape Tax Takes Effect | N/A |
-| Delaware | 669 | ('AutoNewspaper', 75), ('Delaware', 54), ('MIAMIHERALDauto', 41) | N/A | N/A |
+| New Jersey tax | 57 | ('newjersey', 9), ('newsbotbot', 6), ('newsbotMARKET', 4) | N/A | Hard to find one related to ecig tax|
+| New Jersey | 5617 | ('AutoNewspaper', 309), ('newjersey', 242), ('newsbotbot', 218) | N/A | N/A |
 
 
 # 3. Ecig keywords
