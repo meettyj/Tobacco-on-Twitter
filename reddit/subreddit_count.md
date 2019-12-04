@@ -5,10 +5,29 @@ I randomly choose two month (January 2018, and June 2018) to analyze the distrib
   - search the same keywords without specifying subreddit.
   - crawl all submissions under specific subreddit.
 
+
+
 ## Keywords
 ```
 keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'eliquid', 'e cig', 'ecig', 'e hookah', 'electronic cig', 'ehookah']
 ```
+## Proposal (2017.06)
+| Search query | # of submissions in all subreddits  | # of submissions in specific subreddit | Examples in different subreddit | Conclusion |
+| ------------- | ----------------------- | ----------------------- |----------------------- |----------------------- |
+| San Francisco Ban | 41 | ('AutoNewspaper', 5), ('electronic_cigarette', 5), ('autotldr', 2), ('POTUSWatch', 2) | **electronic_cigarette**: San Francisco votes to ban sales of vaping flavored liquid. **autotldr**: San Francisco mulls ban on delivery robots. **ecigadvocacy**: CALL TO ACTION - Send letter to Stop the Flavor Ban in San Francisco!| Around half of results are related to ecig bans|
+| vaping ban | 19 | ('AutoNewspaper', 5), ('sanfrancisco', 2), ('electronic_cigarette', 2), ('Winnipeg', 1) | **MIAMIHERALDauto**: Politics- San Francisco to ban sales of vaping flavored liquid | All related to ecig bans but less number |
+| policies (sb140/sb 140) | Few but none related | N/A | N/A | Policy name may not suitable in reddit |
+| San Francisco | 3410 | ('ImagesOfCalifornia', 355), ('AutoNewspaper', 176), ('sanfrancisco', 98), ('news', 89) | N/A | Not a lot |
+| San Francisco vape | None | N/A | N/A | N/A |
+| San Francisco cigarette | None | N/A | N/A | N/A |
+
+
+## Approval (2018.06)
+
+## Enactment (2019.01)
+
+
+
 
 ## 2018.1.1 - 2018.1.31
 
