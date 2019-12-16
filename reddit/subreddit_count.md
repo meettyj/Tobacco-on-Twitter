@@ -147,6 +147,7 @@ keywords = ['vape', 'e liquid', 'e juice', 'ejuice', 'electronic cigarette', 'el
 - The hyphen(-) is not working in keywords. API will treat them as space and search each word individually.
 - Each word in the search query should appear individually without being part of other words.
   - Search '**e juice**': results will contain 'we love **e juice**', but **will not** contain 'we lov**e juice**'.
+- There is no difference between lower-case and upper-case
 
 ## Problems
 - **Too many requests limitation (Response 429)**. It seems we cannot send too many request in a short time, but we can solve this by separate the requests in different time period.
