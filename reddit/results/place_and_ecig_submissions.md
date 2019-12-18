@@ -4,7 +4,7 @@ First choose keywords to collect data without specifying subreddit.
 ## Conclusion
 1. We could not find a lot of submissions except in the months that policy 
 **Proposed** (June 20, 2017), **Approved** (June 5, 2018) and **Enforced** (Jan 1, 2019). 
-1. We can find some but not too much comments under submissions. Most submissions don't have comments or just have a few comments. For example in the proposal month attached below. 
+1. We can find some but not too much comments under submissions. Most submissions don't have comments or just have a few comments. For example in the proposal month, most submissions have no comments:
     <p align="center">
       <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/reddit/screenshots/place_and_ecig_keywords_collection_2017-06.png" />
     </p>
