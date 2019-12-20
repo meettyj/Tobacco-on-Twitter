@@ -1,6 +1,6 @@
 ## Approach
 Using ban and SF keywords to filter posts from subreddit 'electronic cigarette', 
-and then do sentiment analysis in both posts and comments.
+and then do sentiment analysis in both posts and comments. This file only contains results regarding **posts**. 
 
 ## Conclusion
 - Some posts filtered by ban keywords or SF keywords ([Approach 1 Simple Combination](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/figures/subreddit_electronic_cigarette_ban_and_SF_keywords.md#approach-1-simple-combination)) are not related to San Francisco. 
