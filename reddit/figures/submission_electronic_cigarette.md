@@ -9,7 +9,7 @@ The policy can be divided into three time points: **Proposal** (June 20, 2017), 
 
 # Sentiment Analysis (Vader)
 
-## submission: electronic cigarette
+## subreddit: electronic cigarette
 
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/reddit/figures/screenshots/submissions/sentiment_electronic_cigarette_number.png" />
