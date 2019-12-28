@@ -6,7 +6,7 @@ Here I created them separately for comparison.
 - Therefore, I only add confidence intervals to the figure in Overleaf. 
 Retweet and favorite will be shown in table format.
 
-# ecig, tobacco, flavored tobacco percentage
+# 1. percentage: ecig, tobacco, flavored tobacco
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/percentage_SF_ecig_in_all_SF.png" />
 </p>
@@ -19,8 +19,8 @@ Retweet and favorite will be shown in table format.
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/percentage_SF_flavored_tobacco_in_all_SF_tobacco.png" />
 </p>
 
-# sentiment
-## ecig without weight
+# 2. sentiment
+## 2.1 ecig without weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_sentiment_SF_ecig_in_all_SF.png" />
 </p>
@@ -30,7 +30,7 @@ Retweet and favorite will be shown in table format.
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_weight_sentiment_SF_ecig_in_all_SF.png" />
 </p>
 
-## tobacco without weight
+## 2.2 tobacco without weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_sentiment_SF_tobacco_in_all_SF.png" />
 </p>
@@ -40,7 +40,7 @@ Retweet and favorite will be shown in table format.
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_weight_sentiment_SF_tobacco_in_all_SF.png" />
 </p>
 
-## flavored tobacco without weight
+## 2.3 flavored tobacco without weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_sentiment_SF_flavored_tobacco_in_all_SF_tobacco.png" />
 </p>
