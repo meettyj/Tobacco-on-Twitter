@@ -20,29 +20,32 @@ Retweet and favorite will be shown in table format.
 </p>
 
 # sentiment
-## ecig
+## ecig without weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_sentiment_SF_ecig_in_all_SF.png" />
 </p>
 
+## ecig with weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_weight_sentiment_SF_ecig_in_all_SF.png" />
 </p>
 
-## tobacco
+## tobacco without weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_sentiment_SF_tobacco_in_all_SF.png" />
 </p>
 
+## tobacco with weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_weight_sentiment_SF_tobacco_in_all_SF.png" />
 </p>
 
-## flavored tobacco
+## flavored tobacco without weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_sentiment_SF_flavored_tobacco_in_all_SF_tobacco.png" />
 </p>
 
+## flavored tobacco with weight
 <p align="center">
   <img src="https://github.com/meettyj/Alcohol-on-Twitter/raw/master/revision/figures/with_or_without_weight/percentage_weight_sentiment_SF_flavored_tobacco_in_all_SF_tobacco.png" />
 </p>
