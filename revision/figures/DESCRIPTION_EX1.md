@@ -1,10 +1,9 @@
 # Conclusion
-- Updated for confidence interval and weight sentiment for experiment 1.
+- Update for confidence intervals and weight sentiment for experiment 1.
 - weight = retweet + favorite
 - Add weight sentiment as dotted line in the figure we generated before is too messy (so many lines and points). 
 Here I created them separately for comparison.
-- Therefore, I only add confidence intervals to the figure in Overleaf. 
-Retweet and favorite will be shown in table format.
+- Retweet and favorite will be shown in table format. Will updated in Overleaf.
 
 # 1. percentage: ecig, tobacco, flavored tobacco
 <p align="center">
