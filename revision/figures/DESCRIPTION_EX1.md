@@ -3,7 +3,7 @@
 - weight = retweet + favorite
 - Add weight sentiment as dotted line in the figure we generated before is too messy (so many lines and points). 
 Here I created them separately for comparison.
-- Retweet and favorite will be shown in table format. Will updated in Overleaf.
+- Retweets and favorites are shown in table format in Overleaf.
 
 # 1. percentage: ecig, tobacco, flavored tobacco
 <p align="center">
