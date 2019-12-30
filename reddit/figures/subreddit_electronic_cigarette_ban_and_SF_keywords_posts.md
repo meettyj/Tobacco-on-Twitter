@@ -3,10 +3,10 @@ Using ban and SF keywords to filter posts from subreddit 'electronic cigarette',
 and then do sentiment analysis in both posts and comments. This file only contains results regarding **posts**. 
 
 ## Conclusion
-- Some posts filtered by ban keywords or SF keywords ([Approach 1 Simple Combination](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/figures/subreddit_electronic_cigarette_ban_and_SF_keywords.md#approach-1-simple-combination)) are not related to San Francisco. 
+- Some posts filtered by ban keywords or SF keywords ([Approach 1 Simple Combination](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/figures/subreddit_electronic_cigarette_ban_and_SF_keywords_posts.md#approach-1-simple-combination)) are not related to San Francisco. 
   - e.g. Massachusetts: Ashland Board of Health to vote on whether to ban flavored e-cigarettes
   - e.g. NYC latest on the flavor ban bandwagon
-- However, if we concatenate each word in ban keywords with each word in SF keywords to filter the data ([Approach 2 Cross Concatenation](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/figures/subreddit_electronic_cigarette_ban_and_SF_keywords.md#approach-2-cross-concatenation)), we can only get a few data. In this case, we cannot generate the sentiment trend as we did in paper.
+- However, if we concatenate each word in ban keywords with each word in SF keywords to filter the data ([Approach 2 Cross Concatenation](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/figures/subreddit_electronic_cigarette_ban_and_SF_keywords_posts.md#approach-2-cross-concatenation)), we can only get a few data. In this case, we cannot generate the sentiment trend as we did in paper.
 - Semtiment trends are made for **[Approach 1 Simple Combination]**.
 
 ## Policy explaination
