@@ -1,5 +1,6 @@
 # 1. Conclusion
-- I used Empath and LIWC (2015) to analyze the topics in reddit and ecig tweets in three months (proposal, approval, enforcement).
+- I used Empath and LIWC (2015) to analyze the topics in reddit **comments** and ecig tweets in three months (proposal, approval, enforcement).
+- criteria to select comments: Before we have filtered out some posts by [ban keywords + SF keywords (approach 1)](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/figures/subreddit_electronic_cigarette_ban_and_SF_keywords_posts.md#approach-1-simple-combination). Since we don't have a lot of posts in the result, I manually check each post content to make sure the post it talking about SF ecig ban. Then I select them out no matter how many comments they have. Comments under these posts are used to analyze topics.
 - This document shows the intersection (same topics) in most common N topics (topN) between reddit and ecig tweets.
 - You can find more specific topics information for reddit and ecig tweets individually in [topic_analyse_reddit_comments.ipynb](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/topic_analyse_reddit_comments.ipynb) 
 and [topic_analyse_ecig_tweets.ipynb](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/topic_analyse_ecig_tweets.ipynb)
