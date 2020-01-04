@@ -17,7 +17,6 @@
   - We get abused, called douches and gay because we vape. 
   - Thanks! The whole point of fighting these local bans hard is to take the wind out of the sails of a state bill that would otherwise pop up early next year to "fix" the patchwork of local crap they created and then have to deal with a state wide ban to fight. Best to prevent that at all cost rather than risk a state battle we might lose... because it's CA.
   - If everything made for adults needs to be awful tasting in order to deter children from getting into them (which it doesn't I got drunk on straight Everclear the first time I ever had alcohol as a teen) then this would affect a lot more than cigarettes and vapor. 
-  - You're not completely wrong on long-term effects, but everything we know about the effects right now suggests that it is a massive harm reducer compared to smoking. 
   - Forces with billions of research dollars at their disposal and massive profit incentives have had 10 years to come up with evidence of any harm - so far they haven't.  Instead, they've had to resort to deception and shallow comparisons to tobacco smoking in order to restrict vaping.  That should tell you something.
 
 ### Approval
@@ -27,7 +26,11 @@
   - emily just told me she’d stop being my friend if i get a juul ://
   - The FDA is trying to kill vaping because it’s going to do a better job reducing lung cancer than they ever have, an…
 - **reddit comments**: 
-
+  - And the foods themselves the flavors are mimicking. That's all bad for us and purposefully entices kids. Maybe it should all be banned, according to this idiot "logic."
+  - And no mixed drinks at bars, which are just going to send drunk idiots to drive home anyway. :) 
+  - "You take a couple of puffs and you actually feel like you're kind of high," said Richardson. The fuck is wrong with this guy?
+  - The last thing you ever want to hear, "I'm from the government and I'm here to help". People are unbelievably stupid these days.
+  
 ### Enforcement
 - **ecig tweets**: 
   - I swear a vape pen at work saves lives...
@@ -90,6 +93,10 @@
   - @radiogeyser I have so much to say about shit like that. America is conservative when it comes to cigarettes, so le…
   - i cant believe lorde wrote “green light” abt charging ur juul
 - **reddit comments**: 
+  - Lets break this down: The goal of big tobacco is to regain control of the market. Okay - so what. It has nothing to do with helping anyone but themselves. Again, so the fuck what. Who cares? The goal of vaping is to get people off smoking. How many consumers care if there are 5 companies making products or 5000? As long as the product is good and its a healthier alternative.
+  - It's total bullshit. RJ Reynold apparently spent 10 million fighting this (close to nothing for them)
+  - Just learn to make juice it's not rocket science 
+  - Ohhhhh okay, you guys want to talk about misleading advertisements, do you?
 
 ### Enforcement
 - **ecig tweets**: 
@@ -116,7 +123,11 @@
   - #SparkSF had an awesome demo today! I love the #vapexhale machine. It"s dependable and you can use all kinds of cool attachments!
   - don’t trust vape shops when you’re drunk
 - **reddit comments**: 
-
+  - Four Loko looks like an energy drink I'd love to have as a kid.
+  - I'd love to see who's behind the push to ban these.  Follow the money.
+  - I am a person who orders online, and has supplied to DIY for the rest of my life. This ban won't affect me personally, but it's totally a step in the wrong direction.
+  - Even the canadian government came out and said vaping was better than smoking on may 23rd.
+  
 ### Enforcement
 - **ecig tweets**: 
   - aayyyeee happy new year i lost my juul &amp; chipped my tooth
