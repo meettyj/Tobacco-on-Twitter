@@ -1,5 +1,13 @@
-# 1. Empath
-## 1.1 negative_emotion
+# 1. Conclusion
+- Here is the example reddit comments and ecig tweets in three month (proposal, approval, enforcement).
+- I choose 4 categories of topics, based on the [same_topics_between_reddit_and_ecig_tweets.md](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/same_topics_between_reddit_and_ecig_tweets.md):
+  - negative_emotion
+  - business/money/economics/shopping
+  - speaking/communication
+  - positive_emotion
+
+# 2. Empath
+## 2.1 negative_emotion
 ### Proposal
 - **ecig tweets**: It's hard to quit vaping when all your friends vape...😩
 - **reddit comments**: 
@@ -27,7 +35,7 @@
 - **reddit comments**: 
 
 
-## 1.2 business/money/economics/shopping
+## 2.2 business/money/economics/shopping
 ### Proposal
 - **ecig tweets**: 
   - Name an industry that has multiple years of 70+% growth, made countless good jobs, and improved the health of millions. #vape #ecig #vaping
@@ -65,7 +73,7 @@
 - **reddit comments**: 
 
 
-## 1.3 speaking/communication
+## 2.3 speaking/communication
 ### Proposal
 - **ecig tweets**: 
   - The sound of someone vaping makes me want to vape more😩😵
@@ -91,7 +99,7 @@
 - **reddit comments**: 
 
 
-## 1.4 positive_emotion
+## 2.4 positive_emotion
 ### Proposal
 - **ecig tweets**: 
   - someone just vaped right in my face i love san francisco
