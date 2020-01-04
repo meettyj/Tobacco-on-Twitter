@@ -14,6 +14,8 @@
 
 ### Enforcement
 - **ecig tweets**: 
+  - I swear a vape pen at work saves lives...
+  - If the city of San Francisco wants people to stop juuling so badly they should’ve just banned all flavors except crème brûlée. Big power move.
 - **reddit comments**: 
 
 
@@ -35,6 +37,10 @@
 
 ### Enforcement
 - **ecig tweets**: 
+  - I swear a vape pen at work saves lives...
+  - You can buy recreational weed at any corner, but alternate smoking like vape...
+  - Still looking for a job but, hey I am one month juul-free!
+  - can i be a juul pod sommelier ?? is that a job yet ?
 - **reddit comments**: 
 
 
@@ -53,6 +59,9 @@
 
 ### Enforcement
 - **ecig tweets**: 
+  - The next question that needs answering - how harmful is smoking e cigarettes vs. not smoking at all? #juul
+  - I swear a vape pen at work saves lives...
+  - the fact that i cannot vape on this packed bus is homophobic and anti-latinx, and san francisco needs to address this
 - **reddit comments**: 
 
 
@@ -72,6 +81,8 @@
 
 ### Enforcement
 - **ecig tweets**: 
+  - aayyyeee happy new year i lost my juul &amp; chipped my tooth
+  - juul and mcdonalds finna do a crazy happy meal colab in 2019
 - **reddit comments**: 
 
 
