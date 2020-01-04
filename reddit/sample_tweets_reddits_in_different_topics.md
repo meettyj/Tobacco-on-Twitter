@@ -1,5 +1,5 @@
 # 1. Conclusion
-- Here is the example reddit comments and ecig tweets in three month (proposal, approval, enforcement).
+- Here is the example reddit comments and ecig tweets in three month (proposal, approval, enforcement) using package Empath.
 - I choose 4 categories of topics, based on the [same_topics_between_reddit_and_ecig_tweets.md](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/reddit/same_topics_between_reddit_and_ecig_tweets.md):
   - negative_emotion
   - business/money/economics/shopping
@@ -36,6 +36,12 @@
   - I swear a vape pen at work saves lives...
   - If the city of San Francisco wants people to stop juuling so badly they should’ve just banned all flavors except crème brûlée. Big power move.
 - **reddit comments**: 
+  - banning flavors will not help one bit.  I will quit vaping if all i can vape is tobacco 
+  - DIY is way cheaper i admit,  but it wont help 99% of most vapers.  They will jusf go back to buying cigarettes.
+  - Some think DIY is the answer, but if they tax the hell out of nic or make it where you have to have a license to purchase nic that would shoot done that idea. The biggest thing we can do is fight for our rights.
+  - I’m 61 years old I Don’t need to be Babysitting others peoples children because they are too chicken shit to just say NO to their kids. You wanted kids? Then Act like a Responsible Adult. 
+  - You just want the hammer to hit someone else when it should hit no one. I’d let my teen vape as a parent so the state can fuck right off.
+  - I was in highschool in the early 2000s. I knew SO many people that started smoking at 14-15. Of course no one wants teens using any nicotine, but just like the drug war, alcohol prohibition, etc, you can't control this element of human behavior. You simply can't, and any heavy handed actions always end up doing more damage than they could ever hope to prevent. 
 
 
 ## 2.2 business/money/economics/shopping
@@ -74,6 +80,9 @@
   - Still looking for a job but, hey I am one month juul-free!
   - can i be a juul pod sommelier ?? is that a job yet ?
 - **reddit comments**: 
+  - Marlborough's parent company just invested 5 billion into the Juul company, I don't think vaping is going away any time soon
+  - Thank god teens don't drink alcohol otherwise they would close down liquor stores There are laws already in place.Stores cannot sell liquor, tobacco nicotine products to minors.Store owners will be fined if caught. Politicians don't give a shit about teenagers its all about regulations and tax money.
+  - The only way to try to prevent it is honest education about the topic and good parenting. Scare tactics don't work because of the internet, prohibition in general fails completely. 
 
 
 ## 2.3 speaking/communication
@@ -104,6 +113,10 @@
   - I swear a vape pen at work saves lives...
   - the fact that i cannot vape on this packed bus is homophobic and anti-latinx, and san francisco needs to address this
 - **reddit comments**: 
+  - I just bought 1 gallons of pg and three of vg. But i gotta ask myself how long is that really goimg to last?  A year? Maybe 1.5?    Some weeks i go through 200 ml alone.  
+  - I agree it is better and cheaper but it hurts those who havent quit yet or those that wont DIY and just start smoking again. Im done just carring if i can get my juice,  i want to make sure others find vaping as a safer alternative to smoking.
+  - I just called her DC office,  Everyone call today.  Apparently the guy seems very annoyed at the amount of calls.  Lets just keep calling everyday.  
+  - Can anyone figure out who else is supporting the bill.  I would like to compile a list of phone numbers to call once everyday. And if you havent taken the time to call please do so.  They pick up and just ask you a few questions. 
 
 
 ## 2.4 positive_emotion
@@ -133,35 +146,11 @@
   - aayyyeee happy new year i lost my juul &amp; chipped my tooth
   - juul and mcdonalds finna do a crazy happy meal colab in 2019
 - **reddit comments**: 
+  - The bill is bipartisan,  im from her state of CT so im really glad i didnt vote in the 2018 election
+  - I just called her DC office,  Everyone call today.  Apparently the guy seems very annoyed at the amount of calls.  Lets just keep calling everyday.  
+  - Can anyone figure out who else is supporting the bill.  I would like to compile a list of phone numbers to call once everyday. And if you havent taken the time to call please do so.  They pick up and just ask you a few questions. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 
-### Proposal
-- **ecig tweets**: 
-- **reddit comments**: 
-
-### Approval
-- **ecig tweets**: 
-- **reddit comments**: 
-
-### Enforcement
-- **ecig tweets**: 
-- **reddit comments**: 
 
 
 
