@@ -101,6 +101,7 @@
 - **ecig tweets**: 
   - @radiogeyser I have so much to say about shit like that. America is conservative when it comes to cigarettes, so le…
   - i cant believe lorde wrote “green light” abt charging ur juul
+  - @Chvntel Lmao 😂😂 I’m serious tho lol between cigs and blunts gotta keep the inhaler handy lmao
 - **reddit comments**: 
   - Lets break this down: The goal of big tobacco is to regain control of the market. Okay - so what. It has nothing to do with helping anyone but themselves. Again, so the fuck what. Who cares? The goal of vaping is to get people off smoking. How many consumers care if there are 5 companies making products or 5000? As long as the product is good and its a healthier alternative.
   - It's total bullshit. RJ Reynold apparently spent 10 million fighting this (close to nothing for them)
@@ -112,6 +113,10 @@
   - The next question that needs answering - how harmful is smoking e cigarettes vs. not smoking at all? #juul
   - I swear a vape pen at work saves lives...
   - the fact that i cannot vape on this packed bus is homophobic and anti-latinx, and san francisco needs to address this
+  - I just wrote a review on The Custard Shoppe Butterscotch eJuice  via @yotpo
+  - i literally couldn’t find my mobile configured vape so i ordered another one and someone came to my house and gave it to me within 15 min
+  - @dennisherrera @JUULvapor Here, you can read how @SFACC purposefully did not tell me that @HelpSaveCharlie was acti…
+  - @samverdile @ndimichino I picked up on that bass note of strawberry vape pen and sidewalk boost boarding.
 - **reddit comments**: 
   - I just bought 1 gallons of pg and three of vg. But i gotta ask myself how long is that really goimg to last?  A year? Maybe 1.5?    Some weeks i go through 200 ml alone.  
   - I agree it is better and cheaper but it hurts those who havent quit yet or those that wont DIY and just start smoking again. Im done just carring if i can get my juice,  i want to make sure others find vaping as a safer alternative to smoking.
