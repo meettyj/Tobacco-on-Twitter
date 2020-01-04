@@ -1,7 +1,7 @@
 # Conclusion
 - I can only find a few tweets (around 5-10) after separating ecig tweets by categories from Empath.
-- Following results are generated given all ecig tweets in three month (proposal, approval, enforcement), punctuations and emoji are removed.
-- I couldn't find word like ban appeared a lot.
+- Following results are generated given all SF ecig tweets in three month (proposal, approval, enforcement), punctuations and emoji are removed.
+- I couldn't find word like ban appeared in the common words.
 
 ## proposal
  - ('vape', 23),
