@@ -1,4 +1,4 @@
-Here I exemplify tweets that contain word 'puff'. 
+Here I exemplify the tweets that contain word 'puff'. I divided the tweets into 2 class: ecig tweets and general tweets (not ecig tweets). 
 
 ## 1. Conclusion
 - In ecig tweets, 'puff' always occurred with ecig keywords (e.g. vape, e-cig, vapor)
