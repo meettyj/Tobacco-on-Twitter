@@ -1,3 +1,8 @@
+## Conclusion
+- average confidence (aggrement) for 1st question (ecig): 91.41%
+- average confidence (aggrement) for 2nd question (flavor): 89.91%
+
+## Calculation process
 For the labeling task in Figure Eight, we have two hierarchical questions, so we have two confidence score:
 - **ecig_confidence**: Is this posting relevant to E-Cigarette?
 - **flavor_confidence**: Is this posting relevant to flavor in E-Cigarette?
