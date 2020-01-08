@@ -50,20 +50,36 @@
 - (3, 0, 'a fun game is to watch High Maintenance and hit the vape any time the characters do, or when a dog comes onscreen or there’s a song playing')
 
 
-
 ## 2. Negative sentiment on e-cig
 ### 2016_09
-
-
+- (38, 4, 'Projeto ~verão no Brasil 2016~ ta indo a todo vapor 🐳➡️💪 ')
+- (21, 0, 'Update: we lost Christian, only to find him outside vaping in the designated smoking area 😩💀')
+- (13, 7, 'What strains are you smoking or vaping today? Tweet pics @420 ')
+- (12, 1, 'SHY GIRLS with yet another phenomenal sold out set tonight at @popsceneSF 🙏\n\n@shygirls ')
+- (6, 1, 'Adding vaping to the list of things panicking cops thought were guns as an excuse for shooting them. ')
+- (2, 2, '@justnthai I am terribly sorri for foking wit ur vape. kill me now vape God 😪')
+- (4, 0, "rip JThai's vape :-( u will b missed ")
 
 ### 2016_11
-
-
+- (41, 2, "I don't usually use the words sick and vape in the same sentence but\n\nSick vape ")
+- (8, 1, 'been thinking of you all, i miss you. @ayoaliya @idekkait @heartoflex @okoktalisa @stfukathleen @wesleysbubba @Vapewesley @cutelikewesley')
+- (6, 0, '"I broke my vape in a mosh pit like 3 years ago"')
+- (3, 0, '@StopVapeBan they literally do nothing except make smoke cause cancer and make people look like douchbags #getridofem')
+- (1, 1, "People who are health conscious in their eating habits but smoke cigarettes should explode or something. That's just illogical. You're dumb.")
+- (1, 1, "#SFPD gives me a warning about vaporizer within 50 ft. Of building entrances... Across the street someone smoking crack Infront of Macy's")
 
 ### 2017_07
-
+- (30, 3, 'Our ferry captain just reminded everyone that no smoking was allowed, paused, added "...or vaping," and sighed heavily before continuing.')
+- (9, 0, "Chloe's car got broken into and they left a speaker,vape and iPhones and a bottle of alc BUT TOOK MY WALLET UR A FUCKING ASSHOLE")
+- (5, 0, "things that I broke that I've been low key lost without ever since: my vape and my popsocket 🙂🙃🙂🙃 basic")
+- (2, 0, 'bruh this girls ig story was her bf vaping and she was suckin in the smoke and blowing it out wtf LMFAOOOOOO')
 
 ### 2017_10
+- (47, 15, "Looking forward to hearing the perspective of white blue-collar workers on their economic anxiety as we're vaporized in a nuclear fireball.")
+- (6, 3, 'Me: should I get a knife tattoo like 21 savage?\nLaurel: *hits juul* sleep on it')
+- (5, 0, 'I’m sick AF. I have 3 exams. All I want to do is sleep. \n\nBut I got Vaporu on deck, lets get this shit.')
+- (5, 0, '"can i eat your vape\n\n......and your ass while you\'re at it"')
+- (2, 0, 'War for the Planet of the Vapes')
 
 
 
