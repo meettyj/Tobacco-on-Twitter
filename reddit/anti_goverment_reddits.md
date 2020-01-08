@@ -1,4 +1,6 @@
-## Proposal
+Here are reddit comments with anti-goverment stance in three month (proposal, approval, enforcement).
+
+## 1. Proposal
 - [6ijdlp](https://www.reddit.com/r/electronic_cigarette/comments/6ijdlp/first_flavor_ban_in_the_usa/)
   - Welcome to San Francisco, where the apathy is real, and the Board Of Supervisors rules with an iron fist that would make Sauron fearful.
   - I've stated this since the beginning, it's not about the flavors, or the packaging, or the kids... It's about control.
@@ -15,7 +17,7 @@
   
 - [6jivbz](https://www.reddit.com/r/electronic_cigarette/comments/6jivbz/call_to_action_sign_petition_to_stop_the_flavored/djelsl1/)
 
-## Approval
+## 2. Approval
 - [8oytiu](https://www.reddit.com/r/electronic_cigarette/comments/8oytiu/sf_votes_for_flavor_ban/)
   - Except it's only liberal states proposing these bans. Only one side to blame here.
   - If they can ban 64 oz soda's, they can ban anything. I've been saying for years, America is turning into a nanny state.
@@ -33,7 +35,7 @@
   - You're still allowed to shoot heroin and shit on the street so it's still a pretty good place to live
   
   
-## Enforcement
+## 3. Enforcement
 - [aff9cy](https://www.reddit.com/r/electronic_cigarette/comments/aff9cy/new_house_bill_would_tax_vapes_like_cigarettes/)
   - Why, this kind Congressperson and her cohorts have removed the heavy burden of thinking from me and everyone around me.
 - [ahlnat](https://www.reddit.com/r/electronic_cigarette/comments/ahlnat/another_threat_to_ban_vapes_by_the_fda/)
