@@ -34,10 +34,14 @@
   
   
 ## Enforcement
-
-
-
-
-
+- [aff9cy](https://www.reddit.com/r/electronic_cigarette/comments/aff9cy/new_house_bill_would_tax_vapes_like_cigarettes/)
+  - Why, this kind Congressperson and her cohorts have removed the heavy burden of thinking from me and everyone around me.
+- [ahlnat](https://www.reddit.com/r/electronic_cigarette/comments/ahlnat/another_threat_to_ban_vapes_by_the_fda/)
+  - Gottlieb needs to shit or get off the pot. Not that I want vaping banned of course but I'm sick of the guy swinging his dick around. The government is there to take action...Not make idle threats and act like bullies. Either follow through on something or just stop!
+- [ai9pt8](https://www.reddit.com/r/electronic_cigarette/comments/ai9pt8/fda_threatening_to_ban_vaping_altogether/)
+  - You don't get it, that's what they want. Vaping has had a HUGE impact on cigarette sales, and thus on the TAXES collected. Because of the way these were divvied up in the Tobacco Settlement in the 90s, states are losing out big time. So the politicians make big noise about vaping, when in fact teen smoking numbers are at an historic low. They can then ban it "because of the children", and force people to become smokers again.
+  - I’m tired of government agencies trying to take away our personal rights. This is the most ass backwards shit I’ve ever heard.
+- [akzio7](https://www.reddit.com/r/electronic_cigarette/comments/akzio7/us_american_academy_of_pediatrics_calls_for_ban/)
+  - Well it seems the AAP has been taken over by idiots, or shills. Hard to tell anymore who is genuinely stupid, and who is being paid to spread bullcrap.
 
 
