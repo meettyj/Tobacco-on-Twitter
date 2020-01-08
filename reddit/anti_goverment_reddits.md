@@ -16,11 +16,28 @@
 - [6jivbz](https://www.reddit.com/r/electronic_cigarette/comments/6jivbz/call_to_action_sign_petition_to_stop_the_flavored/djelsl1/)
 
 ## Approval
-
-
-
-
+- [8oytiu](https://www.reddit.com/r/electronic_cigarette/comments/8oytiu/sf_votes_for_flavor_ban/)
+  - Except it's only liberal states proposing these bans. Only one side to blame here.
+  - If they can ban 64 oz soda's, they can ban anything. I've been saying for years, America is turning into a nanny state.
+- [8qwh4j](https://www.reddit.com/r/electronic_cigarette/comments/8qwh4j/vapor_retailer_in_sf_would_have_happily_voted_for/)
+  - The fuck is wrong with this guy?
+  - The last thing you ever want to hear, "I'm from the government and I'm here to help". People are unbelievably stupid these days.
+- [8rlqof](https://www.reddit.com/r/electronic_cigarette/comments/8rlqof/we_have_lost_san_francisco_the_flavor_ban_is_real/)
+  - The clouds and tricks does give the government their ammunition.
+  - It's also the voters who decide a lot of this and right now we look very obnoxious to them.
+- [8uof7u](https://www.reddit.com/r/electronic_cigarette/comments/8uof7u/san_franciscos_flavor_ban/)
+  - Fuck ridiculous nanny-state government nonsense like this.
+- [8ozrej](https://www.reddit.com/r/electronic_cigarette/comments/8ozrej/california_san_francisco_bans_sales_of_flavored/)
+  - It started about individual freedoms and then it just became join the idiot hivemind or die because you're obv a nazi
+- [8p04se](https://www.reddit.com/r/electronic_cigarette/comments/8p04se/san_francisco_bans_sales_of_flavored_tobacco/)
+  - You're still allowed to shoot heroin and shit on the street so it's still a pretty good place to live
+  
+  
 ## Enforcement
+
+
+
+
 
 
 
