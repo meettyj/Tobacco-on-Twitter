@@ -21,11 +21,13 @@ We are trying to find out if any survey asking people's attitude towards **ecig/
 ### [2019 National Survey on Drug Use and Health (NSDUH)](https://nsduhweb.rti.org/respweb/homepage.cfm)
 - have question like "At your workplace, is there a written policy about employee use of alcohol or drugs?" by search keyword "policy" in [questionnaire.pdf](https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbCAISpecs2019.pdf)
 
-### [CITY UNIVERSITY OF NEW YORK - Tobacco Free Policy Survey](https://system.suny.edu/media/suny/content-assets/documents/healthaffairs/tobaccofree/CUNY-Tobacco-Policy-Survey.pdf)
+### [CITY UNIVERSITY OF NEW YORK (CUNY)](https://system.suny.edu/media/suny/content-assets/documents/healthaffairs/tobaccofree/CUNY-Tobacco-Policy-Survey.pdf)
+- Tobacco Free Policy Survey
 - to assess the efficacy of CUNY's Tobacco Free Policy and the support of the policy among students, faculty and staff
 - CUNY prohibited the use of tobacco on September 4, 2012
 
-### [University of Delaware - Tobacco-Free Campus Survey](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/05/Tobacco-Free-Campus-Survey-Results-1kirm5z.pdf)
+### [University of Delaware](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/05/Tobacco-Free-Campus-Survey-Results-1kirm5z.pdf)
+- Tobacco Free Policy Survey
 
 ### [University of Colorado - public tobacco-free surveys for others using](https://www.bhwellness.org/resources/surveys/tobaccofree)
 - have several surveys designed to assist organizations that are planning to or are in the process of implementing tobacco-free policies.
