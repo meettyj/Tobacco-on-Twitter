@@ -2,8 +2,13 @@
 We are trying to find out if any survey asking people's attitude towards ecig/tobacco **policy**
 
 ## 1. Conclusion
+- It seems we could not find any survey asking SF people's attitude towards "no flavor ecig" policy
 - Schools have surveys towards ecig/tobacco policies within their school. For example, CUNY and University of Delaware
 - 
+
+## 2. San Francisco surveys asking about policy
+### [Other policy: evaluation of California’s ‘Tobacco 21’ law](https://tobaccocontrol.bmj.com/content/27/6/656)
+
 
 
 ## 2. Surveys asking about policy
