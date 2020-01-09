@@ -1,7 +1,7 @@
 ## Conclusion
 - Here are tweets with most favorites and retweets.
 - Format is (favorites, retweets, tweet). For example, (5, 0, 'My Vape Pen is Missing') indicate this tweet receive 5 favorites and 0 retweets.
-- Our data still have some false positive. For example, "The Swisher boys" in first section come from ecig keyword "e swisher".
+- Our data still have some false positive. For example, "The Swisher boys" in [first section]() come from ecig keyword "e swisher". "cancer" in [third section]() may because of the tobacco classifier.
 
 ## 1. Positive sentiment on e-cig
 ### 2016_12
@@ -85,22 +85,51 @@
 
 ## 3. Negative sentiment on tobacco
 ### 2017_07
-
+- (2490, 349, 'Fuck cancer. Best wishes to John McCain for a speedy recovery. Also? Fuck cancer. ')
+- (60, 82, "LONELINESS IS THE NEW SMOKING! #IAGG2017's biggest revelation! Equivalent to smoking 15 cigarettes/day - it can sha… ")
+- (30, 3, 'Our ferry captain just reminded everyone that no smoking was allowed, paused, added "...or vaping," and sighed heavily before continuing.')
+- (10, 0, "Can't smoke cigs in public without like 4 ppl askin for a cig")
+- (9, 0, "Chloe's car got broken into and they left a speaker,vape and iPhones and a bottle of alc BUT TOOK MY WALLET UR A FUCKING ASSHOLE")
+- (6, 0, "Life update: drunkly smoked a cigarette and it's still utterly disgusting.\n\nAlso a straight couple is making out in front of me 🙄🙄🙄🙄🙄🙄🤢🤢🤢🤢🤢🤢")
+- (5, 0, "things that I broke that I've been low key lost without ever since: my vape and my popsocket 🙂🙃🙂🙃 basic")
+- (2, 3, '"Loneliness is the new smoking, shaves years off our lives."- @JoAnn_Jenkins @AARPCA #IAGG2017 #isolation #seniors')
+- (3, 1, 'Hey cancer, ')
+- (1, 2, "@OGpenn @EastBayTimes Tobacco industry is paying to try to place a ballot measure to overturn's San Francisco's ban ")
+- (3, 0, 'Big leap forward: reprogrammed T-cells to bind &amp; adapt to heterogeneous cancer cells. Targeted immunotherapy =&gt; 85%… ')
+- (3, 0, '♬ DEATH GUILD at DNA Lounge starting now!  ')
 
 
 ### 2017_12
-
+- (309, 13, 'Getting my 4th Keytruda infusion right now- gonna beat this cancer!')
+- (47, 4, '@TopherSpiro they’re like arsonists bitching about smoke damage')
+- (17, 2, '2018: more veggies, more books, more water, no cigarettes, no checking on exes. No excuses. Time to grow and move forward y’all.')
+- (13, 0, 'i’d rather kill myself drinking hard alcohol than sip beer')
+- (7, 6, 'fuck cancer')
+- (7, 1, 'People been smoking weed for thousands of years and it it killed nobody yet.\nMark my words; that flavored Vape shit… ')
+- (4, 3, 'Y’all be too fucking depressed on the TL!\nGo smoke and listen to some music!')
+- (6, 0, 'Been back in SF 2 hours and already watched a woman slam a glass of wine and knock a dude out in a dive bar followe… ')
+- (4, 0, '♬ DEATH GUILD at DNA Lounge starting now!  ')
+- (4, 0, 'Cigarettes r disgusting ew')
+- (4, 0, 'I’m a drunk ass mess outside this bar tbh')
+- (2, 1, 'if I can’t get cigarettes after sex tickets next week ima kill myself')
 
 
 
 ## 4. Positive sentiment on flavor tobacco
 ### 2017_10
-
+- (11, 0, 'Drinking a large coffee at 10pm Pacific wasn’t the brightest idea.')
+- (3, 1, 'I’d love to buy all my favorite cops a coffee tomorrow #SFPD ')
+- (3, 0, '@DianePodcast Lynch directing on set with a cigarette, megaphone, and fire extinguisher is a wonderfully evocative image. #TwinPeaks')
+- (1, 0, 'Morning workout, free coffee &amp; bfast, and a nice walk downtown...I’m loving today')
+- (0, 0, 'Very cherry with good tart - Drinking a Vape Tricks by @Prairieales @ Archive Bar and Kitchen  — ')
 
 
 ## 5. Negative sentiment on flavor tobacco
 ### 2017_08
-
+- (96, 3, "coffee isn't helping uhg")
+- (5, 3, '3 Reasons SF Should Repeal the Flavored Tobacco Ban, my latest creation for @BayCity_Beacon ')
+- (6, 0, "my Lana Del Rye cocktail is going to have white peach nectar and tobacco bitters, don't get more Lana than that")
+- (0, 0, "Forget #sheetcaking I'm pushing this entire raspberry bar in my face hole along with all my feelings. @lilyburana ")
 
 
 
