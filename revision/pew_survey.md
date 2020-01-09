@@ -21,7 +21,7 @@
 </p>
 
 
-### Some interesting finding from [another website in Pew Research Center](https://www.pewresearch.org/fact-tank/2019/08/02/10-facts-about-americans-and-twitter/)
+### Some interesting findings from [another website in Pew Research Center](https://www.pewresearch.org/fact-tank/2019/08/02/10-facts-about-americans-and-twitter/)
 - Overall, 42% of U.S. adults on Twitter say they use the site to **discuss politics** at least some of the time.
 - Twitter users tend to be younger and to have more education and higher incomes than U.S. adults overall,
 
