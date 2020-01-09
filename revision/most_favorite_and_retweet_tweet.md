@@ -1,3 +1,10 @@
+## Table of Contents
+- [1. Positive sentiment on e-cig](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#1-positive-sentiment-on-e-cig)
+- [2. Negative sentiment on e-cig](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#2-negative-sentiment-on-e-cig)
+- [3. Negative sentiment on tobacco](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#3-negative-sentiment-on-tobacco)
+- [4. Positive sentiment on flavor tobacco](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#4-positive-sentiment-on-flavor-tobacco)
+- [5. Negative sentiment on flavor tobacco](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#5-negative-sentiment-on-flavor-tobacco)
+
 ## Conclusion
 - Here are tweets with most favorites and retweets.
 - Format is (favorites, retweets, tweet). For example, (5, 0, 'My Vape Pen is Missing') indicate this tweet receive 5 favorites and 0 retweets.
