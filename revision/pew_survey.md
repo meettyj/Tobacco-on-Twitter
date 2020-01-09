@@ -1,4 +1,8 @@
-
+### Conclusion
+There are 3 types of demographics:
+- demographics in U.S. adults
+- demographics among Twitter users
+- demographics among different type of tweeters
 
 ### 1. According to [1st site in 2019 Pew Research Center survey](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/)
 - Around one-in-five U.S. adults (22%) say they use Twitter
