@@ -1,5 +1,13 @@
 We showed each annotator 10 tweets per page and paid 1 US Cents per tweet. To ensure quality, we used 41 test questions and each contributor are required to take at least 10 test questions. When contributors failed too many test questions, they are labeled untrusted contributors and their judements are removed. Min. 70% of agreement are required by each annotator to become trusted contributor.
 
+## Figure eight questions
+1. Is this posting relevant to E-Cigarette?
+    - Yes
+    - No
+2. if Yes, Is this posting relevant to flavor in E-Cigarette?
+    - Yes
+    - No
+
 ## Figure eight complete instruction
 ### 1. Overview
 In this job, you will be presented with tweets that potentially contain E-Cigarette (e-cig) related content. A Tweet contains E-Cigarette related content if it is a Tweet saying anything about E-Cigarette, in whole or in part, by including one or more of the following rules:
