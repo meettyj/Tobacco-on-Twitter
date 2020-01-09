@@ -13,12 +13,20 @@ We are trying to find out if any survey asking people's attitude towards ecig/to
 
 ### [University of Delaware - Tobacco-Free Campus Survey](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/05/Tobacco-Free-Campus-Survey-Results-1kirm5z.pdf)
 
-### [University of Colorado - public surveys for others using](https://www.bhwellness.org/resources/surveys/tobaccofree)
+### [University of Colorado - public tobacco-free surveys for others using](https://www.bhwellness.org/resources/surveys/tobaccofree)
 - have several surveys designed to assist organizations that are planning to or are in the process of implementing tobacco-free policies.
 
-### [Tobacco Control-Related Policy Survey in Hongkong](https://clinicaltrials.gov/ct2/show/NCT03182764)
+### [Hongkong: Tobacco Control-Related Policy Survey in Hongkong](https://clinicaltrials.gov/ct2/show/NCT03182764)
 -  to collect information on issues related to tobacco control in Hong Kong
 - Sponsored by The University of Hong Kong
+
+### [Saint Paul City: restricting the sale of flavored tobacco products to adult-only tobacco shops](http://www.ansrmn.org/wp-content/uploads/2014/11/Saint-Paul-Poll-Fact-Sheet.pdf)
+
+### [US: raising the minimum age to purchase tobacco](https://tobaccocontrol.bmj.com/content/25/3/284.full)
+
+### [2013 paper: Public opinions on tax and retail-based tobacco control strategies](https://tobaccocontrol.bmj.com/content/24/e1/e10.full)
+
+
 
 
 ## 3. Surveys that have no questions to policy
