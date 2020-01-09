@@ -1,5 +1,5 @@
 
-We are trying to find out if any survey asking people's attitude towards ecig/tobacco **policy**
+We are trying to find out if any survey asking people's attitude towards **ecig/tobacco policy**
 
 ## 1. Conclusion
 - It seems we could not find any survey asking SF people's attitude towards "no flavor ecig" policy
@@ -11,7 +11,7 @@ We are trying to find out if any survey asking people's attitude towards ecig/to
 
 
 
-## 2. Surveys asking about policy
+## 3. Not SF surveys asking about policy
 ### [CITY UNIVERSITY OF NEW YORK - Tobacco Free Policy Survey](https://system.suny.edu/media/suny/content-assets/documents/healthaffairs/tobaccofree/CUNY-Tobacco-Policy-Survey.pdf)
 - to assess the efficacy of CUNY's Tobacco Free Policy and the support of the policy among students, faculty and staff
 - CUNY prohibited the use of tobacco on September 4, 2012
@@ -34,7 +34,7 @@ We are trying to find out if any survey asking people's attitude towards ecig/to
 
 
 
-## 3. Surveys that have no questions to policy
+## 4. Surveys that have no questions to policy
 ### [National Youth Tobacco survey 2019](https://www.cdc.gov/tobacco/data_statistics/surveys/nyts/data/index.html)
 - no question regarding to policy
 - mainly asking question about attitude towards ecig/tobacco products
