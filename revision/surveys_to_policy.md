@@ -2,17 +2,17 @@
 We are trying to find out if any survey asking people's attitude towards **ecig/tobacco policy**
 
 ## 1. Conclusion
-- It seems we could not find any survey asking SF people's attitude towards "no flavor ecig" policy.
-- We can find some national surveys asking the existence of tobacco-free policy. For example, SHPPS and NSDUH.
-- Schools have surveys towards ecig/tobacco policies within their school. For example, CUNY, University of Delaware, and SHPPS.
-- 
+- It seems we could not find any survey asking people's **attitude** towards "no flavor ecig" policy.
+- We can find some national surveys asking the **existence** of tobacco-free policy. For example, SHPPS and NSDUH.
+- Schools have surveys about the ecig/tobacco policies within their school. For example, CUNY, University of Delaware, and SHPPS.
+- Some place have surveys asking people's **attitude** towards ecig/tobacco policy. For example, Hongkong, Saint Paul City, NYC, and US.
 
-## 2. San Francisco surveys asking about policy
+## 2. surveys in San Francisco asking about policy
 ### [Other policy: evaluation of California’s ‘Tobacco 21’ law](https://tobaccocontrol.bmj.com/content/27/6/656)
 
 
 
-## 3. Not SF surveys asking about policy
+## 3. surveys Not in SF asking about policy
 
 ### [2016 School Health Policies and Practices Study (SHPPS)](https://www.cdc.gov/healthyyouth/data/shpps/index.htm)
 - a national survey that assess school health policies and practices at the state, district, school, and classroom levels.
@@ -32,17 +32,14 @@ We are trying to find out if any survey asking people's attitude towards **ecig/
 
 ### [Hongkong: Tobacco Control-Related Policy Survey in Hongkong](https://clinicaltrials.gov/ct2/show/NCT03182764)
 - to collect information on issues related to tobacco control in Hong Kong
+- [Rusults.pdf](http://www.smokefree.hk/UserFiles/resources/about_us/cosh_reports/COSHRN_E24.pdf) found very strong public support for new policies that have been implemented in other countries, like Plain packaging, banning point-of-sale tobacco displays, and increasing the legal age of purchasing cigarettes from 18 to 21.
 - Sponsored by The University of Hong Kong
 
 ### [Saint Paul City: restricting the sale of flavored tobacco products to adult-only tobacco shops](http://www.ansrmn.org/wp-content/uploads/2014/11/Saint-Paul-Poll-Fact-Sheet.pdf)
 
 ### [US: raising the minimum age to purchase tobacco](https://tobaccocontrol.bmj.com/content/25/3/284.full)
 
-### [2013 paper: Public opinions on tax and retail-based tobacco control strategies](https://tobaccocontrol.bmj.com/content/24/e1/e10.full)
-
-
-
-
+### [NYC: 2013 paper: Public opinions on tax and retail-based tobacco control strategies](https://tobaccocontrol.bmj.com/content/24/e1/e10.full)
 
 
 
@@ -71,7 +68,8 @@ We are trying to find out if any survey asking people's attitude towards **ecig/
 ### [2019 Youth Risk Behavior Surveillance System (YRBSS)](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm)
 - no question regarding to ecig/tobacco policy
 
-
+### [Surveying Students about Emerging Tobacco Use: Rationale and Suggested Questions](http://makesmokinghistory.org/wp-content/uploads/2018/08/SurveyQuestionsForSchools2018.pdf)
+- no question regarding to ecig/tobacco policy
 
 
 
