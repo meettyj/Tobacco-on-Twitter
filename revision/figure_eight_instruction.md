@@ -1,3 +1,4 @@
+## Paragraph to put in Overleaf
 We showed each annotator 10 tweets per page and paid 1 US Cents per tweet. To ensure quality, we used 41 test questions and each contributor are required to take at least 10 test questions. When contributors failed too many test questions, they are labeled untrusted contributors and their judements are removed. Min. 70% of agreement are required by each annotator to become trusted contributor.
 
 ## Figure eight questions
