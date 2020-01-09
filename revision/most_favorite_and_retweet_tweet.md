@@ -7,7 +7,7 @@
 
 ## Conclusion
 - Here are tweets with most favorites and retweets.
-- Format is (favorites, retweets, tweet). For example, (5, 0, 'My Vape Pen is Missing') indicate this tweet receive 5 favorites and 0 retweets.
+- **Format is (favorites, retweets, tweet)**. For example, (5, 0, 'My Vape Pen is Missing') indicate this tweet receive 5 favorites and 0 retweets.
 - Our data still have some false positive. For example, "The Swisher boys" in [first section](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#1-positive-sentiment-on-e-cig) come from ecig keyword "e swisher". "cancer" in [third section](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/most_favorite_and_retweet_tweet.md#3-negative-sentiment-on-tobacco) may because of the tobacco classifier.
 
 ## 1. Positive sentiment on e-cig
