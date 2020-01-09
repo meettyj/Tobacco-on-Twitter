@@ -1,16 +1,43 @@
 
 We are trying to find out if any survey asking people's attitude towards ecig/tobacco **policy**
 
-## [1. National Youth Tobacco survey 2019](https://www.cdc.gov/tobacco/data_statistics/surveys/nyts/data/index.html)
+## 1. Conclusion
+- Schools have surveys towards ecig/tobacco policies within their school. For example, CUNY and University of Delaware
+- 
+
+
+## 2. Surveys asking about policy
+### [CITY UNIVERSITY OF NEW YORK - Tobacco Free Policy Survey](https://system.suny.edu/media/suny/content-assets/documents/healthaffairs/tobaccofree/CUNY-Tobacco-Policy-Survey.pdf)
+- to assess the efficacy of CUNY's Tobacco Free Policy and the support of the policy among students, faculty and staff
+- CUNY prohibited the use of tobacco on September 4, 2012
+
+### [University of Delaware - Tobacco-Free Campus Survey](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/05/Tobacco-Free-Campus-Survey-Results-1kirm5z.pdf)
+
+### [University of Colorado - public surveys for others using](https://www.bhwellness.org/resources/surveys/tobaccofree)
+- have several surveys designed to assist organizations that are planning to or are in the process of implementing tobacco-free policies.
+
+### [Tobacco Control-Related Policy Survey in Hongkong](https://clinicaltrials.gov/ct2/show/NCT03182764)
+-  to collect information on issues related to tobacco control in Hong Kong
+- Sponsored by The University of Hong Kong
+
+
+## 3. Surveys that have no questions to policy
+### [National Youth Tobacco survey 2019](https://www.cdc.gov/tobacco/data_statistics/surveys/nyts/data/index.html)
 - no question regarding to policy
 - mainly asking question about attitude towards ecig/tobacco products
 - question 42 asked the reason of using ecig
 
-## [Monitoring the Future: A Continuing Study of American Youth (12th-Grade Survey), 2018 (ICPSR 37416)](https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/37416)
+### [Monitoring the Future: A Continuing Study of American Youth (12th-Grade Survey), 2018 (ICPSR 37416)](https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/37416)
 - no question regarding to ecig/tobacco policy
 
-## [Population Assessment of Tobacco and Health (PATH) Study (ICPSR 36498)](https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36498/summary)
+### [Population Assessment of Tobacco and Health (PATH) Study (ICPSR 36498)](https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36498/summary)
 - no question regarding to ecig/tobacco policy
+
+### [Tobacco Questions for Surveys](https://www.who.int/tobacco/surveillance/en_tfi_tqs.pdf)
+- no question regarding to ecig/tobacco policy
+
+
+
 
 
 
