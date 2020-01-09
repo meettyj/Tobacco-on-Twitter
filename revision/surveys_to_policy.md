@@ -3,9 +3,9 @@ We are trying to find out if any survey asking people's attitude towards **ecig/
 
 ## 1. Conclusion
 - It seems we could not find any survey asking people's **attitude** towards "no flavor ecig" policy.
-- We can find some national surveys asking the **existence** of tobacco-free policy. For example, SHPPS and NSDUH.
-- Schools have surveys about the ecig/tobacco policies within their school. For example, CUNY, University of Delaware, and SHPPS.
-- Some place have surveys asking people's **attitude** towards ecig/tobacco policy. For example, Hongkong, Saint Paul City, NYC, and US.
+- We can find some national surveys asking the **existence** of tobacco-free policy. For example, [SHPPS](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#2016-school-health-policies-and-practices-study-shpps) and [NSDUH](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#2019-national-survey-on-drug-use-and-health-nsduh).
+- Schools have surveys about the tobacco-free policy within their school. For example, [CUNY](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#city-university-of-new-york-cuny), [University of Delaware](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#university-of-delaware), and [SHPPS](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#2016-school-health-policies-and-practices-study-shpps).
+- Some place have surveys asking people's **attitude** towards ecig/tobacco policy. For example, [Hongkong](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#hongkong-tobacco-control-related-policy-survey-in-hongkong), [Saint Paul City](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#saint-paul-city-restricting-the-sale-of-flavored-tobacco-products-to-adult-only-tobacco-shops), [NYC](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#nyc-2013-paper-public-opinions-on-tax-and-retail-based-tobacco-control-strategies), and [US](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/revision/surveys_to_policy.md#us-raising-the-minimum-age-to-purchase-tobacco).
 
 ## 2. surveys in San Francisco asking about policy
 ### [Other policy: evaluation of California’s ‘Tobacco 21’ law](https://tobaccocontrol.bmj.com/content/27/6/656)
