@@ -29,3 +29,9 @@ Strongly Suggest using [Anaconda](https://docs.anaconda.com/anaconda/install/) t
   $ jupyter --version
   4.2.0
   ```
+
+## Citation
+Conference preprint coming soon.
+
+
+
