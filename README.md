@@ -8,13 +8,26 @@ This repo contains two part:
 Relevant directories:
 - Analysis: analysis of the first stage of our research ideas
 - bkResearchCluster: data preprocessing in the brooklyn research cluster
+- google_drive: data processing from google drive
+- juliana: primary directory, including data processing, figure and table generation, regression, qualitative checking and sentiment analysis for the data from juliana group
+- prince: data preprocessing in the server "prince"
+- reddit: everying relevant to reddit data
+- result: detailed record and explanation of the results
+- twitter: preprocessing of the Twitter API data
 - 
 
 
 # 2. Exetension of previous work
 Relevant directories:
 - classification: past classification work
-- 
+- evaluation: metric for the classification
+- level_alcohol: classification models in the level of alcohol
+- level_behavior: classification models in the level of behavior
+- level_firstPerson: classification models in the level of first person
+- pipelines: pipeline for the classification procedure
+- preprocessing: code for previous preprocessing
+- scripts: gridsearch of the parameters in the models
+- tokenize: used in data preprocessing
 
 
 ## Environment Requirement
