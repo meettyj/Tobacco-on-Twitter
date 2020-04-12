@@ -1,7 +1,3 @@
-# TODO
-- Read "HPV" paper and UCWSM paper.
-- Please see Overleaf for more detail.
-
 
 # Done
 - 90-10 train-test set division
