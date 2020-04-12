@@ -1,6 +1,21 @@
 # Alcohol-on-Twitter
 
-Exetension of previous work: [jxnl/nyu-twipsy](https://github.com/jxnl/nyu-twipsy) and [tj2huang/nyu-research](https://github.com/tj2huang/nyu-research)
+This repo contains two part:
+1. Code for paper "[Quasi-experimental Designs for Assessing Response on Social Media to Policy Changes](https://arxiv.org/abs/2003.13783)" accepted at ICWSM 2020.
+2. Exetension of previous work: [jxnl/nyu-twipsy](https://github.com/jxnl/nyu-twipsy) and [tj2huang/nyu-research](https://github.com/tj2huang/nyu-research)
+
+# 1. Code for paper
+Relevant directories:
+- Analysis: analysis of the first stage of our research ideas
+- bkResearchCluster: data preprocessing in the brooklyn research cluster
+- 
+
+
+# 2. Exetension of previous work
+Relevant directories:
+- classification: past classification work
+- 
+
 
 ## Environment Requirement
 
