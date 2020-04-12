@@ -1,11 +1,10 @@
-# Alcohol-on-Twitter
+# Tobacco-on-Twitter
 
-This repo contains two part:
-1. Code for paper "[Quasi-experimental Designs for Assessing Response on Social Media to Policy Changes](https://arxiv.org/abs/2003.13783)" accepted at ICWSM 2020.
-2. Exetension of previous work: [jxnl/nyu-twipsy](https://github.com/jxnl/nyu-twipsy) and [tj2huang/nyu-research](https://github.com/tj2huang/nyu-research)
+This repository contains source code for ICWSM 2020 paper: 
 
-# 1. Code for paper
-Relevant directories:
+[Quasi-experimental Designs for Assessing Response on Social Media to Policy Changes](https://arxiv.org/abs/2003.13783)
+
+## Directories Explanation
 - Analysis: analysis of the first stage of our research ideas
 - bkResearchCluster: data preprocessing in the brooklyn research cluster
 - google_drive: data processing from google drive
@@ -14,25 +13,12 @@ Relevant directories:
 - reddit: everying relevant to reddit data
 - result: detailed record and explanation of the results
 - twitter: preprocessing of the Twitter API data
-- 
-
-
-# 2. Exetension of previous work
-Relevant directories:
-- classification: past classification work
-- evaluation: metric for the classification
-- level_alcohol: classification models in the level of alcohol
-- level_behavior: classification models in the level of behavior
-- level_firstPerson: classification models in the level of first person
-- pipelines: pipeline for the classification procedure
-- preprocessing: code for previous preprocessing
-- scripts: gridsearch of the parameters in the models
-- tokenize: used in data preprocessing
+- tobaocco: extraction of relevant tobacco data
 
 
 ## Environment Requirement
 
-Strongly Suggest using [Anaconda](https://docs.anaconda.com/anaconda/install/) to configure your environment.
+Strongly Suggest using [Anaconda](https://docs.anaconda.com/anaconda/install/) to configure your environment. Each required package is indicate in front of the code. Simple requirement examples are 
 - Python 3
   - `pandas` >= 0.18
   - `numpy` >= 1.11
@@ -43,30 +29,3 @@ Strongly Suggest using [Anaconda](https://docs.anaconda.com/anaconda/install/) t
   $ jupyter --version
   4.2.0
   ```
-For those who are sick of constantly installing specific versions of packages, complete environment information that supports all of the experiments can be found in [environment.yml](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/environment.yml). You can simply create the exactly same environment by following the instruction of [Creating an environment from an environment.yml file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
-
-
-## Test your setup
-```
-import pandas
-import numpy as np
-import sklearn
-
-for module in (pandas, np, sklearn):
-    print(module.__name__, module.__version__)
-```
-E.g., on my computer, I see:
-```
-pandas 0.23.0
-numpy 1.16.3
-sklearn 0.17
-```
-
-## How to run
-Directories start with `'level_'` contain the related code of classifiers within different level. Follow the [jupyter instruction](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) to run notebook and open the one you are interested.
-
-## Classifiers
-The structure of classfiers can be seen in [compareStructure.md](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/compareStructure.md). If you want to check it yourself, make sure you are in the latest version of sklearn (e.g. 0.21 works well currently). sklearn 0.17 doesn't support complete structure visualization.
-
-## Records
-Specific information can be seen in [log.md](https://github.com/meettyj/Alcohol-on-Twitter/blob/master/log.md)
