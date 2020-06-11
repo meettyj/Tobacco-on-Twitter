@@ -1,8 +1,8 @@
 # Tobacco-on-Twitter
 
-This repository contains source code for ICWSM 2020 paper: 
+This repository contains source code for ICWSM 2020 Spotlight paper: 
 
-[Quasi-experimental Designs for Assessing Response on Social Media to Policy Changes](https://arxiv.org/abs/2003.13783)
+[Quasi-experimental Designs for Assessing Response on Social Media to Policy Changes](https://aaai.org/ojs/index.php/ICWSM/article/view/7333)
 
 ## Directories Explanation
 - Analysis: analysis of the first stage of our research ideas
@@ -31,7 +31,9 @@ Strongly Suggest using [Anaconda](https://docs.anaconda.com/anaconda/install/) t
   ```
 
 ## Citation
-Conference preprint coming soon.
+
+Tian, Y., & Chunara, R. (2020). Quasi-Experimental Designs for Assessing Response on Social Media to Policy Changes. Proceedings of the International AAAI Conference on Web and Social Media, 14(1), 671-682. Retrieved from https://aaai.org/ojs/index.php/ICWSM/article/view/7333
+
 
 
 
